@@ -1,0 +1,2582 @@
+{
+  "book": "Mpitsara",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Ary taorian' ny fahafatesan' i Josoa, dia izao no niseho, nanontany an' i Jehovah ny Zanak' Isiraely ka nanao hoe: Iza no hiakatra voalohany hiady amin' ny Kananita ho anay?"
+        },
+        {
+          "v": 2,
+          "text": "\"Dia hoy Jehovah: Joda no hiakatra; indro, efa nanolotra ny tany ho eo an-tanany Aho.\""
+        },
+        {
+          "v": 3,
+          "text": "\"Ary hoy Joda tamin' i Simeona rahalahiny: Andeha hiara-miakatra amiko ianao ho any amin' ny anjarako, ka aoka isika hiady amin' ny Kananita; ary izaho kosa dia handeha hiaraka aminao ho any amin' ny anjaranao. Ary Simeona dia nandeha niaraka taminy.\""
+        },
+        {
+          "v": 4,
+          "text": "Dia niakatra Joda, ary natolotr' i Jehovah teo an-tanany ny Kananita sy ny Perizita, ka nahafaty iray alin-dahy tany Bezeka izy."
+        },
+        {
+          "v": 5,
+          "text": "Ary nahita an' i Adoni-bezeka tany Bezeka izy, dia niady taminy ka namono ny Kananita sy ny Perizita izy ireo."
+        },
+        {
+          "v": 6,
+          "text": "\"Nefa nandositra Adoni-bezeka; ary nanenjika azy izy ireo ka nisambotra azy, dia nanapaka ny ankihiben-tanany sy ny ankihiben-tongony.\""
+        },
+        {
+          "v": 7,
+          "text": "\"Ary hoy Adoni-bezeka: Mpanjaka fitopolo voatapaka ny ankihiben-tanany sy ny ankihiben-tongony no nitsindroka hanina teo ambanin' ny latabatro; ka mba tahaka ny nataoko ihany lahy ity no navalin' Andriamanitra ahy! Ary nentin' ireo ho any Jerosalema izy ka maty tany.\""
+        },
+        {
+          "v": 8,
+          "text": "Ary niady tamin' i Jerosalema ny taranak' i Joda, dia nahazo azy, ka namono azy tamin' ny lelan-tsabatra sy nandoro ny tanàna."
+        },
+        {
+          "v": 9,
+          "text": "Ary rehefa afaka izany, dia nidina ny taranak' i Joda hiady amin' ny Kananita izay nonina tany an-tendrombohitra sy tany atsimo ary tany an-dohasaha."
+        },
+        {
+          "v": 10,
+          "text": "Dia nandeha Joda hiady amin' ny Kananita, izay nonina tany Hebrona (Kiriata-arba no anaran' i Hebrona taloha), ka namono an' i Sesay sy Ahimana ary Talmay izy ireo."
+        },
+        {
+          "v": 11,
+          "text": "Dia niala tao izy ka nandeha hiady amin' ny mponina any Debira (Kiriata-sefera no anaran' i Debira taloha)."
+        },
+        {
+          "v": 12,
+          "text": "Ary hoy Kaleba: Izay mamely an' i Kiriata-sefera ka mahafaka azy dia homeko azy i Aksa zanako vavy ho vadiny."
+        },
+        {
+          "v": 13,
+          "text": "\"Ary Otniela, zanakalahin' i Kenaza, zandrin' i Kaleba, no nahafaka azy; ka dia nomeny azy Aksa zanany vavy ho vadiny.\""
+        },
+        {
+          "v": 14,
+          "text": "\"Ary izao no niseho, rehefa voampakatra ravehivavy, dia nanetsika azy ny lahy hangataka saha tamin-drainy; dia niala faingana tamin' ny boriky ravehivavy, ka hoy Kaleba taminy: Inona moa no ilainao?\""
+        },
+        {
+          "v": 15,
+          "text": "\"Ary hoy izy taminy: Omeo tsodrano aho; fa ny tany atsimo no nomenao ahy; ka mba omeo loharano koa aho. Ka dia nomen' i Kaleba azy ny loharano ambony sy ny loharano ambany.\""
+        },
+        {
+          "v": 16,
+          "text": "\"Ary ny taranak' ilay Kenita rafozandahin' i Mosesy dia niara-niakatra tamin' ny taranak' i Joda, niala tamin' ny tanàna be palma hankany an' efitr' i Joda, izay eo atsimon' i Arada; dia nandeha ireo ka nonina teo amin' ny vahoaka.\""
+        },
+        {
+          "v": 17,
+          "text": "Ary nandeha niaraka tamin' i Simeona rahalahiny i Joda, dia namely ny Kananita, izay nonina tany Zarefata, ka nataony ringana tokoa ireo, ary nataony hoe Horma ny anaran' ny tanàna."
+        },
+        {
+          "v": 18,
+          "text": "Dia azon' i Joda koa Gaza mbamin' ny sisin-taniny ary Askelona mbamin' ny sisin-taniny ary Ekrona mbamin' ny sisin-taniny."
+        },
+        {
+          "v": 19,
+          "text": "\"Ary Jehovah nomba an' i Joda, ka dia noroahiny ny mponina tany an-tendrombohitra; nefa tsy naharoaka ny mponina teny an-dohasaha izy, satria nanana kalesy vy ireny.\""
+        },
+        {
+          "v": 20,
+          "text": "Ary Hebrona dia nomeny an' i Kaleba araka izay nolazain' i Mosesy, ka noroahin' i Kaleba niala tao izy telo lahy taranak' i Anaka."
+        },
+        {
+          "v": 21,
+          "text": "\"Ary ny taranak' i Benjamina tsy nandroaka ny Jebosita izay mponina any Jerosalema; fa ny Jebosita dia miara-monina amin' ny taranak' i Benjamina any Jerosalema ihany mandraka androany.\""
+        },
+        {
+          "v": 22,
+          "text": "\"Ary ny taranak' i Josefa koa dia niakatra hamely an' i Betela; ary Jehovah nomba azy,\""
+        },
+        {
+          "v": 23,
+          "text": "\"Dia naniraka hisafo an' i Betela ny taranak' i Josefa (Lozy no anaran' ny tanàna taloha);\""
+        },
+        {
+          "v": 24,
+          "text": "Ary nahita lehilahy anankiray nivoaka avy tao an-tanàna ny mpisafo ka nanao taminy hoe: Masìna ianao, atoroy anay ny fidirana mankao an-tanàna, dia hamindra fo aminao izahay."
+        },
+        {
+          "v": 25,
+          "text": "\"Ary rehefa natoron-dralehilahy azy ny fidirana mankao an-tanàna, dia novonoiny tamin' ny lelan-tsabatra ny tanàna; fa ralehilahy sy ny mpianakaviny rehetra kosa navelany handeha.\""
+        },
+        {
+          "v": 26,
+          "text": "Ary nandeha ho any amin' ny tanin' ny Hetita ralehilahy, ka nanorina tanàna izy, ary ny anarany nataony hoe Lozy, ary mbola izany ihany no anarany mandraka androany."
+        },
+        {
+          "v": 27,
+          "text": "Ary Manase koa tsy naharoaka ny mponin' i Beti-sana sy ny zana-bohiny, na i Tanaka sy ny zana-bohiny, na ny mponina tany Dora sy ny zana-bohiny, na ny mponina tany Ibleama sy ny zana-bohiny, na ny mponina tany Megido sy ny zana-bohiny, fa tian' ny Kananita hitoerana izany tany izany."
+        },
+        {
+          "v": 28,
+          "text": "Ary izao no niseho, rehefa nihanahery kosa ny Isiraely, dia nampandoaviny hetra ny Kananita, fa tsy nandroaka azy rehetra izy."
+        },
+        {
+          "v": 29,
+          "text": "\"Ary Efraima tsy nandroaka ny Kananita, izay nonina tany Gazera; fa nonina teo aminy tany Gazera ny Kananita.\""
+        },
+        {
+          "v": 30,
+          "text": "\"Zebolona tsy nandroaka ny mponina tany Kitrona, na ny mponina tany Nahalola; fa nonina teo aminy ny Kananita ka nanjary nandoa hetra.\""
+        },
+        {
+          "v": 31,
+          "text": "\"Asera tsy nandroaka ny mponina tany Ako, na ny mponina tany Sidona, na ny tany Alaba, na ny tany Akziba, na ny tany Helba, na ny tany Afika, na ny tany Rehoba;\""
+        },
+        {
+          "v": 32,
+          "text": "Fa nonina tao amin' ny Kananita tompon-tany ny taranak' i Asera, fa tsy nandroaka azy."
+        },
+        {
+          "v": 33,
+          "text": "Naftaly tsy nandroaka ny mponina tany Beti-semesy, na ny mponina tany Beti-anata, fa nonina teo amin' ny Kananita tompon-tany izy, kanefa nandoa hetra taminy ny mponina tany Beti-semesy sy Beti-anata."
+        },
+        {
+          "v": 34,
+          "text": "Ary ny Amorita nanesika ny taranak' i Dana ho any an-tendrombohitra, fa tsy namela azy hidina ho any an-dohasaha,"
+        },
+        {
+          "v": 35,
+          "text": "\"Fa tian' ny Amorita hitoerana ny tendrombohitra Heresa any Aialona sy any Salbima; nefa nahery ny tanan' ny taranak' i Josefa, ka dia tonga mpandoa hetra ireo.\""
+        },
+        {
+          "v": 36,
+          "text": "Ary ny faritanin' ny Amorita dia hatramin' ny fiakarana Akrabima ka hatramin' ilay harambato no ho miakatra."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Ary Ilay Anjelin' i Jehovah niakatra avy tany Gilgala ka nankany Bokima, dia nanao hoe: Nitondra anareo niakatra avy tany Egypta Aho, ka nampiditra anareo eto amin' ny tany izay nianianako tamin' ny razanareo, ka hoy Aho: Tsy hanatsoaka ny fanekeko aminareo Aho mandrakizay."
+        },
+        {
+          "v": 2,
+          "text": "\"Koa aza manao fanekena amin' ny mponina amin' ity tany ity ianareo, fa ravao ny alitarany; kanefa tsy nankatò ny feoko ianareo; koa nahoana ianareo no nanao izao?\""
+        },
+        {
+          "v": 3,
+          "text": "\"Ary hoy Aho indray: Tsy handroaka azy eo anoloanareo Aho; fa ho tsilo eo amin' ny tehezanareo sy ho fandrika aminareo ny andriamaniny.\""
+        },
+        {
+          "v": 4,
+          "text": "Ary izao no niseho, rehefa nilaza izany teny izany tamin' ny Zanak' Isiraely rehetra Ilay Anjelin' i Jehovah, dia nanandratra ny feony ny vahoaka ka nitomany."
+        },
+        {
+          "v": 5,
+          "text": "\"Ary ny anaran' izany toerana izany dia nataony hoe: Bokima; ary nanao fanatitra ho an' i Jehovah teo ireo.\""
+        },
+        {
+          "v": 6,
+          "text": "Ary rehefa nampodin' i Josoa ny vahoaka, dia nandeha ho any amin' ny lovany avy ny Zanak' Isiraely rehetra hahazo ny tany."
+        },
+        {
+          "v": 7,
+          "text": "Ary nanompo an' i Jehovah ny vahoaka tamin' ny andro rehetra niainan' i Josoa sy tamin' ny andro rehetra niainan' ny loholona izay velona taorian' i Josoa, dia ireo izay efa nahita ny asa lehibe rehetra nataon' i Jehovah ho an' ny Isiraely."
+        },
+        {
+          "v": 8,
+          "text": "Ary maty Josoa, zanak' i Nona, mpanompon' i Jehovah, rehefa folo amby zato taona."
+        },
+        {
+          "v": 9,
+          "text": "Dia naleviny tao anatin' ny faritanin' ny lovany izy, dia tao Timnata-heresa, tany amin' ny tendrombohitr' i Efraima, avaratry ny havoan' i Gasa."
+        },
+        {
+          "v": 10,
+          "text": "\"Ary izany taranaka rehetra izany koa dia voangona any amin' ny razany; ary taranaka hafa, izay tsy nahalala an' i Jehovah na ny asa efa nataony ho an' ny Isiraely no nitsangana nandimby azy.\""
+        },
+        {
+          "v": 11,
+          "text": "Ary nanao izay ratsy teo imason' i Jehovah ny Zanak' Isiraely, ka nanompo ireo Bala."
+        },
+        {
+          "v": 12,
+          "text": "Ary izy ireo nahafoy an' i Jehovah, Andriamanitry ny razany, Izay nitondra azy nivoaka avy tany amin' ny tany Egypta, ka nanaraka andriamani-kafa amin' ny andriamanitry ny firenena manodidina azy, dia niankohoka teo anatrehany ka nampahatezitra an' i Jehovah."
+        },
+        {
+          "v": 13,
+          "text": "Dia nahafoy an' i Jehovah izy ka nanompo an' i Bala sy Astarta."
+        },
+        {
+          "v": 14,
+          "text": "Dia nirehitra tamin' ny Isiraely ny fahatezeran' i Jehovah, ka natolony teo an-tanan' ny mpamabo izay namabo azy izy, ary namidiny ho eo an-tanan' ny fahavalony manodidina azy ka tsy nahajanona teo anoloan' ny fahavalony intsony."
+        },
+        {
+          "v": 15,
+          "text": "\"Na taiza na taiza nivoahany, dia namely azy ny tanan' i Jehovah ka nampahory azy, araka izay efa nianianany taminy; ka dia ory indrindra izy.\""
+        },
+        {
+          "v": 16,
+          "text": "Kanefa Jehovah nanangana mpitsara izay nanafaka azy tamin' ny tanan' ireo namabo azy."
+        },
+        {
+          "v": 17,
+          "text": "\"Fa na dia ny mpitsara azy aza dia tsy mba nohenoiny, fa nandeha nijangajanga nanaraka andriamani-kafa izy ka niankohoka teo anatrehany; nivily faingana niala tamin' ny lalana izay nandehanan' ny razany nanaraka ny didin' i Jehovah izy, fa tsy mba nanaraka izany.\""
+        },
+        {
+          "v": 18,
+          "text": "Ary rehefa nanangana mpitsara ho azy Jehovah, dia nomba ny mpitsara Jehovah ka nanafaka azy tamin' ny tanan' ny fahavalony tamin' ny andro rehetra niainan' ny mpitsara, fa nalahelo azy Jehovah tamin' ny fitarainany noho ireo nampahory sy nampalahelo azy."
+        },
+        {
+          "v": 19,
+          "text": "\"Ary izao no niseho, rehefa maty ny mpitsara, dia niverina nanao ratsy indray izy mihoatra noho ny razany, fa nanaraka andriamani-kafa sy nanompo azy ary niankohoka teo anatrehany; tsy nitsahatra tamin' ny fanaony, na tamin' ny lalana nanaovany ditra izy.\""
+        },
+        {
+          "v": 20,
+          "text": "Dia nirehitra tamin' ny Isiraely ny fahatezeran' i Jehovah, ka hoy Izy: Satria nivadika ny fanekeko izay nandidiako ny razany ity firenena ity ka tsy nihaino ny feoko,"
+        },
+        {
+          "v": 21,
+          "text": "Dia tsy handroaka olona eo anoloany intsony koa Aho amin' ny firenena izay sisa navelan' i Josoa tamin' ny nahafatesany,"
+        },
+        {
+          "v": 22,
+          "text": "Mba hizahako toetra ny Isiraely amin' ireny, na hitandrina ny lalan' i Jehovah ka handeha amin' izany izy, na tsia."
+        },
+        {
+          "v": 23,
+          "text": "\"Dia navelan' i Jehovah ireny firenena ireny ka tsy noroahiny faingana; sady tsy natolony teo an-tanan' i Josoa ireny.\""
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Koa ireto no firenena navelan' i Jehovah hoentiny mizaha toetra ny Isiraely amin' ny alalany, dia izay Isiraely rehetra tsy mba nahalala ny ady rehetra tany Kanana,"
+        },
+        {
+          "v": 2,
+          "text": "Mba ho fantatry ny taranaky ny Zanak' Isiraely izany amin' ny fampianarany azy hiady, indrindra fa izay tsy mbola nahalala izany akory teo aloha:"
+        },
+        {
+          "v": 3,
+          "text": "Dia ireo andriana dimy tamin' ny Filistina sy ny Kananita rehetra sy ny Sidoniana ary ny Hivita, izay nonina tany an-tendrombohitra Libanona, hatrao akaikin' i Bala-hermona ka hatramin' ny fidirana mankany Hamata."
+        },
+        {
+          "v": 4,
+          "text": "Ary nentina nizaha toetra ny Isiraely ireo mba hahalalana na hihaino ny didin' i Jehovah, izay nasainy nandidian' i Mosesy ny razany izy, na tsia."
+        },
+        {
+          "v": 5,
+          "text": "Ary ny Zanak' Isiraely nonina teo amin' ny Kananita sy ny Hetita sy ny Amorita sy ny Perizita sy ny Hivita ary ny Jebosita."
+        },
+        {
+          "v": 6,
+          "text": "Ary naka ny zanakavavin' ireny ho vadiny izy sady nanome ny zanany vavy ho vadin' ny zanakalahin' ireny ka nanompo ny andriamaniny."
+        },
+        {
+          "v": 7,
+          "text": "Ary nanao izay ratsy teo imason' i Jehovah ny Zanak' Isiraely ka nanadino an' i Jehovah Andriamaniny ary nanompo ireo Bala sy Aseraha."
+        },
+        {
+          "v": 8,
+          "text": "\"Dia nirehitra tamin' ny Isiraely ny fahatezeran' i Jehovah, ka nivarotra azy ho eo an-tanan' i Kosan-risataima, mpanjakan' i Mesopotamia Izy; dia nanompo an' i Kosan-risataima valo taona ny Zanak' Isiraely.\""
+        },
+        {
+          "v": 9,
+          "text": "Ary rehefa nitaraina tamin' i Jehovah ny Zanak' Isiraely, dia nanangana mpanafaka ho an' ny Zanak' Isiraely Jehovah, izay nanafaka azy ireo, dia Otniela, zanak' i Kenaza, zandrin' i Kaleba."
+        },
+        {
+          "v": 10,
+          "text": "\"Ary ny Fanahin' i Jehovah no tao aminy, dia nitsara ny Isiraely izy sady nivoaka niady; ary Kosan-risataima, mpanjakan' i Mesopotamia dia natolotr' i Jehovah teo an-tanany; ary nahery ny tanany ka namely an' i Kosan-risataima.\""
+        },
+        {
+          "v": 11,
+          "text": "Dia nandry efapolo taona ny tany. Ary maty Otniela, zanak' i Kenaza."
+        },
+        {
+          "v": 12,
+          "text": "Fa nanao izay ratsy teo imason' i Jehovah indray ny Zanak' Isiraely, ary Jehovah nampahery an' i Eglona, mpanjakan' i Moaba, hiady amin' ny Isiraely, satria nanao izay ratsy teo imason' i Jehovah izy."
+        },
+        {
+          "v": 13,
+          "text": "Dia nampiangona ny taranak' i Amona sy Amaleka ho any aminy izy, ary nandeha izy ireo ka namely ny Isiraely, dia nahafaka ny tanàna be palma."
+        },
+        {
+          "v": 14,
+          "text": "Dia nanompo an' i Eglona, mpanjakan' i Moaba valo ambin' ny folo taona ny Zanak' Isiraely."
+        },
+        {
+          "v": 15,
+          "text": "\"Fa rehefa nitaraina tamin' i Jehovah ny Zanak' Isiraely, dia nanangana mpanafaka ho azy Jehovah, dia Ehoda, zanak' i Gera, Benjamita, lehilahy kavia; dia nampitondra azy fanomezana ho an' i Eglona, mpanjakan' i Moaba ny Zanak' Isiraely.\""
+        },
+        {
+          "v": 16,
+          "text": "Fa nanao lefom-pohy izay roa lela Ehoda, hakiho ny halavany, dia nataony tao amin' ny fehikibony ambanin' ny akanjo fiadiany izany, teny am-balahany ankavanana."
+        },
+        {
+          "v": 17,
+          "text": "\"Dia nitondra ny fanomezana ho an' i Eglona, mpanjakan' i Moaba, izy; ary lehilahy matavibe Eglona.\""
+        },
+        {
+          "v": 18,
+          "text": "Ary rehefa vitany ny fanolorana ny fanomezana, dia nampodiny ny olona izay nitondra izany."
+        },
+        {
+          "v": 19,
+          "text": "\"Fa nony tonga teo amin' ny fihadiam-bato izay any Gilgala kosa izy, dia niverina ka nanao hoe: Misy teny holazaiko mangingina aminao, ry mpanjaka; dia hoy ny mpanjaka: Aoka hisy fahanginana; ary izay rehetra nitsangana teo anilany dia niala teo aminy.\""
+        },
+        {
+          "v": 20,
+          "text": "Ary Ehoda nanatona azy, raha nipetraka irery tao an' efitra fihatsiatsiahana amin' ny fahavaratra izy. Dia hoy Ehoda: Misy hafatra avy amin' Andriamanitra ho anao. Dia nitsangana niala tamin' ny fitoerany Eglona."
+        },
+        {
+          "v": 21,
+          "text": "\"Ary naninjitra ny tanany ankavia Ehoda ka nandray ilay lefom-pohy teny am-balahany ankavanana, dia natsatony tamin' ny kibon' i Eglona izany;\""
+        },
+        {
+          "v": 22,
+          "text": "Ary difotra mbamin' ny zarany, dia voasaron' ny taviny ny lefom-pohy ka dia tsy afa-nanatsoaka ny lefom-pohy tamin' ny kibony izy, dia nibororoaka ny maloto."
+        },
+        {
+          "v": 23,
+          "text": "Dia nivoaka teo amin' ny lavarangana Ehoda ka nandrindrina ny varavaran' ny trano ary nanidy azy tao."
+        },
+        {
+          "v": 24,
+          "text": "\"Ary rehefa nivoaka izy, dia tonga teo ny mpanompon' i Eglona; ary raha hitany fa, indro, voahidy ny varavaran' ny efitra fihatsiatsiahana dia hoy ireo: Miavela tokoa ao an-trano fihatsiatsiahana izy.\""
+        },
+        {
+          "v": 25,
+          "text": "\"Dia niandry mandra-pahaveri-heviny izy ireo, nefa, indro, tsy namoha ny varavaran' ny efitrano fihatsiatsiahana izy, koa naka fanalahidy izy ireo ka namoha azy; ary, indro, maty niampatra tamin' ny tany ny tompony.\""
+        },
+        {
+          "v": 26,
+          "text": "Fa Ehoda efa nandositra, raha mbola nitaredretra izy ireo, ka efa nihoatra ny fihadiam-bato, dia nandositra ho any Seirata."
+        },
+        {
+          "v": 27,
+          "text": "Ary izao no niseho, rehefa tonga izy, dia nitsoka anjomara tany an-tendrombohitr' i Efraima, dia nidina nanaraka azy avy any an-tendrombohitra ny Zanak' Isiraely, ary izy no nitarika azy."
+        },
+        {
+          "v": 28,
+          "text": "Ary hoy izy taminy: Manaraha ahy, fa efa natolotr' i Jehovah eo an-tananareo ny Moabita fahavalonareo. Dia nidina nanaraka azy ny olona, ka azony ny fitàna any Jordana hankany Moaba, ary tsy nisy navelany hita na dia iray akory aza."
+        },
+        {
+          "v": 29,
+          "text": "\"Dia namono ny Moabita tokony ho iray alin-dahy tamin' izany fotoana izany izy, dia olona matanjaka sy be herim-po izy rehetra; ary tsy nisy afa-nandositra na dia iray akory aza.\""
+        },
+        {
+          "v": 30,
+          "text": "Dia resin' ny tanan' ny Isiraely ny Moabita tamin' izany andro izany. Ary nandry valopolo taona ny tany."
+        },
+        {
+          "v": 31,
+          "text": "\"Ary nanarakaraka azy Samgara, zanak' i Anata, izay namono ny Filistina eninjato lahy tamin' ny fanindronan' omby; dia nanafaka ny Isiraely koa izy.\""
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Ary nanao izay ratsy indray teo imason' i Jehovah ny Zanak' Isiraely, rehefa maty Ehoda."
+        },
+        {
+          "v": 2,
+          "text": "Ary Jehovah nivarotra azy ho eo an-tanan' i Jabina, mpanjakan' i Kanana, izay nanjaka tany Hazora, ary Sisera, izay nonina tany Harosetan' ny Jentilisa, no komandin' ny miaramilany."
+        },
+        {
+          "v": 3,
+          "text": "\"Dia nitaraina tamin' i Jehovah ny Zanak' Isiraely; fa nanana kalesy vy sivinjato Jabina, ary nampahory fatratra ny Zanak' Isiraely roapolo taona izy.\""
+        },
+        {
+          "v": 4,
+          "text": "Ary Debora, mpaminanivavy, vadin' i Lapidota, no nitsara ny Isiraely tamin' izany fotoana izany."
+        },
+        {
+          "v": 5,
+          "text": "Ary nipetraka teo ambanin' ny hazo palman' i Debora izy, teo anelanelan' i Rama sy Betela tany an-tendrombohitr' i Efraima, ary niakatra ho any aminy ny Zanak' Isiraely mba hotsaraina."
+        },
+        {
+          "v": 6,
+          "text": "Ary naniraka niantso an' i Baraka, zanak' i Abinoama, tany Kadesi-naftaly i Debora, ka nanao hoe: Moa tsy efa nandidy va Jehovah, Andriamanitry ny Isiraely, nanao hoe: Mandehana ka mankanesa any an-tendrombohitr' i Tabara, ary mitondrà iray alin-dahy amin' ny taranak' i Naftaly sy Zebolona hiaraka aminao?"
+        },
+        {
+          "v": 7,
+          "text": "\"Dia hoentiko ho eo aminao, eo amin' ny ony Kisona i Sisera, komandin' ny miaramilan' i Jabina, mbamin' ny kalesiny sy ny vahoakany marobe; dia hanolotra azy eo an-tananao Aho.\""
+        },
+        {
+          "v": 8,
+          "text": "\"Ary hoy Baraka taminy: Raha handeha hiaraka amiko ianao, dia handeha aho; fa raha tsy handeha hiaraka amiko kosa ianao, dia tsy handeha aho.\""
+        },
+        {
+          "v": 9,
+          "text": "Ary hoy izy: handeha hiaraka aminao tokoa aho, kanefa tsy ho voninahitrao izao dia halehanao izao, satria ho eo an-tanam-behivavy no hivarotan' i Jehovah an' i Sisera. Dia niainga Debora ka nandeha niaraka tamin' i Baraka hankany Kadesy."
+        },
+        {
+          "v": 10,
+          "text": "\"Ary nantsoin' i Baraka ho any Kadesy ny Zebolona sy ny Naftaly; dia nisy iray alin-dahy niakatra nanaraka azy; ary Debora niara-niakatra taminy.\""
+        },
+        {
+          "v": 11,
+          "text": "Ary Hebera Kenita, izay avy amin' ny taranak' i Hobaba, rafozandahin' i Mosesy, dia efa nisaraka tamin' ny Kenita ka nanorina ny lainy teo amin' ny lemak' i Zananima izay eo anilan' i Kadesy."
+        },
+        {
+          "v": 12,
+          "text": "Ary nisy nilaza tamin' i Sisera fa Baraka, zanak' i Abinoama, niakatra any an-tendrombohitra Tabara."
+        },
+        {
+          "v": 13,
+          "text": "Dia nangonin' i Sisera ny kalesiny rehetra, dia kalesy vy sivinjato sy ny vahoaka rehetra izay niaraka taminy avy tany Harosetan' ny Jentilisa, hankany amin' ny ony Kisona."
+        },
+        {
+          "v": 14,
+          "text": "\"Ary hoy Debora tamin' i Baraka: Miakara, fa anio no andro efa nanoloran' i Jehovah an' i Sisera eo an-tananao; tsy mivoaka eo anoloanao va Jehovah? Dia nidina Baraka sy ny olona iray alin-dahy nanaraka azy, avy tany an-tendrombohitra Tabara.\""
+        },
+        {
+          "v": 15,
+          "text": "\"Dia nampifanaritahin' i Jehovah tamin' ny lelan-tsabatra teo anoloan' i Baraka i Sisera sy ny kalesiny rehetra ary ny miaramilany rehetra; dia nidina niala tamin' ny kalesy Sisera ka nandositra nandeha an-tongotra.\""
+        },
+        {
+          "v": 16,
+          "text": "\"Ary Baraka nanenjika nanaraka ny kalesy sy ny miaramila hatrany Harosetan' ny Jentilisa; dia lavon' ny lelan-tsabatra avokoa ny miaramilan' i Sisera rehetra ka tsy nisy niangana na dia iray akory aza.\""
+        },
+        {
+          "v": 17,
+          "text": "\"Ary Sisera nandositra an-tongotra ho any amin' ny lain' i Jaela, vadin' i Hebera Kenita; fa nihavana Jabina, mpanjakan' i Hazora sy ny mpianakavin' i Hebera Kenita.\""
+        },
+        {
+          "v": 18,
+          "text": "Dia nivoaka Jaela hitsena an' i Sisera ka nanao taminy hoe: Mivilia, tompokolahy, mivilia aty amiko, aza matahotra. Ary rehefa nivily ho ao aminy tao an-day izy, dia norakofany ny kapaoty."
+        },
+        {
+          "v": 19,
+          "text": "\"Dia hoy Sisera tamin-dravehivavy: Masìna ianao, omeo rano kely aho hosotroiko, fa mangetaheta aho. Dia nanokatra siny hoditra fitoeran-dronono izy ka nomeny hosotroiny; ary dia norakofany indray izy.\""
+        },
+        {
+          "v": 20,
+          "text": "Dia hoy indray izy tamin-dravehivavy: Mitsangàna eo am-baravaran' ny tranolay, ka raha tàhiny misy avy ka manontany anao hoe: Misy lehilahy va ato? dia ataovy hoe: Tsia."
+        },
+        {
+          "v": 21,
+          "text": "\"Dia naka tsima-day Jaela, vadin' i Hebera, sady nitondra tantanana teny an-tanany ka nitsaitsaika nankeo aminy; dia natsatony tamin' ny fihirifany ny tsima-day, ka nihatra tamin' ny tany; fa efa renoky ny torimaso Sisera, satria sasatra, ka dia maty izy.\""
+        },
+        {
+          "v": 22,
+          "text": "Ary nony, indro, avy i Baraka manenjika an' i Sisera, dia nivoaka hitsena azy i Jaela ka nanao taminy hoe: Avia aty, fa hasehoko anao ny lehilahy izay tadiavinao. Ary rehefa tonga tao amin' ny lainy izy, dia indro, ny fatin' i Sisera niampatra teo, ary ny tsima-day teo amin' ny fihirifany."
+        },
+        {
+          "v": 23,
+          "text": "Dia naetrin' Andriamanitra teo anoloan' ny Zanak' Isiraely tamin' izany andro izany i Jabina, mpanjakan' i Kanana."
+        },
+        {
+          "v": 24,
+          "text": "Ary ny tanan' ny Zanak' Isiraely dia nambinina, ka nahery tamin' i Jabina, mpanjakan' i Kanana, mandra-pandringany an' i Jabina, mpanjakan' i Kanana."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Ary Debora sy Baraka, zanak' i Abinoama, dia nihira tamin' izany andro izany ka nanao hoe:"
+        },
+        {
+          "v": 2,
+          "text": "Miderà an' i Jehovah, noho ny famaliany ny Isiraely rehefa nanolo-tena an-tsitrapo ny olona."
+        },
+        {
+          "v": 3,
+          "text": "\"Mandrenesa ianareo, ry mpanjaka, mihainoa ianareo, ry mpanapaka: Izaho, eny, izaho no hihira ho an' i Jehovah; hihira fiderana ho an' i Jehovah, Andriamanitry ny Isiraely aho.\""
+        },
+        {
+          "v": 4,
+          "text": "\"Jehovah ô, fony nivoaka avy tany Seïra Ianao ary nandeha avy tany amin' ny sahan' i Edoma, dia nihorohoro ny tany, ary ny lanitra nitete; eny, ny rahona koa nitete rano.\""
+        },
+        {
+          "v": 5,
+          "text": "Ny tendrombohitra niempo teo anatrehan' i Jehovah, eny, na dia iry Sinay iry aza teo anatrehan' i Jehovah, Andriamanitry ny Isiraely."
+        },
+        {
+          "v": 6,
+          "text": "Tamin' ny andron' i Samgara, zanak' i Anata sy tamin' ny andron' i Jaela, dia tsy nodiavina ny lalambe, fa ny sakeli-dalana mivilivily no nalehan' ny mpandeha."
+        },
+        {
+          "v": 7,
+          "text": "Lao ny mponina tany amin' ny zana-bohitra, eny, lao monina ny Isiraely, mandra-pitsangako, izaho Debora, eny, mandra-pitsangako ho reny teo amin' ny Isiraely."
+        },
+        {
+          "v": 8,
+          "text": "Nifidy andriamani-baovao ny olona, ary tamin' izay dia nisy ady hatreny am-bavahady. Moa nisy ampinga, na lefona na dia iray akory aza hita va teo amin' ny olona efatra alina tamin' ny Isiraely?"
+        },
+        {
+          "v": 9,
+          "text": "Ny foko mankasitraka ny mpanapaka amin' ny Isiraely, izay nanolo-tena an-tsitrapo teo amin' ny vahoaka. Miderà an' i Jehovah ianareo."
+        },
+        {
+          "v": 10,
+          "text": "Mitenena, ianareo izay mitaingina borikivavy fotsy, ianareo izay mipetraka eo amin' ny fitsarana sy mandeha amin' ny lalana."
+        },
+        {
+          "v": 11,
+          "text": "\"Ireo izay afaka tamin' ny tabataban' ny mpandefa zana-tsipìka eo amin' ny fantsakan-drano, eo no hiresahany ny asa marina ataon' i Jehovah, dia ny asa marina amin' ny mponin' ny zana-bohiny eo amin' ny Isiraely; amin' izany dia hidina ny olon' i Jehovah ho any am-bavahady.\""
+        },
+        {
+          "v": 12,
+          "text": "\"Mifohaza, mifohaza, ry Debora; Mitsangàna, ry Baraka; ka ento ny babonao, ry zanak' i Abinoama.\""
+        },
+        {
+          "v": 13,
+          "text": "\"Tamin' izany, izay sisa tavela dia nataony nanapaka ny olo-malaza tamin' ny vahoaka; Jehovah nanao ahy hanapaka ny mahery.\""
+        },
+        {
+          "v": 14,
+          "text": "\"Avy tamin' i Efraima dia nisy fototra taminy nanohitra an' i Amaleka, dia nomba anao teo amin' ny firenenao ny Benjamina; ary avy tamin' i Makira no nidinan' ny governora, ary avy tamin' i Zebolona ireo mitana ny penin' ny mpanoratra.\""
+        },
+        {
+          "v": 15,
+          "text": "\"Ary ny andrianan' Isakara niaraka tamin' i Debora, dia Isakara sy Baraka koa; nampandehaniny an-tongotra tany an-dohasaha izy. Lehibe ny fiheverana am-po tamin' ny fizarana teo amin' i Robena!\""
+        },
+        {
+          "v": 16,
+          "text": "Nahoana ianareo no mitoetra eo anelanelan' ny vala, hihaino ny fibarareoky ny ondry? Fa lehibe ny fiheverana am-po tamin' ny fizarana teo amin' i Robena!"
+        },
+        {
+          "v": 17,
+          "text": "\"Gileada nitoetra tany an-dafin' i Jordana; ary nahoana Dana no nitoetra tany an-tsambo? Asera nitoetra tany amoron-dranomasina, ary teny amin' ny fitodiany no nipetrahany.\""
+        },
+        {
+          "v": 18,
+          "text": "Zebolona sy Naftaly dia olona nanao vy very ny ainy, na dia ho faty aza, teo amin' ny fitoerana avo any an-tsaha."
+        },
+        {
+          "v": 19,
+          "text": "\"Tonga ireo mpanjaka ka niady, eny niady tao Tanaka ireo mpanjakan' i Kanana, dia teo anilan' ny ranon' i Megido; tsy nandray vola ho tombony izy.\""
+        },
+        {
+          "v": 20,
+          "text": "Avy any an-danitra no niadiany, ny kintana tamin' ny nalehany niady tamin' i Sisera."
+        },
+        {
+          "v": 21,
+          "text": "Ny ony Kisona nipaoka azy, ilay ony ela, dia ny ony Kisona. Efa nanitsakitsaka olo-mahery ianao, ry fanahiko!"
+        },
+        {
+          "v": 22,
+          "text": "Tamin' izany dia nikatrokatroka ny kitron-tsoavaly noho ny fihazakazaka, dia ny fihazakazaky ny mahery."
+        },
+        {
+          "v": 23,
+          "text": "Ozòny Meroza, hoy Ilay Anjelin' i Jehovah, ozòny dia ozòny ny mponina ao, satria tsy mba tonga hanampy an' i Jehovah izy, eny, tsy nanampy an' i Jehovah hamely ny mahery."
+        },
+        {
+          "v": 24,
+          "text": "\"Hotahiana mihoatra noho ny vehivavy anie i Jaela, vadin' i Hebera Kenita; eny, hotahiana mihoatra noho ny vehivavy mitoetra an-day anie izy.\""
+        },
+        {
+          "v": 25,
+          "text": "\"Rano no nangatahin-dralehilahy, fa ronono no nomeny azy; dibera no nentiny teo an-dovian' andriana.\""
+        },
+        {
+          "v": 26,
+          "text": "\"Ny tanany nandray ny tsima-day, ary ny tanany ankavanana nandray ny tantanan' ny mpiasa, dia namely an' i Sisera tamin' ny tantanana izy ka nahavoa ny lohany; namely mafy izy, dia nahaboroaka ny fihirifany.\""
+        },
+        {
+          "v": 27,
+          "text": "\"Teo amin' ny tongo-dravehivavy no niondrehany, nahalavoany, niamparany; eny, teo amin' ny tongony no niondrehany, nahalavoany; teo amin' izay niondrehany no niamparan' ny fatiny.\""
+        },
+        {
+          "v": 28,
+          "text": "Teo amin' ny varavarankely no nitazanan' ny renin' i Sisera ka niantsoantsoany teo amin' ny makarakara hoe: Nahoana no ela fiavy izato kalesiny? Nahoana no mitaredretra ny kodian' ny kalesiny?"
+        },
+        {
+          "v": 29,
+          "text": "Ny vehivahy hendry teo aminy no namaly azy, eny, ny tenany no namaly azy."
+        },
+        {
+          "v": 30,
+          "text": "Tsy efa mahita va izy? Tsy mizara babo va izy? Dia zazavavy iray na roa ho an' ny isan-dahy, ary lamba samihafa loko ho babon' i Sisera, lamba roa samihafa soratra ho eo am-bozon' ny nahazo babo."
+        },
+        {
+          "v": 31,
+          "text": "\"Ho levona tahaka izany anie ny fahavalonao rehetra, Jehovah ô; fa aoka izay tia Azy kosa ho tahaka ny masoandro, raha miposaka amin' ny heriny izy. Dia nandry efapolo taona ny tany.\""
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Ary nanao izay ratsy teo imason' i Jehovah ny Zanak' Isiraely ka dia natolotr' i Jehovah ho eo an-tanan' ny Midiana fito taona izy."
+        },
+        {
+          "v": 2,
+          "text": "Ary ny tanan' ny Midiana dia nahery tamin' ny Isiraely ka noho ny Midianita no nanamboaran' ny Zanak' Isiraely ireo fierena any an-tendrombohitra sy ireo zohy mbamin' ny fiarovana."
+        },
+        {
+          "v": 3,
+          "text": "Ary izao no zava-nisy, rehefa namafy voa ny Isiraely, dia avy ny Midianita sy ny Amalekita ary ny zanaky ny atsinanana ka niakatra hanafika azy."
+        },
+        {
+          "v": 4,
+          "text": "\"Dia nitoby tandrifiny ireny ka nanimba ny vokatry ny tany hatrany akaikin' i Gaza; ary tsy nisy zavatra navelany hiveloman' ny Isiraely, na ondry, na omby, na boriky.\""
+        },
+        {
+          "v": 5,
+          "text": "Fa niakatra izy nitondra ny biby fiompiny sy ny lainy, koa ny fiaviny dia tahaka ny valala ny hamaroany, ary tsy hita isa izy sy ny ramevany, dia niditra tao amin' ny tany izy handrava azy."
+        },
+        {
+          "v": 6,
+          "text": "Ary dia nahantra indrindra ny Isiraely noho ny Midianita, ka nitaraina tamin' i Jehovah izy."
+        },
+        {
+          "v": 7,
+          "text": "Ary izao no niseho, raha nitaraina tamin' i Jehovah ny Zanak' Isiraely noho ny Midianita,"
+        },
+        {
+          "v": 8,
+          "text": "Jehovah dia naniraka mpaminany anankiray ho any amin' ny Zanak' Isiraely, izay nilaza taminy hoe: Izao no lazain' i Jehovah Andriamanitry ny Isiraely: Izaho no nitondra anareo niakatra avy tany Egypta sady nitondra anareo nivoaka avy tany amin' ny trano nahandevozana,"
+        },
+        {
+          "v": 9,
+          "text": "Ary nanafaka anareo tamin' ny tanan' ny Egyptiana sy ny tanan' izay rehetra nampahory anareo, dia nandroaka ireny teo anoloanareo Aho, ka nomeko anareo ny taniny."
+        },
+        {
+          "v": 10,
+          "text": "\"Ary hoy Aho taminareo: Izaho no Jehovah Andriamanitrareo; aza matahotra ny andriamanitry ny Amorita, izay tompon' ny tany onenanareo; nefa tsy nankatò ny feoko ianareo.\""
+        },
+        {
+          "v": 11,
+          "text": "\"Dia nisy Anjelin' i Jehovah tonga ka nipetraka teo ambanin' ny hazo oaka tao Ofra, izay an' i Joasy Abiezrita; ary Gideona zanany nively varimbazaha teo anilan' ny famiazam-boaloboka mba hafeniny amin' ny Midianita.\""
+        },
+        {
+          "v": 12,
+          "text": "Ary Ilay Anjelin' i Jehovah niseho taminy ka nanao taminy hoe: Jehovah no momba anao, ry lehilahy mahery sy be herim-po."
+        },
+        {
+          "v": 13,
+          "text": "Fa hoy Gideona taminy: Indrisy, Tompoko, raha momba anay Jehovah, nahoana no ozoin' izao rehetra izao izahay? Ary aiza ny fahagagana rehetra nataony, izay nolazain' ny razanay taminay hoe: Tsy nitondra anay niakatra avy tany Egypta va Jehovah? Fa ankehitriny efa nahafoy anay Jehovah ka nanolotra anay eo an-tanan' ny Midianita."
+        },
+        {
+          "v": 14,
+          "text": "\"Dia nitodika nijery azy Jehovah ka nanao hoe: Mandehana amin' izao herinao izao, ka vonjeo ny Isiraely amin' ny tanan' ny Midianita; tsy efa naniraka anao va Aho?\""
+        },
+        {
+          "v": 15,
+          "text": "Fa hoy izy taminy: Indrisy, Tompoko, amin' ny fomba ahoana no hamonjeko ny Isiraely? Indro, ny mpianakaviko dia mahantra eo amin' ny Manase, ary izaho no kely indrindra amin' ny ankohonan' ny raiko."
+        },
+        {
+          "v": 16,
+          "text": "Dia hoy Jehovah taminy: Homba anao tokoa Aho, ka hamely ny Midianita toy ny famely olona iray ianao."
+        },
+        {
+          "v": 17,
+          "text": "Dia hoy izy taminy: Ankehitriny, raha mahita fitia eto imasonao ary aho, dia anehoy famantarana fa Ianao no miteny amiko."
+        },
+        {
+          "v": 18,
+          "text": "Masìna ianao, aza miala eto mandra-piaviko eto aminao hitondra ny fanomezako, ka hapetrako eto anatrehanao. Dia hoy Izy: Hiandry Aho mandra-piverinao."
+        },
+        {
+          "v": 19,
+          "text": "Ary lasa niditra Gideona ka namboatra zanak' osy sy mofo tsy misy lalivay tamin' ny koba iray efaha, ka ny hena nataony tao anatin' ny harona, ary ny ron-kena nataony tao anatin' ny vilany, dia nentiny ho eo aminy teo ivelany teo ambanin' ilay hazo oaka izany ka natolony Azy."
+        },
+        {
+          "v": 20,
+          "text": "Ary hoy Ilay Anjelin' Andriamanitra taminy: Raiso ny hena sy ny mofo tsy misy lalivay, ka apetraho eo ambonin' ity harambato ity, ary aidino ny ron-kena. dia nataony izany."
+        },
+        {
+          "v": 21,
+          "text": "\"Ary naroson' Ilay Anjelin' i Jehovah ny lohan' ny tehina izay teny an-tanany ka notendreny ny hena sy ny mofo tsy misy lalivay; dia nisy afo nivoaka avy tamin' ny vatolampy ka nandevona ny hena sy ny mofo tsy misy lalivay. Ary Ilay Anjelin' i Jehovah dia lasa niala teo imasony.\""
+        },
+        {
+          "v": 22,
+          "text": "Ary rehefa hitan' i Gideona fa Anjelin' i Jehovah Izy, dia hoy Gideona: Adray! Jehovah Tompo ô! fa efa nahita Ilay Anjelin' i Jehovah nifanatrika aho."
+        },
+        {
+          "v": 23,
+          "text": "\"Fa hoy Jehovah taminy: Fiadanana anie ho anao; aza matahotra; tsy ho faty ianao tsy akory.\""
+        },
+        {
+          "v": 24,
+          "text": "\"Ary Gideona nanorina alitara teo ho an' i Jehovah, ary ny anarany nataony hoe: Jehovah-saloma; mbola ao Ofran' ny Abiezrita izany mandraka androany.\""
+        },
+        {
+          "v": 25,
+          "text": "\"Ary izao no niseho tamin' izany alina izany, dia hoy Jehovah taminy: Alao ny ombilahin-drainao, dia ilay ombilahy faharoa, izay efa fito taona, ka ravao ny alitaran' i Bala, izay an' ny rainao, ary kapao ny Aseraha eo anilany;\""
+        },
+        {
+          "v": 26,
+          "text": "Dia manorena alitara ho an' i Jehovah Andriamanitrao eto an-tampon' ity harambato ity, eo amin' ny toerana voatendry, ary alao ilay ombilahy faharoa, ka atero ho fanatitra dorana amin' ny hazon' ny Aseraha izay hokapainao."
+        },
+        {
+          "v": 27,
+          "text": "\"Ary naka folo lahy tamin' ny mpanompony Gideona ka nanao araka izay efa nolazain' i Jehovah taminy; ary izao no zava-nisy, satria natahotra ny mpianakavin-drainy sy ny lehilahy tao an-tanàna izy, dia tsy afa-nanao izany tamin' ny antoandro fa tamin' ny alina no nanaovany azy.\""
+        },
+        {
+          "v": 28,
+          "text": "Fa nony nifoha maraina koa ny lehilahy tao an-tanàna, ka, indro, efa rava ny alitaran' i Bala, sady voakapa ny Aseraha teo anilany, ary ilay ombilahy faharoa dia efa naterina teo ambonin' ny alitara izay natao,"
+        },
+        {
+          "v": 29,
+          "text": "Dia nifanontany izy hoe: Iza re no nanao izao zavatra izao? Ary raha nifanontany sy nifamoaka teo izy, dia hoy ireo: Gideona, zanak' i Joasy no nanao izao zavatra izao."
+        },
+        {
+          "v": 30,
+          "text": "Dia hoy ny lehilahy tao an-tanàna tamin' i Joasy: Avoahy ny zanakao mba hovonoina, satria efa nandrava ny alitaran' i Bala izy sady efa nikapa ny Aseraha teo anilany."
+        },
+        {
+          "v": 31,
+          "text": "\"Ary hoy Joasy tamin' izay rehetra nitsangana teo anatrehany: Moa ianareo handahatra ho an' i Bala va? Ianareo va no hamonjy azy? Izay handahatra ho an' i Bala dia hatao maty raha mbola maraina ny andro; raha andriamanitra Bala, aoka handahatra ho an' ny tenany izy, fa nisy nandrava ny alitarany.\""
+        },
+        {
+          "v": 32,
+          "text": "Noho izany no nanaovany ny anarany tamin' izany andro izany hoe Jerobala, fa hoy izy: Aoka Bala no hifandahatra aminy, satria noravany ny alitarany."
+        },
+        {
+          "v": 33,
+          "text": "Ary ny Midianita rehetra sy ny Amalekita ary ny zanaky ny atsinanana nivory, dia nita ka nitoby teny amin' ny tany lemaka Jezirela."
+        },
+        {
+          "v": 34,
+          "text": "Fa tonga tamin' i Gideona ny Fanahin' i Jehovah, dia nitsoka anjomara izy, ka nivory nanaraka azy ny Abiezera."
+        },
+        {
+          "v": 35,
+          "text": "Ary nandefa iraka nankany amin' ny Manase rehetra izy, dia nivory nanaraka azy koa ireo: ary nandefa iraka tany amin' ny Asera sy ny Zebolona ary ny Naftaly izy, dia niakatra hitsena azy ireo."
+        },
+        {
+          "v": 36,
+          "text": "Ary hoy Gideona tamin' Andriamanitra: Raha ny tanako no hamonjenao ny Isiraely araka izay efa nolazainao,"
+        },
+        {
+          "v": 37,
+          "text": "Indro, hapetrako eo amin' ny famoloana ity volon' ondry iray manontolo ity, ka raha ny volon' ondry ihany no lenan' ny ando, fa maina ny tany rehetra eo anilany, dia ho fantatro fa ny tanako no hamonjenao ny Isiraely araka izay efa nolazainao."
+        },
+        {
+          "v": 38,
+          "text": "\"Ary dia nisy izany; fa nifoha maraina koa izy, ka nofiazany ny volon' ondry ary nisy ranon' ando eran' ny tsangambava.\""
+        },
+        {
+          "v": 39,
+          "text": "\"Ary hoy Gideona tamin' Andriamanitra: Aoka tsy hirehitra amiko ny fahatezeranao fa hiteny izao indray mandeha izao aho: Mifona aminao aho, aoka mba hizahako izao indray mandeha izao monja ny amin' ny volon' ondry; aoka ny volon' ondry ihany no ho maina, fa ny tany rehetra no ho lenan' ny ando.\""
+        },
+        {
+          "v": 40,
+          "text": "Dia nataon' Andriamanitra izany tamin' ny alin' iny, ka ny volon' ondry ihany no maina, fa ny tany rehetra kosa dia lenan' ny ando."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "v": 1,
+          "text": "\"Dia nifoha maraina koa Jerobala, Gideona izany, sy ny vahoaka rehetra teo aminy ka nitoby teo akaikin' ny loharano Haroda; ary ny tobin' ny Midianita kosa teo avarany, teo an-dohasaha anilan' ny havoana More.\""
+        },
+        {
+          "v": 2,
+          "text": "Ary hoy Jehovah tamin' i Gideona: Maro loatra ny vahoaka eo aminao mba hanolorako ny Midianita eo an-tanany, fandrao hirehareha amiko ny Isiraely ka hanao hoe: Ny tanako ihany no namonjy ahy."
+        },
+        {
+          "v": 3,
+          "text": "\"Koa ankehitriny, andeha miantso eo an-tsofin' ny olona hoe: Na iza na iza matahotra sy mangovitra, aoka izy hiverina ka hiala maraina koa eto amin' ny tendrombohitra Gileada. Dia niverina ny olona roa arivo sy roa alina; fa ny iray alina no sisa.\""
+        },
+        {
+          "v": 4,
+          "text": "\"Ary hoy Jehovah tamin' i Gideona: Mbola maro ihany ny olona; koa ampidino ho eo amin' ny rano izy, ary eo no hizahako toetra azy ho anao; ary izay holazaiko aminao hoe: Io no hiaraka aminao, dia izy no hiaraka aminao; ary izay holazaiko aminao hoe: Io no tsy hiaraka aminao, dia izy kosa no tsy hiaraka aminao.\""
+        },
+        {
+          "v": 5,
+          "text": "\"Ary dia nampidinin' i Gideona ho eo amin' ny rano ny olona; ary hoy Jehovah tamin' i Gideona: Izay rehetra milelaka rano amin' ny lelany tahaka ny filelaky ny amboa dia atokàny, ary izay rehetra mandohalika kosa hisotro dia atokàny koa.\""
+        },
+        {
+          "v": 6,
+          "text": "\"Ary telonjato lahy no isan' izay nanainga ny tanany tamin' ny vavany ka nilelaka; fa ny olona sisa rehetra dia nandohalika hisotro rano.\""
+        },
+        {
+          "v": 7,
+          "text": "\"Ary hoy Jehovah tamin' i Gideona: ny telonjato lahy izay nilelaka rano no hamonjeko anareo ka hanolorako ny Midianita eo an-tananao; fa aoka ny olona sisa rehetra samy hody any amin' ny fonenany avy.\""
+        },
+        {
+          "v": 8,
+          "text": "\"Ary ny olona nitondra vatsy teny an-tanany sy ny anjomarany; ary ny Isiraely sisa dia nalefany hody samy ho any amin' ny lainy avy, fa ny telonjato lahy ihany no nohazoniny; ary ny tafiky ny Midianita dia teo ambaniny teo an-dohasaha.\""
+        },
+        {
+          "v": 9,
+          "text": "Ary izao no niseho tamin' izany alina izany, hoy Jehovah tamin' i Gideona: Mitsangàna, midìna ho any amin' ny tafika ianao, fa efa natolotro eo an-tananao izany."
+        },
+        {
+          "v": 10,
+          "text": "Fa raha matahotra hidina ianao, dia aoka hidina miaraka aminao ho any amin' ny tafika i Pora mpanomponao."
+        },
+        {
+          "v": 11,
+          "text": "Dia ho renao izay lazain' ny olona, ary rehefa afaka izany, dia hampaherezina ny tananao hidinanao any amin' ny toby. Dia nidina niaraka tamin' i Pora mpanompony izy ho any an-tsisin' ny olona efa voaomana amin' ny fiadiana, izay teo amin' ny toby."
+        },
+        {
+          "v": 12,
+          "text": "\"Ary ny Midianita sy ny Amalekita ary ny zanaky ny atsinanana rehetra dia nandry teny an-dohasaha, tahaka ny valala ny hamaroany; ary tsy hita isa ny ramevany, tahaka ny fasika any amoron-dranomasina.\""
+        },
+        {
+          "v": 13,
+          "text": "Ary raha tonga tao Gideona, indro, nisy lehilahy nilaza nofy tamin' ny namany ka nanao hoe: Nanonofy aho, ka, indro, nisy mofo vary hordea nikodiadia ho eo amin' ny tobin' ny Midiana ka nankamin' ny lay anankiray, dia nampiongana ka nampivadika azy, ka dia nipetraka teo ny lay."
+        },
+        {
+          "v": 14,
+          "text": "Dia namaly ilay namany ka nanao hoe: Tsy zavatra hafa izany, fa ny sabatr' i Gideona, zanak' i Joasy, lehilahy Isiraelita, mihitsy: efa natolotr' Andriamanitra eo an-tanany ny Midiana sy ny toby rehetra."
+        },
+        {
+          "v": 15,
+          "text": "Ary izao no zava-nisy, rehefa ren' i Gideona ny filazana ny nofy sy ny heviny, dia niankohoka izy, ary niverina ho any amin' ny tobin' ny Isiraely ka nanao hoe: Mitsangàna, fa efa natolotr' i Jehovah eo an-tananareo ny tobin' ny Midiana."
+        },
+        {
+          "v": 16,
+          "text": "Dia nozarainy telo toko ny telon-jato lahy, ary samy nomeny anjomara iray avy ho eny an-tanany ary siny tsy nisy rano sy fanilo tao anatin' ny siny."
+        },
+        {
+          "v": 17,
+          "text": "\"Dia hoy izy taminy: Mijere ahy ianareo, ka manaova araka izay ataoko; ary indro, raha mankany amin' ny sisin' ny toby aho, dia izay ataoko ihany no mba ataovinareo koa.\""
+        },
+        {
+          "v": 18,
+          "text": "Raha mitsoka ny anjomara aho, dia izaho sy izay rehetra miaraka amiko, dia mba mitsofa ny anjomara koa ianareo amin' ny lafiny rehetra amin' ny toby rehetra, ka lazao hoe: Ny sabatr' i Jehovah sy Gideona."
+        },
+        {
+          "v": 19,
+          "text": "\"Dia nankany amin' ny sisin' ny toby tamin' ny fiandohan' ny fiambenana faharoa Gideona sy ny zato lahy izay teo aminy raha vao nalatsaka ny fiambenana; dia ni-tsoka ny anjomara ireo sady namaky ny siny teny an-tanany.\""
+        },
+        {
+          "v": 20,
+          "text": "Dia nitsoka ny anjomara ny telo toko sady namaky ny siny, ka nihazona ny fanilo teny an-tanany ankavia sy ny anjomara teny an-tanany ankavanana mba hotsofina sady niantso hoe: Ny sabatr' i Jehovah sy Gideona."
+        },
+        {
+          "v": 21,
+          "text": "\"Ary samy nijanona teo amin' ny fitoerany avy manodidina ny toby izy rehetra; dia nihazakazaka ny miaramila rehetra ka niantsoantso sady nandositra.\""
+        },
+        {
+          "v": 22,
+          "text": "Dia nitsoka ny anjomara ny telonjato lahy, ary nampifamelezin' i Jehovah tamin' ny sabatra ny miaramila eran' ny toby rehetra, dia nandositra hatrany Betisita izy ka hatrany Zereraha sy hatramin' ny faritanin' i Abela-mehola akaiky an' i Tabata."
+        },
+        {
+          "v": 23,
+          "text": "Dia niara-nivory ny lehilahy amin' ny Isiraely avy tany Naftaly sy avy tamin' ny Asera ary avy tamin' ny Manase rehetra ka nanenjika ny Midianita."
+        },
+        {
+          "v": 24,
+          "text": "Ary nandefa iraka Gideona hitety ny tendrombohitr' i Efraima rehetra ka nanao hoe: Midìna hisakana ny Midianita, ka vonjeo ny rano eo alohany hatrany Beti-bara sy Jordana. Dia niara-nivory ny lehilahy rehetra amin' ny Efraima ka namonjy ny rano hatrany Beti-bara sy Jordana."
+        },
+        {
+          "v": 25,
+          "text": "\"Ary naka ny andriana roa lahy tamin' ny Midiana izy, dia Oreba sy Zeba; ary Oreba novonoiny teo ambonin' ny vatolampin' i Oreba, ary Zeba novonoiny teo amin' ny famiazam-boalobok' i Zeba, dia nanenjika ny Midiana izy; ary ny lohan' i Oreba sy Zeba dia nentiny tany amin' i Gideona tany an-dafin' i Jordana.\""
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Ary hoy ny lehilahy amin' ny Efraima tamin' i Gideona: Ahoana izao zavatra nataonao taminay izao, no tsy nantsoinao izahay, raha nandeha hiady tamin' ny Midianita ianao? Dia nanome tsiny azy mafy ireo."
+        },
+        {
+          "v": 2,
+          "text": "Fa hoy Gideona taminy: Zinona izao nataoko izao, raha miohatra amin' izay nataonareo? Tsy tsara va ny fitsimponam-boalobok' i Efraima noho ny fiotazam-boalobok' i Abiezera?"
+        },
+        {
+          "v": 3,
+          "text": "\"Teo an-tananareo no nanoloran' Andriamanitra ny andrianan' ny Midiana, dia Oreba sy Zeba; ary inona no azoko atao, raha miohatra amin' ny nataonareo? Ary rehefa nilaza izany teny izany Gideona, dia nitony ny fahatezeran' ireo taminy.\""
+        },
+        {
+          "v": 4,
+          "text": "Ary Gideona nankany Jordana, ka nita izy sy ny telonjato lahy teo aminy, na dia efa reraka aza, mbola nanenjika ihany."
+        },
+        {
+          "v": 5,
+          "text": "\"Ary hoy izy tamin' ny mponina tao Sokota; Masìna ianareo, mba omeo sombi-mofo ny olona manaraka ahy fa reraka izy, ary izaho dia manenjika an' i Zebaha sy Zalmona, mpanjakan' ny Midiana.\""
+        },
+        {
+          "v": 6,
+          "text": "Fa hoy ireo andrianan' i Sokota: Moa efa voahazon' ny tananao ankehitriny va ny tanan' i Zebaha sy Zalmona, no homenay mofo ny miaramilanao?"
+        },
+        {
+          "v": 7,
+          "text": "Dia hoy Gideona: Rehefa voatolotr' i Jehovah eo an-tanako Zebaha sy Zalmona, dia handalasiko amin' ny tsilo avy any an' efitra sy ny sampivato ny nofonareo."
+        },
+        {
+          "v": 8,
+          "text": "\"Ary niakatra avy teo izy ka nankany Penoela, dia nanao teny tahaka izany koa tamin' ny olona tao; ary ny mponina tao Penoela koa dia namaly azy tahaka ny navalin' ny mponina tao Sokota ihany.\""
+        },
+        {
+          "v": 9,
+          "text": "Dia niteny tamin' ny mponina tao Penoela izy ka nanao hoe: Raha tafaverina soa aman-tsara aho, dia horavako ity tilikambo ity."
+        },
+        {
+          "v": 10,
+          "text": "\"Ary Zebaha sy Zalmona dia tonga tao Karkora mbamin' ny miaramila teo aminy, tokony ho dimy arivo sy iray alin-dahy, dia izay sisa rehetra tamin' ny miaramila rehetra an' ny zanaky ny atsinanana; fa ny maty kosa dia roa alina sy iray hetsy, samy lehilahy mpitan-tsabatra avokoa ireo.\""
+        },
+        {
+          "v": 11,
+          "text": "Ary Gideona niakatra tamin' ny lalan' ny mpitoetra an-day, atsinanan' i Noba sy Jogbeha, ka namely ny toby, raha mbola ilay tsy nanampo iny ny miaramila."
+        },
+        {
+          "v": 12,
+          "text": "Ary rehefa nandositra Zebaha sy Zalmona dia nanenjika azy ireo izy, ka nisambotra ny mpanjaka roa amin' ny Midiana, dia Zebaha sy Zalmona, ary nampifanaritahany ny miaramila rehetra."
+        },
+        {
+          "v": 13,
+          "text": "Ary niverina avy tamin' ny ady Gideona, zanak' i Joasy, raha tsy mbola niposaka ny masoandro,"
+        },
+        {
+          "v": 14,
+          "text": "\"Ary nisambotra zatovo tamin' ny mponina tao Sokota izy ka nanontany azy; dia nosoritan' ilay zatovo taminy ireo andrianan' i Sokota sy ny loholona tao, ka fito amby fitopolo lahy izy.\""
+        },
+        {
+          "v": 15,
+          "text": "Ary Gideona dia nankany amin' ny mponina tao Sokota ka nanao hoe: Indreo Zebaha sy Zalmona, izay nandatsanareo ahy hoe: Moa efa voahazon' ny tananao ankehitriny va ny tanan' i Zebaha sy Zalmona, no homenay mofo ny olonao efa reraka?"
+        },
+        {
+          "v": 16,
+          "text": "Dia naka ny loholona tao an-tanàna izy, ary tsilo avy tany an' efitra sy sampivato, ka ireny no namaizany ny mponina tao Sokota."
+        },
+        {
+          "v": 17,
+          "text": "Ary nandrava ny tilikambo tao Penoela izy ka namono ny lehilahy tao an-tanàna."
+        },
+        {
+          "v": 18,
+          "text": "\"Dia hoy izy tamin' i Zebaha sy Zalmona: Lehilahy toy inona ange izay novonoinareo tany Tabara? Ary hoy ireo: tahaka anao ihany izy; nitarehin-janaka mpanjaka avokoa izy rehetra.\""
+        },
+        {
+          "v": 19,
+          "text": "Ary hoy izy: Rahalahiko, zanaky ny reniko, ireo. Raha velona koa Jehovah, dia tsy mba hovonoiko ianareo, raha novelominareo ireo."
+        },
+        {
+          "v": 20,
+          "text": "Ary hoy izy tamin' i Jatera lahimatoany:Mitsangàna, ka vonoy izy roa lahy. Fa ilay zatovo tsy nanatsoaka ny sabany, fa natahotra, satria mbola tanora izy."
+        },
+        {
+          "v": 21,
+          "text": "\"Ary hoy Zebaha sy Zalmona: Aoka ianao no hitsangana hamely anay; fa araka ny toetry ny olona ihany ny heriny. Dia nitsangana Gideona ka namono an' i Zebaha sy Zalmona ary naka ny ravaka, izay teo amin' ny vozon' ny ramevany.\""
+        },
+        {
+          "v": 22,
+          "text": "\"Dia hoy ny lehilahy amin' ny Isiraely tamin' i Gideona: Manapaha anay ianao sy ny zanakao ary koa ny zafinao; fa efa nanafaka anay tamin' ny tanan' ny Midiana ianao.\""
+        },
+        {
+          "v": 23,
+          "text": "\"Fa hoy Gideona taminy: Tsy hanapaka anareo aho, ary tsy hanapaka anareo koa ny zanako; Jehovah no hanapaka anareo.\""
+        },
+        {
+          "v": 24,
+          "text": "\"Ary hoy Gideona taminy: Zavatra iray loha monja no mba angatahiko aminareo: aoka samy hanome ahy ny kavina izay avy amin' ny babony avy ianareo; (fa nanana kavim-bolamena ireny, satria Isimaelita).\""
+        },
+        {
+          "v": 25,
+          "text": "Dia namaly ireo hoe: Omenay an-tsitrapo izany. Dia namelatra lamba ny olona, ka samy nanipy tao ny kavina avy tamin' ny babony."
+        },
+        {
+          "v": 26,
+          "text": "Ary ny lanjan' ny kavim-bolamena nangatahiny dia sekely volamena fiton-jato amby arivo, afa-tsy ny ravaka sy ny kavina voavola sy ny lamba volomparasy izay teny amin' ireo mpanjakan' ny Midiana, ary ny rojo, izay teny amin' ny vozon' ny rameva."
+        },
+        {
+          "v": 27,
+          "text": "\"Dia nataon' i Gideona efoda ireo, ka nataony tao an-tanànany, dia tao Ofra; ary ny Isiraely rehetra nankany hijangajanga nanaraka izany efoda izany; ary tonga fandrika tamin' i Gideona sy ny ankohonany izany.\""
+        },
+        {
+          "v": 28,
+          "text": "Dia resy teo anoloan' ny Zanak' Isiraely ny Midiana ka tsy nahatraka ny lohany intsony. Dia nandry efapolo taona ny tany tamin' ny andron' i Gideona."
+        },
+        {
+          "v": 29,
+          "text": "Dia nandeha Jerobala, zanak' i Joasy, ka nitoetra tao an-tranony."
+        },
+        {
+          "v": 30,
+          "text": "Ary Gideona nanan-janaka fitopolo lahy izay naterany: fa maro vady izy."
+        },
+        {
+          "v": 31,
+          "text": "Ary ny vaditsindranony, izay tany Sekema, dia niteraka zazalahy taminy koa, ka ny anarany nataony hoe Abimeleka."
+        },
+        {
+          "v": 32,
+          "text": "Dia maty Gideona, zanak' i Joasy, rehefa tratrantitra tsara, ka nalevina tao amin' ny fasan' i Joasy rainy tao Ofra an' ny Abiezrita izy."
+        },
+        {
+          "v": 33,
+          "text": "Ary izao no niseho, raha vao maty Gideona dia niverina indray ny Zanak' Isiraely ka nijangajanga nanaraka ireo Bala, ary nanao an' i Bala-berita ho andriamaniny."
+        },
+        {
+          "v": 34,
+          "text": "Ary ny Zanak' Isiraely tsy nahatsiaro an' i Jehovah Andriamaniny, izay nanafaka azy tamin' ny tanan' ny fahavalony rehetra manodidina,"
+        },
+        {
+          "v": 35,
+          "text": "Ary tsy naneho fahamoram-panahy tamin' ny taranak' i Jerobala izy ireo, araka izay soa rehetra nasehon' i Gideona tamin' ny Isiraely."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Ary Abimeleka, zanak' i Jerobala, dia nandeha nankany Sekema tany amin' ny anadahin-dreniny ka niresaka taminy sy tamin' izay rehetra isan' ny fianakavian-dreniny nanao hoe:"
+        },
+        {
+          "v": 2,
+          "text": "Masìna ianareo, mba mitenena ho ren' ny lehilahy rehetra eto Sekema hoe: Inona no tsara ho anareo: ny hanjakan' izy fitopolo lahy zanak' i Jerobala aminareo va, sa ny hanjakan' ny olona iray aminareo? Tsarovy koa, fa taolanareo sy nofonareo aho."
+        },
+        {
+          "v": 3,
+          "text": "\"Ary ny anadahin-dreniny dia nilaza azy teo anatrehan' ny lehilahy rehetra tao Sekema tamin' izany teny rehetra izany; koa ny fon' ireo dia te-hanaraka an' i Abimeleka, fa hoy izy: rahalahintsika izy.\""
+        },
+        {
+          "v": 4,
+          "text": "Dia nomen' ireo sekely volafotsy fitopolo avy tao an-tranon' i Bala-berita izy, ary nanambazan' i Abimeleka olom-poana sy marivo salosana izany, ka dia nanaraka azy ireo."
+        },
+        {
+          "v": 5,
+          "text": "\"Dia nankany an-tranon-drainy tany Ofra izy ka namono ny rahalahiny fito-polo lahy, zanak' i Jerobala, teo ambonin' ny vato iray; fa i Jotama, faralahin' i Jerobala, no sisa velona, satria niery izy.\""
+        },
+        {
+          "v": 6,
+          "text": "Dia nivory ny olona rehetra tao Sekema sy ny ankohonana rehetra tao Milo ka nandeha nampanjaka an' i Abimeleka teo amin' ny tany lemaky ny tsangambato izay any Sekema."
+        },
+        {
+          "v": 7,
+          "text": "Ary rehefa nilazana izany Jotama dia nandeha izy ka nitsangana teo an-tampon' ny tendrombohitra Gerizima, ary nanandratra ny feony sy niantso ka nilaza taminy hoe: Mihainoa ahy ianareo mponina ao Sekema mba hihainoan' Andriamanitra anareo kosa."
+        },
+        {
+          "v": 8,
+          "text": "\"Niainga, hono, ny hazo mba hanosotra mpanjaka hanjaka aminy; ka hoy izy tamin' ny hazo oliva: Manjakà aminay ianao.\""
+        },
+        {
+          "v": 9,
+          "text": "Fa hoy ny hazo oliva taminy: Ho foiko va ny diloiloko, izay ankalazany an' Andriamanitra sy ny olona amin' ny alalako, ka handeha hatsingevaheva eny ambonin' ny hazo aho?"
+        },
+        {
+          "v": 10,
+          "text": "Ary hoy ny hazo tamin' ny hazo aviavimbazaha: Avia ianao, ka manjakà aminay."
+        },
+        {
+          "v": 11,
+          "text": "Fa hoy ny hazo aviavimbazaha taminy: Ho foiko va ny hamamiako sy ny vokatro tsara ka handeha hatsingevaheva eny ambonin' ny hazo aho?"
+        },
+        {
+          "v": 12,
+          "text": "Dia hoy ny hazo tamin' ny voaloboka: avia ianao, ka manjakà aminay."
+        },
+        {
+          "v": 13,
+          "text": "Fa hoy ny voaloboka taminy: Ho foiko va ny ranomboaloboko, izay mahafaly an' Andriamanitra sy ny olona, ka handeha hitsingevaheva eny ambonin' ny hazo aho?"
+        },
+        {
+          "v": 14,
+          "text": "Ary hoy ny hazo rehetra tamin' ny tsilo: Avia ianao, ka manjakà aminay."
+        },
+        {
+          "v": 15,
+          "text": "\"Fa hoy ny tsilo tamin' ny hazo: Raha amin' ny fahamarinana no hanosoranareo ahy ho mpanjakanareo, dia avia ianareo ka mialofa ato amin' ny alokaloko; fa raha tsy izany, aoka hisy afo hivoaka avy amin' ny tsilo ka handevona ny sederan' i Libanona.\""
+        },
+        {
+          "v": 16,
+          "text": "Koa ankehitriny, raha marina sy mahitsy ny nataonareo tamin' ny nampanjakanareo an' i Abimeleka, ary raha soa no nataonareo tamin' i Jerobala sy ny ankohonany, ka novalianareo araka izay nataon' ny tanany izy,"
+        },
+        {
+          "v": 17,
+          "text": "\"(Fa ny raiko niady ho anareo sady nanao ny ainy tsy ho zavatra ka nanafaka anareo tamin' ny tanan' ny Midiana;\""
+        },
+        {
+          "v": 18,
+          "text": "\"Nefa ianareo kosa niodina tamin' ny taranaky ny raiko androany ka namono ny zanany fitopolo lahy teo ambonin' ny vato iray, ary Abimeleka, zanaky ny mpanompovaviny no nampanjakainareo tamin' ny mponina ao Sekema, satria rahalahinareo izy);\""
+        },
+        {
+          "v": 19,
+          "text": "Koa raha marina sy mahitsy ny nataonareo androany tamin' i Jerobala mbamin' ny ankohonany, dia mifalia amin' i Abimeleka ianareo, ary aoka izy kosa hifaly aminareo."
+        },
+        {
+          "v": 20,
+          "text": "\"Fa raha tsy izany kosa, dia aoka hisy afo hivoaka avy amin' i Abimeleka ka handevona ny mponina ao Sekema sy ny ankohonana ao Milo; ary aoka koa hisy afo hivoaka avy amin' ny mponina ao Sekema sy ny ankohonana ao Milo ka handevona an' i Abimeleka.\""
+        },
+        {
+          "v": 21,
+          "text": "Dia rifatra nandositra Jotama ka nankany Bera ary nitoetra teo noho ny tahony an' i Abimeleka rahalahiny."
+        },
+        {
+          "v": 22,
+          "text": "Ary rehefa nanapaka telo taona tamin' ny Isiraely Abimeleka,"
+        },
+        {
+          "v": 23,
+          "text": "\"Andriamanitra dia naniraka fanahy ratsy tamin' i Abimeleka sy ny lehilahy tao Sekema; ary ny mponina tao Sekema dia nivadika nahafoy an' i Abimeleka,\""
+        },
+        {
+          "v": 24,
+          "text": "Mba hitsingerenan' ny loza natao tamin' ny zanak' i Jerobala fitopolo lahy, ka ny ràn' ireo dia hanody an' i Abimeleka rahalahiny, izay namono azy, sy hanody ny lehilahy tao Sekema, izay nampahery ny tanany hamono ny rahalahiny."
+        },
+        {
+          "v": 25,
+          "text": "Ary nanaovan' ny lehilahy tao Sekema otrika tany an-tampon' ny tendrombohitra izy, dia norobain' ny otrika izay rehetra nandalo tamin' izany lalana izany ary nolazaina tamin' i Abimeleka izany."
+        },
+        {
+          "v": 26,
+          "text": "\"Ary Gala, zanak' i Ebeda sy ny rahalahiny dia nankany Sekema; ary ny lehilahy tao Sekema nametraka ny fitokisany taminy.\""
+        },
+        {
+          "v": 27,
+          "text": "Dia nivoaka ho any an-tsaha izy ka nioty ny voalobony sy nanosihosy azy, dia nifaly sy niravo ka niditra tao an-tranon' ny andriamaniny, dia nihinana sy nisotro, ary nanozona an' i Abimeleka."
+        },
+        {
+          "v": 28,
+          "text": "\"Ary hoy Gala, zanak' i Ebeda: Iza moa Abimeleka, ary iza moa Sekema, no hotompointsika? Tsy zanak' i Jerobala va izy? ary tsy Zebola va no lefiny? Manompoa ny olon' i Hamora, rain' i Sekema; fa nahoana no hanompo io isika?\""
+        },
+        {
+          "v": 29,
+          "text": "Ary enga anie ka ho eo ambanin' ny tanako ireto olona ireto! dia hoesoriko Abimeleka. Dia hoy izy tamin' i Abimeleka: hamaroy ny miaramilanao ka mivoaha."
+        },
+        {
+          "v": 30,
+          "text": "Ary rehefa ren' i Zebola, komandin' ny tanàna ny tenin' i Gala, zanak' i Ebeda, dia nirehitra ny fahatezerany."
+        },
+        {
+          "v": 31,
+          "text": "\"Dia nandefa iraka mangingina tany amin' i Abimeleka izy hanao hoe: Indro, Gala, zanak' i Ebeda sy ny rahalahiny dia tonga ato Sekema; ary, indro, mandrendrika ny ato an-tanàna hiodina aminao izy.\""
+        },
+        {
+          "v": 32,
+          "text": "Koa ankehitriny, miaingà alina ianao sy ny vahoaka eo aminao, ka manotreha any an-tsaha."
+        },
+        {
+          "v": 33,
+          "text": "\"Ary izao no hisy, raha maraina, raha vao miposaka ny masoandro, dia mifohaza maraina koa ianao, ka miroata hamely ny tanàna; ary, indro, raha mivoaka hiady aminao izy sy ny vahoaka eo aminy, dia ataovy aminy izay zakan' ny tananao.\""
+        },
+        {
+          "v": 34,
+          "text": "Dia niainga alina Abimeleka sy ny vahoaka rehetra teo aminy ka nanao otrika efa-toko tandrifin' i Sekema."
+        },
+        {
+          "v": 35,
+          "text": "\"Dia nivoaka Gala, zanak' i Ebeda, ka nijanona teo anoloan' ny vavahadin' ny tanàna; dia niroatra avy tao am-panotrehana Abimeleka sy ny vahoaka teo aminy.\""
+        },
+        {
+          "v": 36,
+          "text": "Ary rehefa hitan' i Gala ny olona, dia hoy izy tamin' i Zebola: Indreo, misy olona midina avy eny an-tampon' ny tendrombohitra. Fa hoy Zebola taminy: Ny aloky ny tendrombohitra no hitanao ka toa olona."
+        },
+        {
+          "v": 37,
+          "text": "Dia niteny indray Gala ka nanao hoe: Indreo, misy olona midina eo afovoan' ny tany, ary misy antokony hafa mandeha eo amin' ny tany lemaka Meonenima."
+        },
+        {
+          "v": 38,
+          "text": "Dia hoy Zebola taminy: Aiza ankehitriny ny vavanao izay nitenenanao hoe: Iza moa Abimeleka no hotompointsika? Tsy ireo va no olona izay nohamavoinao? Mangataka anao aho, mivoaha ankehitriny, ka miadia aminy."
+        },
+        {
+          "v": 39,
+          "text": "Dia nivoaka teo anoloan' ny mponina tao Sekema i Gala ka niady tamin' i Abimeleka."
+        },
+        {
+          "v": 40,
+          "text": "Dia nanenjika azy Abimeleka, ary nandositra teo anoloany izy, ka maro no niampatrampatra sy naratra, na dia hatreny anoloan' ny vavahady aza."
+        },
+        {
+          "v": 41,
+          "text": "\"Ary Abimeleka nonina tany Aroma ; ary nandroaka an' i Gala sy ny rahalahiny i Zebola mba tsy honina any Sekema intsony.\""
+        },
+        {
+          "v": 42,
+          "text": "Ary izao no niseho, nony ampitso dia nivoaka ho any an-tsaha ny olona, ary nolazaina tamin' i Abimeleka izany."
+        },
+        {
+          "v": 43,
+          "text": "\"Dia naka ny vahoaka izy ka nizara azy ho telo toko ary nanotrika tany an-tsaha, dia nijery izy, ka, indreo, ny olona nivoaka avy tao an-tanàna; dia nitsangana hiady aminy izy ka namono azy.\""
+        },
+        {
+          "v": 44,
+          "text": "\"Ary Abimeleka sy ny antokony izay teo aminy dia niroatra ka nitsangana teo anoloan' ny vavahadin' ny tanàna; ary ny roa toko kosa niroatra namely ny vahoaka rehetra tany an-tsaha ka namono azy.\""
+        },
+        {
+          "v": 45,
+          "text": "\"Ary Abimeleka namely ny tanàna mandritra izany andro izany, dia nahazo ny tanàna ka namono ny olona tao; ary noravany ny tanàna sady nofafazany sira.\""
+        },
+        {
+          "v": 46,
+          "text": "Ary nony nandre izany ny lehilahy rehetra tao amin' ny tilikambo tao Sekema dia niditra tao amin' ny efitrano fierena tao an-tranon' i Berita andriamaniny."
+        },
+        {
+          "v": 47,
+          "text": "Ary nolazaina tamin' i Abimeleka fa tafangona tao amin' ny tilikambo tao Sekema ny olona rehetra."
+        },
+        {
+          "v": 48,
+          "text": "\"Ary Abimeleka sy ny vahoaka rehetra teo aminy dia niakatra tany an-tendrombohitra Zalmona; ary Abimeleka nitondra famaky teny an-tanany, dia nikapa sampan-kazo, ka nobetainy izany, dia nolanjainy teny an-tsorony, ary hoy izy tamin' ny vahoaka teo aminy: Izay hitanareo ataoko, dia mba manaova faingana toy izany koa ianareo.\""
+        },
+        {
+          "v": 49,
+          "text": "Koa samy nikapa sampan-kazo avy ny vahoaka rehetra ka nanaraka an' i Abimeleka, dia nametraka izany teo an-trano fiarovana ka nandoro azy tamin' ny afo, raha mbola tao ny olona, ka maty koa ny olona rehetra tao amin' ny tilikambo tao Sekema, na lehilahy na vehivavy, tokony ho roa arivo no isany."
+        },
+        {
+          "v": 50,
+          "text": "Dia nandeha Abimeleka nankany Tebeza ary nitoby tandrifin' i Tebeza ka nahazo azy."
+        },
+        {
+          "v": 51,
+          "text": "Fa nisy tilikambo mafy tao anatin' ny tanàna, ka nandositra tao ny lehilahy sy ny vehivavy rehetra mbamin' izay rehetra tao an-tanàna, dia nihidy tao ireo, ka niakatra tao an-tampon' ny tilikambo."
+        },
+        {
+          "v": 52,
+          "text": "Ary Abimeleka nankeo amin' ny tilikambo ka niady teo, dia nanatona ny varavaran' ny tilikambo izy handoro azy amin' ny afo."
+        },
+        {
+          "v": 53,
+          "text": "Fa nisy vehivavy anankiray nanjera vato fikosoham-barimbazaha tamin' ny lohan' i Abimeleka ka nahavaky ny karan-dohany."
+        },
+        {
+          "v": 54,
+          "text": "Dia nantsoin' i Abimeleka faingana ny zatovo, mpitondra ny fiadiany, ka hoy izy taminy: Tsoahy ny sabatrao, ka vonoy aho, mba tsy hanaovan' ny olona ahy hoe: Vehivavy no nahafaty azy. Dia namely azy miboroaka ilay zatovo, ka maty izy."
+        },
+        {
+          "v": 55,
+          "text": "Ary rehefa hitan' ny lehilahy amin' ny Isiraely fa maty Abimeleka, dia samy lasa nandeha ho any amin' ny fonenany avy izy."
+        },
+        {
+          "v": 56,
+          "text": "Izany no namalian' Andriamanitra ny ratsy nataon' i Abimeleka, izay efa nataony tamin' ny rainy tamin' ny namonoany ny rahalahiny fitopolo lahy."
+        },
+        {
+          "v": 57,
+          "text": "Ary ny ratsy rehetra nataon' ny mponina tao Sekema dia natsingerin' Andriamanitra tamin' ny lohany avokoa, ka dia nihatra taminy ilay fanozonana nataon' i Jotama, zanak' i Jerobala."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Ary taorian' i Abimeleka dia nitsangana hiaro ny Isiraely i Tola, zanak' i Poa, zanak' i Dodo, lehilahy avy amin' ny Isakara, nonina tao Samira any amin' ny tendrombohitr' i Efraima."
+        },
+        {
+          "v": 2,
+          "text": "Ary nitsara ny Isiraely telo amby roapolo taona izy, dia maty ka nalevina tao Samira."
+        },
+        {
+          "v": 3,
+          "text": "Ary nitsangana nandimby azy Jaïra Gileadita ka nitsara ny Isiraely roa amby roapolo taona."
+        },
+        {
+          "v": 4,
+          "text": "\"Ary nanana zanakalahy telopolo izay nitaingina zana-boriky telopolo izy, ary izy ireo nanana tanàna telopolo any amin' ny tany Gileada; ary atao hoe Havota-jaïra mandraka androany ireo.\""
+        },
+        {
+          "v": 5,
+          "text": "Dia maty Jaïra ka nalevina tany Kamona."
+        },
+        {
+          "v": 6,
+          "text": "Ary ny Zanak' Isiraely dia nanao izay ratsy teo imason' i Jehovah indray ka nanompo ireo Bala sy Astarta sy ny andriamanitr' i Syria sy ny andriamanitr' i Sidona sy ny andriamanitr' i Moaba sy ny andriamanitry ny taranak' i Amona ary ny andriamanitry ny Filistina, dia nahafoy an' i Jehovah izy ka tsy nanompo Azy."
+        },
+        {
+          "v": 7,
+          "text": "Dia nirehitra tamin' ny Isiraely ny fahatezeran' i Jehovah, ka nivarotra azy ho eo an-tanan' ny Filistina sy ho eo an-tanan' ny taranak' i Amona Izy."
+        },
+        {
+          "v": 8,
+          "text": "Ary tamin' izany taona izany, ireo dia nampahory sy nanorotoro ny Zanak' Isiraely valo ambin' ny folo taona, dia ny Zanak' Isiraely rehetra izay tany an-dafin' i Jordana tany amin' ny tanin' ny Amorita, izay any Gileada."
+        },
+        {
+          "v": 9,
+          "text": "\"Ary nita an' i Jordana ny taranak' i Amona mba hiady koa amin'ny Joda sy ny Benjamina ary ny taranak' i Efraima; ka dia ory indrindra ny Isiraely.\""
+        },
+        {
+          "v": 10,
+          "text": "Dia nitaraina tamin' ny Jehovah ny Zanak' Isiraely ka nanao hoe: Efa nanota taminao izahay, satria sady efa nahafoy an' Andriamanitray no nanompo ireo Bala koa."
+        },
+        {
+          "v": 11,
+          "text": "Ary hoy Jehovah tamin' ny Zanak' Isiraely: Moa tsy efa nanafaka anareo tamin' ny Egyptiana sy ny Amorita sy ny taranak' i Amona ary ny Filistina va Aho?"
+        },
+        {
+          "v": 12,
+          "text": "Ary nampahory anareo koa ny Sidoniana sy ny Amalekita ary ny Maonita, dia nitaraina tamiko ianareo, ka nafahako tamin' ny tanany."
+        },
+        {
+          "v": 13,
+          "text": "\"Nefa ianareo nahafoy Ahy ka nanompo andriamani-kafa; koa izany kosa no tsy hanafahako anareo intsony.\""
+        },
+        {
+          "v": 14,
+          "text": "\"Mandehana, ka mitarainà amin' ireo andriamanitra efa nofidinareo; aoka ireo no hanafaka anareo amin' ny andron' ny fahorianareo.\""
+        },
+        {
+          "v": 15,
+          "text": "\"Ary hoy ny Zanak' Isiraely tamin' i Jehovah: Efa nanota izahay; ataovy aminay izay heverinao ho tsara; kanefa mifona aminao izahay, afaho ihany izahay anio.\""
+        },
+        {
+          "v": 16,
+          "text": "\"Dia nanary ireo andriamani-kafa teo aminy izy ka nanompo an' i Jehovah; dia tsy nahatsindry ny fanahiny Jehovah noho ny fahorian' ny Isiraely.\""
+        },
+        {
+          "v": 17,
+          "text": "Dia niara-nivory ny taranak' i Amona ka nitoby tany Gileada. Ary niara-nivory kosa ny Zanak' Isiraely ka nitoby tany Mizpa."
+        },
+        {
+          "v": 18,
+          "text": "Dia nifampiresaka ny olona sy ireo andrianan' i Gileada hoe: Iza no lehilahy handeha voalohany hiady amin' ny taranak' i Amona? Izy no ho lohany amin' ny mponina rehetra any Gileada."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "v": 1,
+          "text": "\"Ary Jefta Gileadita dia lehilahy mahery sy be herim-po, ary zanaky ny vehivavy janga izy; ary Gileada no niteraka an' i Jefta.\""
+        },
+        {
+          "v": 2,
+          "text": "\"Ary ny vadin' i Gileada dia niteraka zazalahy maro taminy; ary nony efa lehibe ireo zana-badiny ireo, dia nandroaka an' i Jefta ka nanao taminy hoe: Tsy handova eto amin' ny taranaky ny rainay ianao, fa zanaky ny vehivavy hafa.\""
+        },
+        {
+          "v": 3,
+          "text": "\"Ary Jefta nandositra ny rahalahiny ka nonina tany amin' ny tany Toba; dia nisy olom-poana nivory teo amin' i Jefta ka niara-nivoaka taminy.\""
+        },
+        {
+          "v": 4,
+          "text": "Ary izao no niseho, nony ela, dia nanafika ny Zanak' Isiraely ny taranak' i Amona."
+        },
+        {
+          "v": 5,
+          "text": "Ary izao no zava-nisy, rehefa nanafika ny Isiraely ny taranak' i Amona, dia nandeha ny loholon' i Gileada haka an' i Jefta hiala any amin' ny tany Toba."
+        },
+        {
+          "v": 6,
+          "text": "Ary hoy izy ireo tamin' i Jefta: Avia ho mpitarika anay ianao, hiadiantsika amin' ny taranak' i Amona."
+        },
+        {
+          "v": 7,
+          "text": "Fa hoy Jefta tamin' ny loholon' i Gileada: Tsy efa nankahala ahy va ianareo ka nandroaka ahy hiala tao an-tranon' ny raiko? Koa nahoana no mankaty amiko indray ianareo ankehitriny, nony azom-pahoriana?"
+        },
+        {
+          "v": 8,
+          "text": "Dia hoy ny loholon' i Gileada tamin' i Jefta: Izany no iverenanay aty aminao ankehitriny, mba handehananao miaraka aminay sy hiadianao amin' ny taranak' i Amona, ka dia ho lohany aminay mponina rehetra any Gileada ianao."
+        },
+        {
+          "v": 9,
+          "text": "Dia hoy Jefta tamin' ny loholon' i Gileada: Raha hoentinareo mody indray aho mba hiady amin' ny taranak' i Amona, ka hatolotr' i Jehovah eo anoloako ireny, dia izaho hoe no ho lohany aminareo?"
+        },
+        {
+          "v": 10,
+          "text": "Dia hoy ny loholon' i Gileada tamin' i Jefta: Jehovah no ho vavolombelona amintsika, raha tsy hataonay araka izany teninao izany."
+        },
+        {
+          "v": 11,
+          "text": "\"Dia nandeha niaraka tamin' ny loholon' i Gileada i Jefta, ka dia nasandratry ny vahoaka ho lohany sy mpitarika azy izy; ary Jefta nilaza ny teniny rehetra teo anatrehan' i Jehovah tao Mizpa.\""
+        },
+        {
+          "v": 12,
+          "text": "Ary nandefa iraka i Jefta nankany amin' ny mpanjakan' ny taranak' i Amona hanao hoe: Moa mifaninona akory izaho sy ianao, no tonga aty amiko hiady amin' ny taniko ianao?"
+        },
+        {
+          "v": 13,
+          "text": "\"Dia hoy ny mpanjakan' i Amona tamin' ny irak' i Jefta: Satria nalain' ny Isiraely ny taniko hatrany Arnona ka hatrany Jaboka ary hatrany Jordana, fony niakatra avy tany Egypta izy; koa avereno amin' ny fihavanana àry izany tany izany ankehitriny.\""
+        },
+        {
+          "v": 14,
+          "text": "\"Ary nandefa iraka indray Jefta nankany amin' ny mpanjakan' ny taranak' i Amona;\""
+        },
+        {
+          "v": 15,
+          "text": "Ka nanao taminy hoe: Izao no lazain' i Jefta: Ny Isiraely tsy naka ny tanin' i Moaba, na ny tanin' ny taranak' i Amona."
+        },
+        {
+          "v": 16,
+          "text": "\"Fa fony niakatra avy tany Egypta ny Isiraely, dia nandeha nitety ny efitra hatramin' ny Ranomasina Mena izy ka tonga tany Kadesy;\""
+        },
+        {
+          "v": 17,
+          "text": "\"Dia nandefa iraka ny Isiraely nankany amin' ny mpanjakan' i Edoma ka nanao hoe: Masìna ianao, aoka mba hamaky ny taninao aho; fa tsy nety nihaino izany ny mpanjakan' i Edoma. Ary naniraka tany amin' ny mpanjakan' i Moaba toraka izany koa izy; fa tsy nety izy; ka dia nitoetra tany Kadesy ny Isiraely.\""
+        },
+        {
+          "v": 18,
+          "text": "\"Dia nandeha nitety ny efitra izy ka nanodidina ny tany Edoma sy ny tany Moaba, dia tonga teo amin'ny lafiny atsinanan' i Moaba ka nitoby teo an-dafin' i Arnona, fa tsy niditra teo anatin' ny fari-tanin' i Moaba; fa Arnona no fari-tanin' i Moaba.\""
+        },
+        {
+          "v": 19,
+          "text": "\"Ary nandefa iraka tany amin' i Sihona, mpanjaka' ny Amorita, mpanjakan' i Hesbona ny Isiraely; ary hoy ny Isiraely taminy: Masìna ianao, aoka mba handeha hamaky ny taninao izahay hankany amin' ny fonenako.\""
+        },
+        {
+          "v": 20,
+          "text": "Fa Sihona tsy natoky ny Isiraely hamaky ny faritaniny, fa namory ny vahoakany rehetra izy, dia nitoby tany Jahaza ka niady tamin' ny Isiraely."
+        },
+        {
+          "v": 21,
+          "text": "\"Ary Jehovah, Andriamanitry ny Isiraely, nanolotra an' i Sihona sy ny vahoakany rehetra teo an-tanan' ny Isiraely, ka namono azy ireo; dia azon' ny Isiraely ny tanin' ny Amorita rehetra, mponina tamin' izany tany izany.\""
+        },
+        {
+          "v": 22,
+          "text": "Dia nahazo ny tanin' ny Amorita rehetra izy hatrany Arnona, ka hatrany Jaboka ary hatramin' ny efitra ka hatrany Jordana."
+        },
+        {
+          "v": 23,
+          "text": "\"Koa ankehitriny, Jehovah, Andriamanitry ny Isiraely, efa nandroaka ny Amorita teo anoloan' ny Isiraely olony; ary ianao kosa va te-haka ny tany?\""
+        },
+        {
+          "v": 24,
+          "text": "Moa tsy hotananao va izay tany omen' i Kemosy andriamanitrao anao? Ary izay tany rehetra omen' i Jehovah Andriamanitray anay dia mba hotananay kosa."
+        },
+        {
+          "v": 25,
+          "text": "Moa tsara noho Balaka, zanak' i Zipora, mpanjakan' i Moaba, va ianao? Nety nanohitra ny Isiraely na niady taminy akory va izy?"
+        },
+        {
+          "v": 26,
+          "text": "Raha Isiraely nitoetra telonjato taona tany Hesbona sy ireo tanànany ary tany Aroera sy ireo tanànany ary tany amin' ireo tanàna rehetra eny amoron' i Arnona, nahoana no tsy nalainareo ny tany tamin' izany andro izany?"
+        },
+        {
+          "v": 27,
+          "text": "Noho izany dia tsy nanota taminao aho fa ianao no manisy ratsy ahy, fa miady amiko: aoka Jehovah Mpitsara no hitsara ny Zanak' Isiraely sy ny taranak' i Amona anio."
+        },
+        {
+          "v": 28,
+          "text": "Nefa tsy nohenoin' ny mpanjakan' ny taranak' i Amona ny tenin' i Jefta izay nampitondrainy tany aminy."
+        },
+        {
+          "v": 29,
+          "text": "\"Ary tonga tamin' i Jefta ny Fanahin' i Jehovah, dia nandeha nitety an' i Gileada sy Manase izy; dia nitety an' i Mizpa any Gileada koa izy ka niala tany Mizpa any Gileada, dia nandroso nankany amin' ny taranak' i Amona.\""
+        },
+        {
+          "v": 30,
+          "text": "Ary Jefta nivoady tamin' i Jehovah ka nanao hoe: Raha hatolotrao eo an-tanako tokoa ny taranak' i Amona,"
+        },
+        {
+          "v": 31,
+          "text": "Dia izao no hisy, ho an' i Jehovah tokoa izay mivoaka amin' ny varavaran' ny tranoko hitsena ahy, rehefa miverina soa aman-tsara avy any amin' ny taranak' i Amona aho, ary hateriko ho fanatitra dorana izany."
+        },
+        {
+          "v": 32,
+          "text": "Dia nandeha Jefta nankany amin' ny taranak' i Amona hiady aminy: ary natolotr' i Jehovah teo an-tanany ireo."
+        },
+        {
+          "v": 33,
+          "text": "Dia namono azy hatrany Aroera izy ka hatrany akaikin' i Minita, dia tanàna roapolo, sy hatrany amin' ny tany lemaky ny tanimboaloboka, ka be dia be no maty. Dia resy teo anoloan' ny Zanak' Isiraely ny taranak' i Amona."
+        },
+        {
+          "v": 34,
+          "text": "\"Ary Jefta tonga tany Mizpa ho any an-tranony, ary, indro, nivoaka ny zanany vavy niaraka tamin' ny ampongatapaka sy ny dihy hitsena azy; ary vavy tokany io, fa tsy nanana zanakalahy na zanakavavy afa-tsy io izy.\""
+        },
+        {
+          "v": 35,
+          "text": "\"Ary izao no niseho, rehefa nahita azy Jefta dia nandriatra ny fitafiany ka nanao hoe: Indrisy, ry zanako vavy! efa nampitanondrika ahy indrindra ianao, ary ianao no tonga nampidi-doza tamiko; fa efa niloa-bava tamin' i Jehovah aho, ka tsy azoko afody intsony.\""
+        },
+        {
+          "v": 36,
+          "text": "Fa hoy ny zanany vavy taminy: Ry dada ô, raha niloa-bava tamin' i Jehovah àry ianao, dia ataovy amiko araka izay naloaky ny vavanao, satria Jehovah efa namaly ho anao ny amin' ny fahavalonao, dia ny amin' ny taranak' i Amona."
+        },
+        {
+          "v": 37,
+          "text": "Dia hoy izy tamin' ny rainy: Aoka izao no hatao amiko, aza maninona ahy aloha hatramin' ny roa volana mba hiakarako sy hidinako any an-tendrombohitra hitomaniako ny maha-virijina ahy, dia izaho sy ny namako."
+        },
+        {
+          "v": 38,
+          "text": "Dia hoy ny rainy: Mandehana àry. Dia nampandeha azy roa volana izy, ary nandeha razazavavy sy ny namany ka nitomany teny an-tendrombohitra noho ny maha-virijina azy."
+        },
+        {
+          "v": 39,
+          "text": "Ary izao no niseho, rehefa tamin' ny fiafaran' ny roa volana dia niverina tany amin' ny rainy izy, ka nataony tamin-drazazavavy araka ny voadiny izay nataony, ary tsy mbola nahalala lahy izy. Ary tonga fanao teo amin' ny Isiraely izany,"
+        },
+        {
+          "v": 40,
+          "text": "Fa nandeha isan-taona ny zanakavavin' ny Isiraely hitomany ny zanakavavin' i Jefta Gileadita hefarana isan-taona."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Ary nivory ny lehilahy amin' ny Efraima, dia nandeha nianavaratra ka nanao tamin' i Jefta hoe: Nahoana no nandeha niady tamin' ny taranak' i Amona ianao ka tsy mba niantso anay hiaraka aminao? Hodoranay amin' ny afo ianao sy ny tranonao."
+        },
+        {
+          "v": 2,
+          "text": "Fa hoy Jefta taminy: Izaho sy ny oloko efa nanana ady mafy tamin' ny taranak' i Amona, ary raha niantso anareo aho, dia tsy namonjy ahy tamin' ny tanany ianareo."
+        },
+        {
+          "v": 3,
+          "text": "Ary rehefa hitako fa tsy namonjy ahy ianareo, dia nanao ny aiko tsy ho zavatra aho ka nandeha niady tamin' ny taranak' i Amona, ary natolotr' i Jehovah teo an-tanako izy, koa nahoana ianareo no miakatra aty amiko anio hiady amiko?"
+        },
+        {
+          "v": 4,
+          "text": "\"Ary Jefta dia namory ny lehilahy rehetra amin' ny Gileada ka niady tamin' ny Efraima; ary dia namely ny Efraima ny lehilahy amin' ny Gileada, satria hoy ireo: Ianareo Gileadita dia mpandositra avy amin' ny Efraima eo amin' ny taranak' i Efraima sy Manase.\""
+        },
+        {
+          "v": 5,
+          "text": "\"Dia novonjen' ny Gileada ny fitàna any Jordana mankany amin' ny Efraima; ary nony niteny ny mpandositra avy amin' ny Efraima nanao hoe: Aoka mba hita aho; dia hoy ny lehilahy amin' ny Gileada taminy: Efraimita va ianao? ary raha hoy izy: Tsia,\""
+        },
+        {
+          "v": 6,
+          "text": "\"Dia hoy izy ireo taminy: Tonòny ary ny hoe Shiboleta, fa hoy kosa izy Siboleta, satria tsy nahay nanonona izany marina izy. Dia nisambotra azy ireo ka namono azy teo amin' ny fitàna ao Jordana; ary nahafatesana roa arivo sy efatra alina ny Efraimita tamin' izany andro izany.\""
+        },
+        {
+          "v": 7,
+          "text": "Dia nitsara ny Isiraely enin-taona Jefta. Ary maty Jefta Gileadita ka nalevina tao amin' ny tanàna anankiray any Gileada."
+        },
+        {
+          "v": 8,
+          "text": "Ary Ibzana, avy any Betlehema, no nitsara ny Isiraely nandimby an' i Jefta."
+        },
+        {
+          "v": 9,
+          "text": "Ary nanana zanakalahy telopolo sy zanakavavy telopolo izy, izay nampanambadiny tany ivelany, ary zazavavy telopolo kosa no nampidiriny ho an' ny zanany lahy. Ary nitsara ny Isiraely fito taona izy."
+        },
+        {
+          "v": 10,
+          "text": "Dia maty Ibzana ka nalevina tany Betlehema."
+        },
+        {
+          "v": 11,
+          "text": "\"Ary Elona Zebolonita no nitsara nandimby azy; ary nitsara ny Isiraely folo taona izy.\""
+        },
+        {
+          "v": 12,
+          "text": "Dia maty Elona Zebolonita ka nalevina tany Aialona ao amin' ny tanin' ny Zebolona."
+        },
+        {
+          "v": 13,
+          "text": "Ary Abdona, zanak' i Elela, avy any Piratona, no nitsara ny Isiraely nandimby azy."
+        },
+        {
+          "v": 14,
+          "text": "Ary nanana zanakalahy efapolo sy zafy telopolo izay nitaingina zana-boriky fitopolo izy ary nitsara ny Isiraely valo taona."
+        },
+        {
+          "v": 15,
+          "text": "Ary maty Abdona, zanak' i Elela, avy any Piratona, ka nalevina tany Piratona any amin' ny tanin' ny Efraima any amin' ny tendrombohitry ny Amalekita."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Ary ny Zanak' Isiraely nanao izay ratsy teo imason' i Jehovah indray, ka dia natolotr' i Jehovah teo an-tanan' ny Filistina efapolo taona izy."
+        },
+        {
+          "v": 2,
+          "text": "\"Ary nisy lehilahy avy tany Zora amin' ny ankohonan' ny Danita, Manoa no anarany; ary momba ny vadiny ka tsy niteraka.\""
+        },
+        {
+          "v": 3,
+          "text": "\"Ary Ilay Anjelin' i Jehovah niseho tamin-dravehivavy ka nanao taminy hoe: Indro, ankehitriny, momba ianao ka tsy niteraka; nefa hanana anaka ianao ka hiteraka zazalahy.\""
+        },
+        {
+          "v": 4,
+          "text": "Koa mitandrema ianao ankehitriny, ka aza misotro divay na toaka, ary aza mihinana akory izay zava-padina."
+        },
+        {
+          "v": 5,
+          "text": "\"Fa, indro, hanana anaka ianao ka hiteraka zazalahy, ary tsy hokasihin-kareza ny lohany; fa ho Nazirita ho an' Andriamanitra hatrany an-kibo ny zaza; ary izy no hanomboka hanafaka ny Isiraely amin' ny tanan' ny Filistina.\""
+        },
+        {
+          "v": 6,
+          "text": "Dia nandeha ravehivavy ka nilaza tamin' ny vadiny hoe: Nisy lehilahin' Andriamanitra tonga tamiko, ary nahatahotra indrindra ny fijery azy, tahaka ny fijery Ilay Anjelin' Andriamanitra, ka tsy nanontany azy izay niaviany aho, ary tsy nambarany ahy ny anarany."
+        },
+        {
+          "v": 7,
+          "text": "\"Ary hoy izy tamiko: Indro, hanana anaka ianao ka hiteraka zazalahy; koa ankehitriny dia aza misotro divay na toaka ianao, ary aza mihinana akory izay zava-padina; fa ho Nazirita ho an' Andriamanitra ny zaza hatrany an-kibo ka ambara-pahafatiny.\""
+        },
+        {
+          "v": 8,
+          "text": "Ary Manoa nangataka tamin' i Jehovah ka nanao hoe: Ry Tompoko ô, aoka hiseho aminay indray ny lehilahin' Andriamanitra, ilay efa nirahinao, ka hampianatra anay ny hitondranay ny zaza izay ho teraka."
+        },
+        {
+          "v": 9,
+          "text": "\"Ary Andriamanitra nihaino ny feon' i Manoa, ka dia nankany amin-dravehivavy indray Ilay Anjelin' Andriamanitra, raha tany an-tsaha izy; fa Manoa vadiny tsy teo aminy.\""
+        },
+        {
+          "v": 10,
+          "text": "Dia nihazakazaka faingana ravehivavy ka nanambara tamin' ny vadiny hoe: Indro, niseho tamiko indray ny lehilahy izay tonga tamiko tamin' ilay indray andro."
+        },
+        {
+          "v": 11,
+          "text": "Dia nitsangana Manoa ka nandeha nanaraka ny vadiny dia nankany amin-dralehilahy ka nanao taminy hoe: Ianao moa ilay lehilahy niteny tamin-dravehivavy? Dia hoy Izy: Eny, Izaho no Izy."
+        },
+        {
+          "v": 12,
+          "text": "Dia hoy Manoa: Aoka ho t-nteraka ilay teninao. Ahoana ange no hitondranay ny zaza, ary ahoana no hataonay aminy?"
+        },
+        {
+          "v": 13,
+          "text": "Ary hoy Ilay Anjelin' i Jehovah tamin' i Manoa: Izay rehetra efa nolazaiko tamin-dravehivavy dia aoka hotandremany avokoa."
+        },
+        {
+          "v": 14,
+          "text": "\"Izay rehetra avy amin' ny voaloboka dia aza avela hohaniny, ary aza avela hisotro divay na toaka izy, na hihinana akory izay zava-padina; izay rehetra nandidiako azy dia aoka hotandremany avokoa.\""
+        },
+        {
+          "v": 15,
+          "text": "Ary hoy Manoa tamin' Ilay Anjelin' i Jehovah: Masìna Ianao, aoka mba hotananay ianao mandra-pamboatray zanak' osy ho Anao."
+        },
+        {
+          "v": 16,
+          "text": "\"Dia hoy Ilay Anjelin' i Jehovah tamin' i Manoa: Na dia tananao aza aho, tsy mba hihinana amin' ny haninao Aho tsy akory; fa raha hanolotra fanatitra dorana ianao, dia tokony ho amin' i Jehovah no hanoloranao izany; fa tsy fantatr' i Manoa ho Anjelin' i Jehovah izy.\""
+        },
+        {
+          "v": 17,
+          "text": "Dia hoy Manoa tamin' Ilay Anjelin' i Jehovah: Iza moa no anaranao, mba hanomezanay voninahitra Anao rehefa tanteraka ny teninao?"
+        },
+        {
+          "v": 18,
+          "text": "Ary hoy Ilay Anjelin' i Jehovah taminy: Nahoana no manontany ny anarako ianao? fa zava-miafina izany."
+        },
+        {
+          "v": 19,
+          "text": "\"Dia naka zanak' osy sy ny fanatitra hohanina Manoa ka nanolotra izany teo ambonin' ny vatolampy ho an' i Jehovah; ary Ilay Anjely nanao zava-mahagaga ka nijery teo Manoa sy ny vadiny.\""
+        },
+        {
+          "v": 20,
+          "text": "Fa izao no niseho, raha niakatra ho amin' ny lanitra ny lelafo avy teo amin' ny alitara, dia niakatra tao anatin' ny lelafo avy teo amin' ny alitara Ilay Anjelin' i Jehovah. Ary nijery izany Manoa sy ny vadiny ka dia niankohoka tamin' ny tany."
+        },
+        {
+          "v": 21,
+          "text": "\"Ary tsy niseho tamin' i Manoa sy ny vadiny intsony Ilay Anjelin' i Jehovah; dia fantatr' i Manoa fa Anjelin' i Jehovah Izy.\""
+        },
+        {
+          "v": 22,
+          "text": "Dia hoy Manoa tamin' ny vadiny: Ho faty tokoa isika satria efa nahita an' Andriamanitra."
+        },
+        {
+          "v": 23,
+          "text": "Fa hoy ny vadiny taminy: Raha sitrak' i Jehovah ny hahafaty antsika, dia tsy ho nety nandray fanatitra dorana sy fanatitra hohanina tamin' ny tanantsika akory Izy, ary tsy naneho antsika izao zavatra rehetra izao, na nilaza tamintsika izay zavatra tahaka izao ankehitriny izao."
+        },
+        {
+          "v": 24,
+          "text": "\"Ary niteraka zazalahy ravehivavy, ka ny anarany nataony hoe Samsona; dia nitombo ny zaza, ary Jehovah nitahy azy.\""
+        },
+        {
+          "v": 25,
+          "text": "Dia niantomboka nanindry azy tsindraindray ny Fanahin' i Jehovah tao an-tobin' i Dana teo anelanelan' i Zora sy Estaola."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Ary Samsona nidina nankany Timna ka nahita vehivavy tao Timna avy tamin' ny zanakavavin' ny Filistina."
+        },
+        {
+          "v": 2,
+          "text": "\"Ary niakatra izy, dia nilaza tamin-drainy sy reniny hoe: Efa nahita vehivavy tany Timna avy tamin' ny zanakavavin' ny Filistina aho; koa alao ho vadiko izy ankehitriny.\""
+        },
+        {
+          "v": 3,
+          "text": "Fa hoy ny rainy sy ny reniny taminy: Moa tsy misy vehivavy mihitsy va eto amin' ny zanakavavin' ny rahalahinao, na ato amin' ny fireneko rehetra, no dia mandeha maka vady any amin' ny Filistina tsy mifora ianao? Dia hoy Samsona tamin-drainy: Izy no alao ho ahy, fa izy no mahafinaritra ahy tokoa."
+        },
+        {
+          "v": 4,
+          "text": "\"Fa tsy fantatry ny rainy sy ny reniny fa avy tamin' i Jehovah izany, satria nitady izay hiadiany tamin' ny Filistina izy; fa ny Filistina no nanapaka ny Isiraely tamin' izany fotoana izany.\""
+        },
+        {
+          "v": 5,
+          "text": "Dia nidina Samsona sy ny rainy aman-dreniny nankany Timna. Ary nony tonga tao amin' ny tanimboaloboka tany Timna izy, indro, nisy liona tanora, izay nierona taminy."
+        },
+        {
+          "v": 6,
+          "text": "\"Dia nilatsaka tamin-kery tamin' i Samsona ny Fanahin' i Jehovah, ary ilay liona tanora dia nosamatsamahiny ohatra ny fanasamatsamaka zanak' osy, nefa tsy nisy na inona na inona teny an-tanany; ary tsy nambarany tamin' ny rainy, na tamin' ny reniny izay efa nataony.\""
+        },
+        {
+          "v": 7,
+          "text": "\"Dia nidina izy ka niresaka tamin-dravehivavy; ary nahafinaritra an' i Samsona tokoa izy.\""
+        },
+        {
+          "v": 8,
+          "text": "\"Ary rehefa afaka kelikely, dia niverina hampakatra azy Samsona ka nivily hizaha ny fatin' ilay liona; ary, indro, nisy renintantely nivangongo sy tantely tao amin' ilay fatin' ny liona.\""
+        },
+        {
+          "v": 9,
+          "text": "\"Ary nalain' i Samsona izany ka nentiny teny an-tanany, dia nihinana teny am-pandehanana izy; ary nankany amin' ny ray aman-dreniny izy, dia nanome azy ka nihinana izy mivady; nefa tsy nambarany taminy fa avy tao amin' ny fatin' ilay liona no nangalany ny tantely.\""
+        },
+        {
+          "v": 10,
+          "text": "\"Dia nidina ho any amin-dravehivavy ny rain' i Samsona; ary nanao fanasana teo Samsona, fa izany no fanaon' ny zatovo.\""
+        },
+        {
+          "v": 11,
+          "text": "Ary izao no niseho, rehefa nahita azy izy mianakavy, dia nitondra namana telopolo lahy hitoetra ao aminy."
+        },
+        {
+          "v": 12,
+          "text": "\"Ary hoy Samsona tamin' ireo: hanao fampanonona aminareo aho ankehitriny; koa raha lazainareo amiko tokoa ny heviny ao anatin' ny hafitoana fanasana ka fantatrareo, dia homeko lobaka telopolo sy akanjo intelopolo miova ianareo.\""
+        },
+        {
+          "v": 13,
+          "text": "Fa raha tsy mahalaza amiko kosa ianareo, dia homenareo lobaka telopolo sy akanjo intelopolo miova aho. Dia hoy izy ireo: Ataovy àry ny fampanonona mba hohenoinay."
+        },
+        {
+          "v": 14,
+          "text": "\"Dia hoy Samsona taminy: Avy tao amin' ny mpihinana no nivoahan' ny hanina; ary avy tao amin' ny mahery no nivoahan' ny mamy. Dia tsy nahalaza ny fampanonona izy tao anatin' ny hateloana.\""
+        },
+        {
+          "v": 15,
+          "text": "\"Ary izao no niseho, tamin' ny andro fahafito, dia hoy izy ireo tamin' ny vadin' i Samsona: Taomy ny vadinao hilaza ny fampanonona aminay, fandrao hodoranay amin' ny afo ianao sy ny ankohonan-drainao; efa nanasa anay va ianareo hoentinareo mifafa izay anananay? Moa tsy izany va?\""
+        },
+        {
+          "v": 16,
+          "text": "\"Ary ny vadin' i Samsona dia nitomany teo anatrehany ka nanao hoe: Halanao aho, fa tsy tianao tsy akory; efa nanao fampanonona tamin' ny zanaky ny fireneko ianao, nefa tsy nolazainao tamiko ny heviny. Ary hoy izy taminy :Indro, na dia ny Ray sy ny Reniko aza tsy nilazako azy, ka ianao va no hilazako?\""
+        },
+        {
+          "v": 17,
+          "text": "\"Dia nitomany teo anatrehany nandritra ny hafitoana izay naharetan' ny fanasana ravehivavy; ary izao no niseho, tamin' ny andro fahafito dia nolazain' i Samsona tamin-dravehivavy, satria nitorikisina taminy izy; ary ravehivavy kosa nilaza ny fampanonona tamin' ny zanaky ny fireneny.\""
+        },
+        {
+          "v": 18,
+          "text": "\"Ary nony tamin' ny andro fahafito, raha tsy mbola maty ny masoandro, dia hoy ny lehilahy tao an-tanàna tamin' i Samsona: Inona no mamy noho ny tantely; ary inona no mahery noho ny liona? Ary hoy kosa izy taminy: Raha tsy nampiasa ny ombivavikeliko ianareo, dia tsy ho nahalala ny fampanonona nataoko.\""
+        },
+        {
+          "v": 19,
+          "text": "Dia nilatsaka tamin' i Samsona ny Fanahin' i Jehovah ka nidina nankany Askelona izy, dia namono telopolo lahy tao, ary naka ny fananany, ka nalainy ny fitafian' ireo ary nomeny ho an' izay nilaza ny fampanonona. Dia nirehitra ny fahatezeran' i Samsona, ka niakatra nankany amin' ny tranon-drainy izy."
+        },
+        {
+          "v": 20,
+          "text": "Fa ny vadin' i Samsona dia lasan' ny ny namany, izay efa nataony sakaizany."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "v": 1,
+          "text": "\"Ary izao no niseho, rehefa afaka kelikely, tamin' ny taom-pijinjana ny vary tritika, dia namangy ny vadiny nitondra zanak' osy Samsona; ary hoy izy: Hiditra ao amin' ny vadiko ao an' efitrano aho. Nefa tsy namela azy hiditra ny rain-dravehivavy.\""
+        },
+        {
+          "v": 2,
+          "text": "Ary hoy ny rain-dravehivavy: Noheveriko fa halanao tanteraka izy, ka dia nomeko ho an' ny namanao. Moa tsy tsara tarehy noho izy va ny zandriny? Masìna ianao, alao izy ho solony."
+        },
+        {
+          "v": 3,
+          "text": "Dia hoy Samsona ny amin' izy ireo: Tsy hanan-tsiny aho izao, na dia hanisy ratsy ny Filistina aza."
+        },
+        {
+          "v": 4,
+          "text": "\"Dia nandeha Samsona ka nisambotra amboahaolo telonjato; dia naka zavatra hatao fanilo izy, ary nampifanendreny ny rambon' ny amboahaolo tsiroaroa avy ka nafehiny tao anelanelan' ny rambony roa ilay hatao fanilo.\""
+        },
+        {
+          "v": 5,
+          "text": "Ary rehefa nampirehetiny ny fanilo, dia nalefany ho any amin' ny amboaram-barimbazahan’ny Filistina ireny, ka nandoro ny amboara sy izay mbola mitsangana, sy ny tanimboaloboka ary ny oliva."
+        },
+        {
+          "v": 6,
+          "text": "Ary hoy ny Filistina: Iza no nanao izao? Ary nisy nanao hoe: I Samsona vinanton' ilay Timnita, satria ny rafozany efa nanome ny vadiny ho an' ny sakaizany. koa niakatra ny Filistina ka nandoro an-dravehivavy sy ny ankohonan-drainy tamin' ny afo."
+        },
+        {
+          "v": 7,
+          "text": "\"Ary hoy Samsona taminy: Koa satria nanao izany ianareo, dia mbola hamaly anareo aho; ary aorian' izany, vao hitsahatra aho.\""
+        },
+        {
+          "v": 8,
+          "text": "\"Dia namely azy izy ka nahatapaka ranjo sy fe ary nahafaty be dia be; dia nidina izy ka nitoetra teo an-tsefatsefak' ilay harambato mitresaka any Etama.\""
+        },
+        {
+          "v": 9,
+          "text": "Ary niakatra ny Filistina, dia nitoby teo amin' ny Joda ka niely tany Lehy."
+        },
+        {
+          "v": 10,
+          "text": "Ary hoy ny lehilahy amin' ny Joda: Nahoana no miakatra hamely anay ianareo? Dia hoy izy: Hamatotra an' i Samsona no niakaranay, mba hanao aminy tahaka izay efa nataony taminay."
+        },
+        {
+          "v": 11,
+          "text": "Dia nandeha ny lehilahy telo arivo tamin' ny Joda nankany amin' ilay tsefatsefaky ny harambato mitresaka any Etama ka nanao tamin' i Samsona hoe: Tsy fantatrao va fa manapaka antsika ny Filistina? Inona izao nataonao taminay izao? Dia hoy izy taminy: Araka izay nataony tamiko no mba nataoko taminy."
+        },
+        {
+          "v": 12,
+          "text": "Dia hoy izy ireo taminy: Hamatotra anao no nidinanay, mba hatolotray ho eo an-tanan' ny Filistina ianao. Dia hoy Samsona taminy: Mianiàna amiko àry fa tsy hamely ahy ianareo."
+        },
+        {
+          "v": 13,
+          "text": "Dia niteny taminy izy ireo ka nanao hoe: Tsia, fa hamatotra anao fotsiny ihany izahay ka hanolotra anao eo an-tanany fa tsy hamono anao tsy akory izahay. Dia namatotra azy tamin' ny mahazaka roa vaovao izy ka nitondra azy niala tamin' ilay harambato."
+        },
+        {
+          "v": 14,
+          "text": "\"Ary raha tonga tany Lehy izy, dia nanakora azy ny Filistina; ary ny Fanahin' i Jehovah nilatsaka tamin-kery taminy, dia tonga tahaka ny rongony izay nodorana tamin' ny afo ny mahazaka teny amin' ny sandriny ary afaka tamin' ny tanany ny fatorana.\""
+        },
+        {
+          "v": 15,
+          "text": "Ary nahita valanoranom-boriky vaovao izy, dia naninjitra ny tanany naka azy, ka iny no namonoany arivo lahy."
+        },
+        {
+          "v": 16,
+          "text": "\"Ary hoy Samsona: tamin' ny valanoranom-boriky no nivangongoan' ny antontany; tamin' ny valanoranom-boriky no nahafatesako arivo lahy.\""
+        },
+        {
+          "v": 17,
+          "text": "\"Ary izao no niseho, rehefa nitsahatra niteny izy, dia nariany ilay valanoranom-boriky teny an-tanany; ary ny anaran' izany tany izany dia nataony hoe Ramata-lehy.\""
+        },
+        {
+          "v": 18,
+          "text": "\"Ary nangetaheta indrindra izy, dia nitaraina tamin' i Jehovah ka nanao hoe: Ianao no nanome izao fanafahana lehibe izao tamin' ny tanan' ny mpanomponao; ary ankehitriny ho fatin-ketaheta va aho, ka hianjera ho eo an-tanan' ny tsy mifora?\""
+        },
+        {
+          "v": 19,
+          "text": "\"Fa nampitresahin' Andriamanitra ny toerana hoboka teo amin' ilay valanorano ka niboiboika teo ny rano; ary rehefa nisotro izy, dia nody indray ny ainy ka velona izy; koa izany na nanaovany ny anarany hoe En-hakore, izay any Lehy mandraka androany.\""
+        },
+        {
+          "v": 20,
+          "text": "Dia nitsara ny Isiraely roapolo taona tamin' ny andron' ny Filistina izy."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Ary Samsona nankany Gaza ka nahita vehivavy janga teo, dia niditra tao aminy."
+        },
+        {
+          "v": 2,
+          "text": "\"Ary nolazaina tamin' ny Gazita hoe: Tonga aty Samsona. Dia nanemitra azy izy ary nanotrika mandritra ny alina teo am-bavahadin' ny tanàna ka nangina mandritra ny alina; fa hoy izy: Raha maraina ny andro, dia hovonointsika izy.\""
+        },
+        {
+          "v": 3,
+          "text": "Ary nandry Samsona mandra-pahamamatonalina, dia nifoha izy ka noraisiny ny vavahadin' ny tanàna mbamin' ny tolana roa, dia nongotany izany mbamin' ny hidiny ka nataony teny an-tsorony, dia nentiny ho any an-tampon' ny tendrombohitra izay tandrifin' i Hebrona."
+        },
+        {
+          "v": 4,
+          "text": "Ary izao no niseho, taorian' izany, dia tia vehivavy atao hoe Delila izy, tany an-dohasaha Soreka."
+        },
+        {
+          "v": 5,
+          "text": "Ary ireo andrianan' ny Filistina niakatra nankany amin-dravehivavy ka nanao taminy hoe: Kolikoleo izy, ka izahao izay itoeran' ny heriny lehibe sy izay ahazoanay mandresy azy mba hahazoanay mamatotra azy ka hampahoriana azy, dia samy hanome anao sekely zato amby arivo avy izahay rehetra."
+        },
+        {
+          "v": 6,
+          "text": "Dia hoy Delila tamin' i Samsona: Masìna ianao, lazao amiko izay itoeran' ny herinao lehibe sy izay ahazoana mamatotra anao hampahoriana anao."
+        },
+        {
+          "v": 7,
+          "text": "Dia hoy Samsona taminy: Raha tady vaovao fito izay tsy mbola maina no amatorana ahy, dia ho osa aho ka ho tahaka ny olon-kafa."
+        },
+        {
+          "v": 8,
+          "text": "Dia niakatra nankany amin-dravehivavy ireo andrianan' ny Filistina nitondra tady vaovao fito izay tsy mbola maina, dia namatotra azy tamin' ireny ravehivavy."
+        },
+        {
+          "v": 9,
+          "text": "Ary nisy lehilahy nanotrika ka nitoetra taminy tao an' efitrano. Dia hoy ravehivavy tamin' i Samsona: Hamely anao ny Filistina, ry Samsona! Dia notosany ny tady, tahaka ny fahamaiton' ny taretran-drongony, raha lelafin' ny afo. Dia tsy fantatra ny heriny."
+        },
+        {
+          "v": 10,
+          "text": "\"Ary hoy Delila tamin' i Samsona: Indro, efa namitaka ahy ianao ka nilaza lainga tamiko; ankehitriny, masìna ianao, lazao amiko izay ahazoana mamatotra anao.\""
+        },
+        {
+          "v": 11,
+          "text": "Dia hoy kosa izy taminy: Raha mahazaka vaovao izay tsy mbola nanaovan-draharaha no amatorany ahy mafy, dia ho osa aho ka ho tahaka ny olon-kafa."
+        },
+        {
+          "v": 12,
+          "text": "Dia naka mahazaka vaovao Delila, ka namatotra azy, dia hoy izy taminy: Hamely anao ny Filistina, ry Samsona! Ary nisy mpanotrika nitoetra tao an' efitrano. Dia notosan' i Samsona ho afaka tamin' ny sandriny ireny tahaka ny fahamaiton' ny taretra."
+        },
+        {
+          "v": 13,
+          "text": "\"Dia hoy Delila tamin' i Samsona: mandraka ankehitriny dia mbola namitaka ahy ihany ianao ka nilaza lainga tamiko; lazao amiko izay ahazoana mamatotra anao. Dia hoy kosa izy taminy: Raha tenominao hikambana amin' ny tenona ny foto-bolo fito amin' ny lohako.\""
+        },
+        {
+          "v": 14,
+          "text": "Ary notsatohany fàntaka izany, dia hoy izy taminy: Hamely anao ny Filistina, ry Samsona! Dia nifoha tamin' ny torimasony izy, ka nongotany ny fàntaka sy ny tenona."
+        },
+        {
+          "v": 15,
+          "text": "Dia hoy ravehivavy taminy: Ahoana no ahazoanao milaza hoe: Tiako ianao, nefa ny fonao tsy amiko tsinona? Efa namitaka ahy intelo ianao izay, ka tsy mbola nolazainao tamiko ihany izay itoeran' ny herinao lehibe."
+        },
+        {
+          "v": 16,
+          "text": "Ary izao no niseho, rehefa nitorikisina taminy isan' andro tamin' ny teniny ravehivavy ka nanery azy, dia tsy nahafinaritra ny fanahiny intsony ny miaina."
+        },
+        {
+          "v": 17,
+          "text": "\"Ary dia nambarany azy ny tao am-pony rehetra, ka hoy izy taminy: Tsy mbola nokasihin-kareza ny lohako, fa Nazirita ho an' Andriamanitra hatrany an-kibon-dreniko aho; koa raha haratana aho, dia hiala amiko ny heriko, ary ho osa aho ka ho tahaka ny olona rehetra.\""
+        },
+        {
+          "v": 18,
+          "text": "Ary rehefa hitan' i Delila fa efa nambarany azy ny tao am-pony rehetra, dia naniraka nampaka ny andrianan' ny Filistina izy, ka nanao hoe: Miakara amin' izao indray mandeha izao, fa efa nasehony ahy ny tao am-pony rehetra. Ary ireo andrianan' ny Filistina niakatra ho any aminy nitondra ny vola teny an-tanany."
+        },
+        {
+          "v": 19,
+          "text": "\"Ary ravehivavy nanondana an' i Samsona hatory teo an-dohaliny, dia niantso lehilahy iray ka nampanaratra ny foto-bolo fito tamin' ny lohany; dia vao izay no nampahory azy ravehivavy, ary dia niala taminy ny heriny.\""
+        },
+        {
+          "v": 20,
+          "text": "Dia hoy ravehivavy: Hamely anao ny Filistina, ry Samsona! Dia nifoha tamin' ny torimasony izy ka nanao hoe: Hivoaka tahaka ny teo aloha aho ka hanetsika ny tenako. Kanjo tsy fantany fa efa niala taminy Jehovah."
+        },
+        {
+          "v": 21,
+          "text": "\"Fa nisambotra azy ny Filistina ka namotsitra ny masony, dia nitondra azy nidina nankany Gaza ary namatotra azy tamin' ny gadra varahina; ary dia nitoto varimbazaha tao an-tranomaizina izy.\""
+        },
+        {
+          "v": 22,
+          "text": "Na izany aza dia nanomboka naniry indray ny volon-dohany, rehefa voaharatra."
+        },
+        {
+          "v": 23,
+          "text": "\"Ary nivory ireo andrianan' ny Filistina mba hamono zavatra betsaka hatao fanatitra ho an' i Dagona andriamaniny sy hifaly; fa hoy izy: Efa natolotry ny andriamanitsika eto an-tanantsika i Samsona fahavalontsika.\""
+        },
+        {
+          "v": 24,
+          "text": "Ary rehefa nahita azy ny vahoaka, dia nidera ny andriamaniny ka nanao hoe: Efa natolotry ny andriamanitsika eto an-tanantsika ilay fahavalontsika mpanimba ny tanintsika, izay naha-be maty antsika."
+        },
+        {
+          "v": 25,
+          "text": "\"Ary izao no niseho, rehefa faly ny fony, dia hoy izy ireo: Alao Samsona mba hanao laolao ho antsika. Dia nampaka an' i Samsona avy tao an-tranomaizina izy, ka nanao laolao teo anatrehan' ireo Samsona; ary nampitsanganiny teo anelanelan' ny andry izy.\""
+        },
+        {
+          "v": 26,
+          "text": "Ary hoy Samsona tamin' ny zatovo izay nitantana azy: Avelao kely aho hitsapa ny andry izay manohana ny trano, hiankinako aminy."
+        },
+        {
+          "v": 27,
+          "text": "Ary feno lehilahy sy vehivavy ny trano, ary tao ireo andrianan' ny Filistina rehetra, ary teo an-tampon-trano koa nisy lehilahy sy vehivavy tokony ho telo arivo izay nijery an' i Samsona nanao laolao."
+        },
+        {
+          "v": 28,
+          "text": "Ary Samsona niantso an' i Jehovah ka nanao hoe: Jehovah Tompo ô, mifona aminao aho, tsarovy aho, ary mifona aminao aho, ampaherezo izao indray mandeha izao monja aho, ry Andriamanitra ô, hamaliako avy hatrany ny Filistina noho ny amin' ireo masoko roa."
+        },
+        {
+          "v": 29,
+          "text": "Dia notanan' i Samsona ny andry roa teo afovoany izay nitsanganan' ny trano sy nanohana izany, ny anankiray tamin' ny tanany ankavanana, ary ny anankiray tamin' ny tanany ankavia."
+        },
+        {
+          "v": 30,
+          "text": "Dia hoy Samsona: Aoka hiara-maty amin' ny Filistina aho. Dia nezahiny mafy tamin' ny heriny rehetra ka dia nianjera tamin' ireo andriana sy ireo vahoaka rehetra izay teo ny trano. Ary ny maty izay novonoiny teo amin' ny nahafatesany dia be lavitra noho izay novonoiny tamin' ny andro nahavelomany."
+        },
+        {
+          "v": 31,
+          "text": "Ary nidina ny rahalahiny sy ny mpianakavin-drainy rehetra, dia naka ny fatiny ka nitondra azy niakatra ary nandevina azy teo anelanelan' i Zora sy Estaola tao amin' ny toeram-pandevenan' i Manoa rainy. Ary efa nitsara ny Isiraely roapolo taona izy."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Ary nisy lehilahy tany an-tendrombohitr' i Efraima, Mika no anarany."
+        },
+        {
+          "v": 2,
+          "text": "Ary hoy izy tamin' ny reniny: Ilay sekely volafotsy zato amby arivo nalaina taminao, izay nasianao ozona sady nolazainao teo anatrehako, indro, ato amiko ny vola: izaho no naka azy. Dia hoy ny reniny: Hotahian' i Jehovah anie ny zanako."
+        },
+        {
+          "v": 3,
+          "text": "\"Ary rehefa naveriny tamin' ny reniny ny sekely volafotsy zato amby arivo, dia hoy reniny: Efa natokako tanteraka ho an' i Jehovah ny volafotsy avy tamin' ny tanako ho an' ny zanako, hanaovana sarin-javatra voasokitra sy sarin-javatra an' idina; ary ankehitriny dia haveriko ho aminao izany.\""
+        },
+        {
+          "v": 4,
+          "text": "\"Nefa dia naveriny tamin-dreniny ny volafotsy, ary naka volafotsy roanjato ny reniny, ka nomeny ny mpanao an' idina hatao sarin-javatra voasokitra sy sarin-javatra an' idina; dia natao tao an-tranon' i Mika izany.\""
+        },
+        {
+          "v": 5,
+          "text": "\"Ary nanana tranon' andriamanitra ralehilahy Mika sady nanao efoda sy terafima; ary ny anankiray tamin' ny zanany no natokany ka tonga mpisorona.\""
+        },
+        {
+          "v": 6,
+          "text": "\"Tamin' izany andro izany dia tsy nisy mpanjaka tamin' ny Isiraely; fa samy nanao izay marina teo imasony avy ny olona rehetra.\""
+        },
+        {
+          "v": 7,
+          "text": "Ary nisy zatovo iray avy any Betlehema-joda, tamin' ny ankohonan' i Joda, ary Levita izy sady nivahiny tao."
+        },
+        {
+          "v": 8,
+          "text": "\"Ary niala tao an-tanàna Betlehema-joda ralehilahy hivahiny any amin' izay azony itoerana; ary nony nandeha izy dia tonga tany an-tendrombohitr' i Efraima tao an-tranon' i Mika.\""
+        },
+        {
+          "v": 9,
+          "text": "Ary hoy Mika taminy: Avy aiza moa ianao? Dia hoy kosa izy taminy: Levita avy any Betlehema-joda aho ka mandeha hivahiny eny amin' izay azoko itoerana."
+        },
+        {
+          "v": 10,
+          "text": "Dia hoy Mika taminy: Mitoera aty amiko ianao, ary aoka ho raiko sy ho mpisoroko, dia homeko sekely volafotsy folo isan-taona sy fitafiana ary hanina ianao. Dia niditra ilay Levita."
+        },
+        {
+          "v": 11,
+          "text": "Ary nanaiky hitoetra tao amin-dralehilahy ilay Levita, ka dia tonga tahaka ny zanany ilay zatovo."
+        },
+        {
+          "v": 12,
+          "text": "Dia natokan' i Mika ilay Levita, ka dia tonga mpisorony izy ary nitoetra tao an-tranon' i Mika."
+        },
+        {
+          "v": 13,
+          "text": "Dia hoy Mika: Fantatro izao fa hanisy soa ahy Jehovah, satria manana ity Levita ity ho mpisoroko aho."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "v": 1,
+          "text": "\"Ary tamin' izany andro izany dia tsy nisy mpanjaka teo amin' ny Isiraely; ary tamin' izany andro izany koa ny fokon' i Dana dia nitady lova mba honenany, satria na dia hatramin' izany andro izany aza dia tsy mbola nahazo ny lova rehetra ho azy teo amin' ireo fokon' ny Isiraely izy.\""
+        },
+        {
+          "v": 2,
+          "text": "\"Ary ny taranak' i Dana nandefa dimy lahy avy tao aminy teo amin' ny fianakaviany dia lehilahy mahery avy tany Zora sy Estaola, mba hisafo ny tany sy hizaha izany; ary hoy izy ireo taminy: Mandehana, izahao ny toetry ny tany; ary rehefa tonga tany an-tendrombohitr' i Efraima tao an-tranon' i Mika izy, dia nandry tao.\""
+        },
+        {
+          "v": 3,
+          "text": "Rehefa mby teo akaikin' ny tranon' i Mika izy, dia fantany ny feon' ilay zatovo Levita, dia nivily teo izy ka nanao taminy hoe: Iza no nitondra anao taty? Ary maninona aty amin' ity toerana ity ianao? Ary inona no anananao aty?"
+        },
+        {
+          "v": 4,
+          "text": "Dia hoy kosa izy taminy: Izany ka izany no nataon' i Mika tamiko, ary efa nanamby ahy izy, ka efa mpisorony aho izao."
+        },
+        {
+          "v": 5,
+          "text": "Dia hoy izy ireo taminy: Masìna ianao, manontania amin' Andriamanitra, mba ho fantatray na hambinina amin' ny lalana alehanay izahay na tsia."
+        },
+        {
+          "v": 6,
+          "text": "\"Dia hoy ilay mpisorona taminy: Mandehana soa aman-tsara; fa eo anatrehan' i Jehovah izao lalana alehanareo izao.\""
+        },
+        {
+          "v": 7,
+          "text": "Dia nandeha izy dimy lahy ka tonga tany Laisy, ary hitany ny olona tao fa nonina tsy nanana ahiahy tahaka ny fanaon' ny Sidoniana, nandry fahizay ka tsy nanana ahiahy, sady tsy nisy mpanapaka hahamena-maso azy teo amin' ny tany, na amin' inona na amin' inona, ary lavitra ny Sidoniana izy sady tsy nanan-draharaha tamin' olona akory."
+        },
+        {
+          "v": 8,
+          "text": "\"Dia nandeha ho any amin' ny rahalahiny any Zora sy Estaola ireo; ary hoy ny rahalahiny taminy: Inona no lazainareo?\""
+        },
+        {
+          "v": 9,
+          "text": "\"Dia hoy izy: Mitsangàna, ka aoka isika hiakatra hamely azy; fa efa nahita ny tany izahay ka indro tsara indrindra izany; moa mbola mijanonjanona ihany va ianareo? aza malain-kandeha hiditra hahazo ny tany.\""
+        },
+        {
+          "v": 10,
+          "text": "\"Raha mandeha ianareo, dia ho tonga any amin' ny olona tsy manana ahiahy sy any amin' ny tany malalaka; fa efa natolotr' Andriamanitra ho eo an-tananareo izany; dia tany tapi-javatra irina aty ambonin' ny tany.\""
+        },
+        {
+          "v": 11,
+          "text": "Dia nisy niainga avy tamin' ny fianakavian' ny Danita avy tany Zora sy Estaola, dia eninjato lahy efa voaomana tamin' ny fiadiany."
+        },
+        {
+          "v": 12,
+          "text": "\"Ary niakatra ireo ka nitoby tany Kiriata-jearima any Joda; izany no nanaovany ny anaran' izany toerana izany hoe: Mahane-dana mandraka androany; Indro, ao an-damosin' i Kiriata-jearima izany.\""
+        },
+        {
+          "v": 13,
+          "text": "Dia niala tao izy ka nandroso nankany amin' ny tendrombohitr' i Efraima, dia tonga tao an-tranon' i Mika."
+        },
+        {
+          "v": 14,
+          "text": "Ary namaly izy dimy lahy, izay nandeha hisafo ny tany Laisy, ka nanao tamin' ny rahalahiny hoe: Fantatrareo va fa ato amin' ireto trano ireto dia misy efoda sy terafima ary sarin-javatra voasokitra sy sarin-javatra an' idina? koa hevero izay hataonareo."
+        },
+        {
+          "v": 15,
+          "text": "Dia nivily tao izy ka tonga tao an-tranon' ilay zatovo Levita, dia tao an-tranon' i Mika, ka niarahaba azy."
+        },
+        {
+          "v": 16,
+          "text": "Ary ny eninjato lahy efa voaomana amin' ny fiadiany, izay avy amin' ny taranak' i Dana, dia nijanona teo amin' ny fidirana amin' ny vavahady."
+        },
+        {
+          "v": 17,
+          "text": "\"Ary niakatra izy dimy lahy, izay nandeha nisafo ny tany, dia niditra ka naka ny sarin-javatra voasokitra sy ny efoda sy ny terafima ary ny sarin-javatra an' idina; ary ilay mpisorona dia nijanona teo amin' ny fidirana amin' ny vavahady mbamin' ny eninjato lahy efa voaomana amin' ny fiadiany.\""
+        },
+        {
+          "v": 18,
+          "text": "Dia niditra tao an-tranon' i Mika ireo ka naka ny sarin-javatra voasokitra sy ny efoda sy ny terafima ary ny sarin-javatra an' idina. Ary hoy ilay mpisorona taminy: Ahoana izao ataonareo izao?"
+        },
+        {
+          "v": 19,
+          "text": "\"Dia hoy ireo taminy: Mangìna ianao, tampeno amin' ny tananao ny vavanao, ka andeha hiaraka aminay, dia ho rainay sy ho mpisoronay ianao; moa tsara ho anao va ny ho mpisorona ho an' ny ankohonan' ny olona iray, noho ny ho mpisorona ho an' ny foko iray sy ho an' ny fianakaviana iray amin' ny Isiraely?\""
+        },
+        {
+          "v": 20,
+          "text": "Dia faly ny fon' ilay mpisorona, ka nalainy ny efoda sy ny terafima ary ny sarin-javatra voasokitra, ary nandeha teo afovoan' ny olona izy."
+        },
+        {
+          "v": 21,
+          "text": "Dia nihodina ireo ka lasa nandeha ary ny ankizy madinika sy ny biby fiompy mbamin' ny fitondrana entana dia nataony teo alohany."
+        },
+        {
+          "v": 22,
+          "text": "Ary rehefa lasa lavitra ny tranon' i Mika izy ireo, dia nivory ny lehilahy nifanolo-bodirindrina tamin' i Mika ka nahatratra ny taranak' i Dana."
+        },
+        {
+          "v": 23,
+          "text": "Dia niantso ny taranak' i Dana izy. Ary niherika ireo ka nanao tamin' i Mika hoe: Haninona ianao no tonga miaraka amin' ny olona maro toy izao?"
+        },
+        {
+          "v": 24,
+          "text": "\"Ary hoy izy: Ny andriamanitro izay nataoko sy ny mpisorona koa dia nalainareo, ka lasa ianareo; koa inona intsony no mba ho ahy? Ary ahoana no anaovanareo amiko hoe: Haninona ianao?\""
+        },
+        {
+          "v": 25,
+          "text": "Dia hoy ny taranak' i Dana taminy: Aoka tsy ho re eto intsony ny feonao, fandrao hisy olo-masiaka hamely anao, ka dia hanao izay hahafaty ny tenanao sy ny ankohonanao ianao."
+        },
+        {
+          "v": 26,
+          "text": "\"Dia nandeha tamin' ny nalehany ny taranak' i Dana; ary rehefa hitan' i Mika fa ireo dia mahery noho izy, dia niverina izy ka nody tany an-tranony.\""
+        },
+        {
+          "v": 27,
+          "text": "\"Ary izy ireo naka ny zavatra nataon' i Mika sy ny mpisorona izay tao aminy, dia nankany Laisy ho any amin' ny olona mandry fahizay ka tsy manana ahiahy, dia namely azy tamin' ny lelan-tsabatra ireo; ary ny tanàna nodorany tamin' ny afo.\""
+        },
+        {
+          "v": 28,
+          "text": "\"Ary tsy nisy mpamonjy, satria lavitra an' i Sidona izany, sady tsy nanan-draharaha tamin' olona akory izy; ary teo amin' ny lohasaha izay any Beti-rehoba izany. Dia nanorina tanàna izy ireo ka nonina tao.\""
+        },
+        {
+          "v": 29,
+          "text": "\"Ary ny anaran' izany tanàna izany dia nataony hoe Dana, araka ny anaran' i Dana rainy, izay naterak' Isiraely; kanefa Laisy no anaran' ny tanàna taloha.\""
+        },
+        {
+          "v": 30,
+          "text": "\"Dia natsangan' ny taranak' i Dana ilay sarin-javatra voasokitra; ary Jonatana, zanak' i Gersoma, zanak' i Manase sy ny zanany, no mpisorona ho an' ny fokon' i Dana hatramin' ny andro namaboana ny tany.\""
+        },
+        {
+          "v": 31,
+          "text": "Ary nampitoeriny ho azy ilay sarin-javatra voasokitra nataon' i Mika nandritra ny andro rehetra nitoeran' ny tranon' Andriamanitra tao Silo."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Ary izao no niseho tamin' izany andro izany, raha tsy nisy mpanjaka teo amin' ny Isiraely, dia nisy Levita anankiray nivahiny tany an-tsisin' ny tendrombohitr' i Efraima, izay naka vaditsindrano avy any Betlehema-joda."
+        },
+        {
+          "v": 2,
+          "text": "\"Ary ny vaditsindranony nijangajanga sy nisintaka taminy ka nandao azy; ary nankany an-tranon-drainy any Betlehema-joda, dia nitoetra tao efa-bolana mipaka.\""
+        },
+        {
+          "v": 3,
+          "text": "\"Ary niainga ralehilahy vadiny ka nandeha nanaraka azy hanao teny malefaka taminy hampody azy ary nitondra ny mpanompony sy boriky roa; dia nampiantranoin-dravehivavy ho ao an-tranon-drainy izy, ka nony hitan' ny rain-dravehivavy ralehilahy, dia faly nihaona taminy izy.\""
+        },
+        {
+          "v": 4,
+          "text": "Ary nihazona azy ny rafozany, rain-drazazavavy ka nitoetra tao aminy hateloana izy, dia nihinana sy nisotro ary nandry tao izy ireo."
+        },
+        {
+          "v": 5,
+          "text": "Ary izao no niseho tamin' ny andro fahefatra, rehefa nifoha maraina koa izy ka niomana handeha, dia hoy ny rain-drazazavavy tamin' ny vinantony: Hatanjaho amin' ny mofo kely aloha ny fonao, ary rehefa afaka izany dia handeha ianareo."
+        },
+        {
+          "v": 6,
+          "text": "\"Dia nipetraka izy ireo ka niara-nihinana sy nisotro; fa efa hoy ny rain-drazazavavy tamin-dralehilahy: Masìna ianao, mba maneke ny hijanona anio alina manontolo, ary aoka ho faly ny fonao.\""
+        },
+        {
+          "v": 7,
+          "text": "Ary raha niomana handeha ralehilahy, dia nanery azy hitoetra ny rafozany, ka dia tafandriana tao indray izy."
+        },
+        {
+          "v": 8,
+          "text": "\"Dia nifoha maraina koa izy handeha nony tamin' ny andro fahadimy; fa hoy ny rain-drazazavavy: Masìna ianao, hatanjaho ny fonao. Dia nijanona mandra-pihilan' ny andro izy ireo, ary dia niara-nihinana izy roa lahy.\""
+        },
+        {
+          "v": 9,
+          "text": "\"Ary raha niainga handeha ralehilahy sy ny vaditsindranony ary ny mpanompony, dia hoy ny rafozany, rain-drazazavavy taminy: Indro, efa ho hariva ny andro izao, koa masìna ianao, mijanona re mandritra ny alina, indro, efa hifarana ny andro, ka mandria eto, mba hifalian' ny fonao; ary rahampitso dia hifoha maraina koa ianao, ka handeha hody.\""
+        },
+        {
+          "v": 10,
+          "text": "\"Fa tsy nety nijanona intsony ralehilahy tamin' izany alina izany, fa niainga ihany izy ka nandeha, dia tonga tandrifin' i Jebosa, Jerosalema izany; ary boriky roa samy voaisy lasely no teo aminy, ary ny vaditsindranony niaraka taminy koa.\""
+        },
+        {
+          "v": 11,
+          "text": "Ary rehefa mby teo akaiky an' i Jebosa izy, dia efa ho hariva ny andro, ka hoy ny mpanompony tamin' ny tompony: Masìna ianao, andeha hiakatra ato amin' ity tanànan' ny Jebosita ity isika ka handry ato."
+        },
+        {
+          "v": 12,
+          "text": "Fa hoy ny tompony taminy: Tsy hiakatra amin' ny tanànan' ny olona hafa firenena isika, fa handroso ihany ho any Gibea."
+        },
+        {
+          "v": 13,
+          "text": "Dia hoy izy tamin' ny mpanompony: Andeha isika hankamin' ny anankiray amin' ireto tanàna ireto, dia any Gibea, na any Rama, ka handry mandritra ny alina any."
+        },
+        {
+          "v": 14,
+          "text": "\"Dia nandroso izy ka nandeha; ary raha mbola teo akaiky an' i Gibea izay an' ny Benjamina izy, dia nilentika ny masoandro.\""
+        },
+        {
+          "v": 15,
+          "text": "\"Ka dia nivily teo izy handeha handry any Gibea; ary raha niakatra izy dia nipetraka teo amin' ny lalamben' ny tanàna; fa tsy nisy olona nampiantrano azy handry tao an-tranony.\""
+        },
+        {
+          "v": 16,
+          "text": "\"Ary, indro, nisy lehilahy anti-panahy avy niasa tany an-tsaha nony hariva, sady olona avy any an-tendrombohitr' i Efraima koa izy, saingy nivahiny tany Gibea; fa ny lehilahy tao amin' izany tany izany dia Benjamita.\""
+        },
+        {
+          "v": 17,
+          "text": "Ary rehefa nanopy ny masony izy dia nahita vahiny teo an-dalamben' ny tanàna, dia hoy ilay lahiantitra: Hankaiza moa ianao? ary avy taiza?"
+        },
+        {
+          "v": 18,
+          "text": "\"Dia hoy izy taminy: Avy tany Betlehema-joda izahay ka hankany antsisin' ny tendrombohitr' i Efraima, fa any no tany niaviako; ary nankany Betlehema-joda aho, fa ho any an-tranon' i Jehovah aho izao; ary tsy misy olona mampiantrano ahy.\""
+        },
+        {
+          "v": 19,
+          "text": "\"Kanefa misy mololo sy hanina ihany ho an' ny bibinay, sady misy mofo sy divay ho ahy sy ny mpanompovavinao ary ho an' ny zatovo izay manaraka ny mpanomponao; tsy misy zavatra ilainay intsony.\""
+        },
+        {
+          "v": 20,
+          "text": "Ary hoy ilay lahiantitra: Fiadanana anie ho anao: aoka ho adidiko izay rehetra ilainao, fa aza mandry eto an-dalambe."
+        },
+        {
+          "v": 21,
+          "text": "\"Dia nitondra azy tany an-tranony izy ka nampihinana ny boriky; dia nanasa tongotra izy ireo ka nihinana sy nisotro.\""
+        },
+        {
+          "v": 22,
+          "text": "Ary raha mbola nampifaly ny fony izy ireo, indreo, ny lehilahy sasany tao an-tanàna izay zanak' i Beliala, nanodidina ny trano ka nandondòna mafy ny varavarana ary niteny tamin' ilay lahiantitra tompon-trano hoe: Avoahy ny lehilahy izay niditra tato an-tranonao mba hahalalanay azy."
+        },
+        {
+          "v": 23,
+          "text": "\"Dia nivoaka nankeo aminy ralehilahy tompon-trano ka nanao taminy hoe: Tsia, ry rahalahiko, masìna ianareo, aza manao ratsy; fa tonga ato an-tranoko ity lehilahy ity, koa aza manao izany fahadalana izany ianareo.\""
+        },
+        {
+          "v": 24,
+          "text": "Indreto, ny zanako vavy virijina sy ny vaditsindranon-dralehilahy, ireo no hoentiko mivoaka ankehitriny ka ampietreo izy, ary ataovy aminy izay sitrakareo, fa ity lehilahy ity dia aza anaovanareo izany zava-dratsy indrindra izany."
+        },
+        {
+          "v": 25,
+          "text": "\"Fa tsy nety nihaino azy ireo lehilahy ireo, ka dia nalain-dralehilahy ilay vadi-tsindranony ka navoakany taminy teo ala-trano dia nahalala azy ireo ka nanao faharatsiana taminy mandritra ny alina mandra-pahamarain' ny andro; ary rehefa hiposaka ny masoandro, vao nalefany handeha izy.\""
+        },
+        {
+          "v": 26,
+          "text": "Ary rehefa ho maraina ny andro, dia tonga ravehivavy, ka lavo teo am-baravaran' ny tranon-dralehilahy, izay nitoeran' ny vadiny, ka nivalandòtra teo mandra-pahazavan' ny andro."
+        },
+        {
+          "v": 27,
+          "text": "\"Dia nifoha maraina ralehilahy ka namoha ny varavaran' ny trano, dia nivoaka handeha tamin' ny lalan-kalehany; ary, indro, ravehivavy vaditsindranony miampatra eo am-baravaran' ny trano, ary ny tanany eo amin' ny tokonana.\""
+        },
+        {
+          "v": 28,
+          "text": "\"Ary hoy ralehilahy taminy: Mitsangàna, andeha isika. Kanjo tsy nisy namaly. Dia nobetain-dralehilahy izy ka nasampiny teo amin' ny borikiny; dia niainga izy handeha ho any amin' ny fonenany.\""
+        },
+        {
+          "v": 29,
+          "text": "Ary rehefa tonga tao an-tranony izy, dia naka antsy, ka norasainy ny fatin' ny vaditsindranony, dia norasainy araka ny famavanin' ny taolana ho roa ambin' ny folo toko, ka nampitondrainy eran' ny tanin' ny Isiraely rehetra."
+        },
+        {
+          "v": 30,
+          "text": "\"Ary izao no zava-nisy, fa izay rehetra nahita izany dia nanao hoe: Tsy nisy zavatra natao, na hita toy izany hatramin' ny andro niakaran' ny Zanak' Isiraely avy tany amin' ny tany Egypta ka mandraka androany; hevero izany, samia maka saina, ka ambarao ny hevitrareo.\""
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Dia nivoaka ny Zanak' Isiraely rehetra, ary ny fiangonana hatrany Dana ka hatrany Beri-sheba ary ny tany Gileada koa nivory tahaka ny olona iray ho any amin' i Jehovah tany Mizpa."
+        },
+        {
+          "v": 2,
+          "text": "Ary ny loholona rehetra tamin' ireo fokon' ny Isiraely rehetra niseho teo amin' ny fiangonan' ny olon' Andriamanitra dia lehilahy efatra hetsy mandeha an-tongotra sady mahatan-tsabatra."
+        },
+        {
+          "v": 3,
+          "text": "(Ary ren' ny taranak' i Benjamina fa niakatra ho any Mizpa ny Zanak' Isiraely). Dia hoy ny Zanak' Isiraely: Lazao anay, ahoana no nahatonga izao faharatsiana izao?"
+        },
+        {
+          "v": 4,
+          "text": "Dia namaly ilay Levita, vadin-dravehivavy novonoina, ka nanao hoe: Tonga tany Gibea, izay an' ny Benjamina, izaho sy ny vaditsindranoko handry tao."
+        },
+        {
+          "v": 5,
+          "text": "\"Dia nitsangana hamely ahy ny lehilahy tao Gibea ka nanodidina ny trano hamely ahy tamin' ny alina; ary saiky novonoiny aho, fa ny vaditsindranoko no nanaovany an-keriny ka matiny.\""
+        },
+        {
+          "v": 6,
+          "text": "Dia nalaiko ny vaditsindranoko ka norasaiko ary nampitondraiko tany amin' ny tany rehetra izay lovan' ny Isiraely, satria efa nanao fahavetavetana sy fahadalana teo amin' ny Isiraely ireo."
+        },
+        {
+          "v": 7,
+          "text": "Koa, indreo ianareo Zanak' Isiraely rehetra, mba omeo eto ny toro-hevitrareo sy ny tolo-tsainareo."
+        },
+        {
+          "v": 8,
+          "text": "Dia nitsangana tahaka ny olona iray ny vahoaka rehetra ka nanao hoe: Tsy hisy hankany amin' ny laintsika akory isika, ary tsy hisy hody any an-tranontsika akory."
+        },
+        {
+          "v": 9,
+          "text": "\"Fa ankehitriny, izao no hataontsika amin' i Gibea: araka ny antsapaka no hiakarantsika hamely azy;\""
+        },
+        {
+          "v": 10,
+          "text": "Ary haka folo lahy isan-jato amin' ireo fokon' ny Isiraely rehetra isika, dia zato amin' ny arivo, ary arivo amin' ny iray alina, mba haka vatsy ho an' ny olona, ka rehefa tonga any Gibean' ny Benjamina izy dia araka izay fahadalana nataony teo amin' ny Isiraely no hataony aminy."
+        },
+        {
+          "v": 11,
+          "text": "Dia nivory ny lehilahy rehetra amin' ny Isiraely ka efa nikambana tahaka ny olona iray hamely ny tanàna."
+        },
+        {
+          "v": 12,
+          "text": "Ary ireo foko amin' ny Isiraely ireo dia naniraka olona tany amin' ny fokon' i Benjamina rehetra hanao hoe: Inona izao faharatsiana natao teto aminareo izao?"
+        },
+        {
+          "v": 13,
+          "text": "Koa ankehitriny, atolory anay ireo lehilahy, zanak' i Beliala avy any Gibea mba hataonay maty izy, ka hoesorinay tsy ho eo amin' Isiraely ny ratsy. Fa ny taranak' i Benjamina tsy nety nihaino ny feon' ny Zanak' Isiraely rahalahiny."
+        },
+        {
+          "v": 14,
+          "text": "Fa nivory ny taranak' i Benjamina avy tamin' ny tanànany rehetra hankany Gibea mba handeha hiady amin' ny Zanak' Isiraely."
+        },
+        {
+          "v": 15,
+          "text": "Dia voaisa tamin' izany andro izany ny taranak' i Benjamina avy tamin' ireo tanàna ireo, ka enina arivo sy roa alin-dahy izay mahatan-tsabatra, afa-tsy ny mponina tao Gibea izay niisa fitonjato ny lehilahy voafantina."
+        },
+        {
+          "v": 16,
+          "text": "Ary teo amin' izany olona rehetra izany dia nisy olona kavia fitonjato lahy nofantenany, samy nahay nitoraka tamin' ny antsamotady, ka tsy nisy nivena na dia ohatry ny singam-bolo aza."
+        },
+        {
+          "v": 17,
+          "text": "\"Ary ny lehilahy voalamina tamin' ny Isiraely, afa-tsy ny Benjamina, dia efatra hetsy nahatan-tsabatra; mpanafika avokoa ireo rehetra ireo.\""
+        },
+        {
+          "v": 18,
+          "text": "Dia niainga ny Zanak' Isiraely ka niakatra ho any an-tranon' Andriamanitra ary nanontany hevitra tamin' Andriamanitra hoe: Iza aminay no hiakatra voalohany hiady amin' ny taranak' i Benjamina? Dia hoy Jehovah: Joda no hiakatra voalohany."
+        },
+        {
+          "v": 19,
+          "text": "Dia niainga maraina koa ny Zanak' Isiraely ka nitoby tandrifin' i Gibea."
+        },
+        {
+          "v": 20,
+          "text": "Ary nivoaka ny lehilahy amin' ny Isiraely hiady amin' ny Benjamina, ary nilahatra ny lehilahy amin' ny Isiraely hiady aminy tao Gibea."
+        },
+        {
+          "v": 21,
+          "text": "Ary nivoaka avy tao Gibea kosa ny taranak' i Benjamina ka naharingana ny Zanak' Isiraely roa arivo sy roa alin-dahy niampatrampatra tamin' ny tany tamin' izany andro izany."
+        },
+        {
+          "v": 22,
+          "text": "Fa nifampahery ny lehilahy amin' ny Isiraely ka nilahatra hiady indray teo amin' ilay nilaharany tamin' ny andro voalohany."
+        },
+        {
+          "v": 23,
+          "text": "(Ary niakatra ny Zanak' Isiraely ka nitomany teo anatrehan' i Jehovah mandra-paharivan' ny andro, dia nanontany hevitra tamin' i Jehovah hoe: Hiakatra indray va aho hiady amin' ny taranak' i Benjamina rahalahiko? Ary hoy Jeho-vah: Miakara hiady aminy)."
+        },
+        {
+          "v": 24,
+          "text": "Ary ny Zanak' Isiraely dia nandroso tamin' ny andro faharoa hiady amin' ny taranak' i Benjamina."
+        },
+        {
+          "v": 25,
+          "text": "\"Dia nivoaka avy tao Gibea ny Benjamita hiady aminy indray tamin' ny andro faharoa ka naharingana ny Zanak' Isiraely valo arivo sy iray alin-dahy niampatrampatra tamin' ny tany; nahatan-tsabatra avokoa ireo rehetra ireo.\""
+        },
+        {
+          "v": 26,
+          "text": "\"Dia niakatra ny Zanak' Isiraely rehetra sy ny olona rehetra ka nankany an-tranon' Andriamanitra, dia nitomany sy nipetraka teo anatrehan' i Jehovah ary nifady hanina mandra-paharivan' ny andro tamin' izany andro izany; ary nanolotra fanatitra dorana sy fanati-pihavanana teo anatrehan' i Jehovah izy.\""
+        },
+        {
+          "v": 27,
+          "text": "Dia nanontany an' i Jehovah ny Zanak' Isiraely (fa tao ny fiaran' ny faneken' Andriamanitra tamin' izany andro izany,"
+        },
+        {
+          "v": 28,
+          "text": "Ary Finehasa, zanak' i Eleazara, zanak' i Arona, nijanona teo anoloany tamin' izany andro izany) ka nanao hoe: Mbola hivoaka indray va aho hiady amin' ny taranak' i Benjamina rahalahiko, sa hitsahatra? Ary hoy Jehovah: Miakara, fa rahampitso dia hatolotro ho eo an-tananao izy."
+        },
+        {
+          "v": 29,
+          "text": "Ary nasian' ny Isiraely otrika manodidina an' i Gibea."
+        },
+        {
+          "v": 30,
+          "text": "Dia niakatra ny Zanak' Isiraely tamin' ny andro fahatelo hiady amin' ny taranak' i Benjamina ka nilahatra tandrifin' i Gibea tahaka ilay teo aloha ihany."
+        },
+        {
+          "v": 31,
+          "text": "Dia nivoaka ny taranak' i Benjamina hiady tamin' ny olona ka voatarika niala tamin' ny tanàna izy ary nanomboka namely sy nahafaty ny olona tahaka ny teo aloha, dia tokony ho telopolo lahy teo amin' Isiraely tany amin' ny lalambe izay misampana miakatra ho any an-tranon' Andriamanitra ny iray, ary ny anankiray kosa ho any an-tsaha any Gibea."
+        },
+        {
+          "v": 32,
+          "text": "Ary hoy ny taranak' i Benjamina: resy eo anoloantsika tahaka ilay teo aloha ihany izy. Fa hoy ny Zanak' Isiraely: Andeha hanao tari-dositra isika mba hampiala azy amin' ny tanàna ho any an-dalambe."
+        },
+        {
+          "v": 33,
+          "text": "\"Ary ny lehilahy rehetra amin' ny Isiraely nitsangana niala tamin' ny fitoerany ka nilahatra tany Bala-tamara; ary ny Isiraely izay nanotrika dia niroatra avy tamin' ny fitoerany, avy tao an-tsahan' i Gibea.\""
+        },
+        {
+          "v": 34,
+          "text": "Ary tonga tandrifin' i Gibea ny iray alin-dahy voafantina tamin' ny Isiraely rehetra, ary efa mafy ny ady, nefa tsy fantatry ny Benjamita fa efa hiharan-doza izy."
+        },
+        {
+          "v": 35,
+          "text": "\"Ary Jehovah namely ny Benjamita teo anoloan' ny Isiraely, ary tamin' izany andro izany ny taranak' i Benjamina dia nahafatesan' ny Zanak' Isiraely zato sy dimy arivo amby roa alin-dahy; nahatan-tsabatra avokoa ireo rehetra ireo.\""
+        },
+        {
+          "v": 36,
+          "text": "\"Ary hitan' ny taranak' i Benjamina fa resy izy; fa nanao tari-dositra tamin' ny Benjamita ny lehilahy tamin' ny Isiraely, satria natoky ny otrika izay efa napetrany teo akaikin' i Gibea ireo.\""
+        },
+        {
+          "v": 37,
+          "text": "Ary ny otrika niroatra faingana hankany Gibea, dia nandeha faingana ka namely ny tanàna rehetra tamin' ny lelan-tsabatra."
+        },
+        {
+          "v": 38,
+          "text": "Ary ny famantarana nifaneken' ny lehilahy amin' ny Isiraely sy ny otrika dia tsangan' afo lehibe hisavoana ao an-tanàna."
+        },
+        {
+          "v": 39,
+          "text": "\"Ary rehefa nihemotra tamin' ny ady ny lehilahy amin' ny Isiraely, ny taranaky ny Benjamina kosa nanomboka namely sy nahafaty ny lehilahy amin' ny Isiraely tokony ho telopolo lahy; fa hoy izy: Resy tokoa eo anoloantsika izy tahaka ny tamin' ny ady voalohany.\""
+        },
+        {
+          "v": 40,
+          "text": "Fa raha vao nanomboka niakatra avy tao an-tanàna ny setroka mitankosina, dia niherika teo ivohony ny taranak' i Benjamina, ka indro, niakatra ho amin' ny lanitra ny setroky ny tanàna."
+        },
+        {
+          "v": 41,
+          "text": "Ary raha niverina ny lehilahy amin' ny Isiraely, dia talanjona ny Benjamita, satria hitany fa efa nidiran-doza izy."
+        },
+        {
+          "v": 42,
+          "text": "\"Dia niamboho teo anoloan' ny lehilahy amin' ny Isiraely ho amin' ny lalana ho any an' efitra izy, fa ny ady nahatratra azy; ary izay nivoaka avy tao amin' ny tanàna koa dia novonoiny teo afovoany.\""
+        },
+        {
+          "v": 43,
+          "text": "Nanemitra ny Benjamita izy ka nanenjika azy ary nanitsaka azy mora foana tandrifin' i Gibea atsinanany."
+        },
+        {
+          "v": 44,
+          "text": "\"Ary ny Benjamita dia nahafatesana valo arivo sy iray alin-dahy; lehilahy nahery avokoa ireo rehetra ireo.\""
+        },
+        {
+          "v": 45,
+          "text": "\"Dia nivily ny sisa ka nandositra nankany an' efitra ho any amin'ny harambato any Rimona; ary ny voatsimpona teny an-dalana dia dimy arivo lahy, ary mbola nenjehiny mafy ihany hatrany Gidoma izy ka nahafatesany roa arivo lahy.\""
+        },
+        {
+          "v": 46,
+          "text": "\"Ary ny Benjamita rehetra izay lavo tamin' izany andro izany dia dimy arivo sy roa alin-dahy nahatan-tsabatra; lehilahy nahery avokoa ireo rehetra ireo.\""
+        },
+        {
+          "v": 47,
+          "text": "Fa nisy eninjato lahy izay nihodina ka nandositra nankany an' efitra ho any amin' ny harambato any Rimona, dia nitoetra tao amin' ny harambato any Rimona efa-bolana izy."
+        },
+        {
+          "v": 48,
+          "text": "\"Ary ny lehilahy amin' ny Isiraely niverina indray tany amin' ny taranak' i Benjamina ka namely azy tamin' ny lelan-tsabatra, hatramin' ny olona tao an-tanàna ka hatramin' ny biby ary izay rehetra azony; ary ny tanàna rehetra izay hitany koa, dia nodorany tamin' ny afo avokoa.\""
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Ary ny lehilahy amin' ny Isiraely efa nianiana tany Mizpa nanao hoe: Aoka tsy hisy amintsika hanome ny zanany vavy ho vadin' ny Benjamita."
+        },
+        {
+          "v": 2,
+          "text": "\"Dia nankany an-tranon' Andriamanitra ny olona ka nitoetra teo anatrehan' Andriamanitra mandra-paharivan' ny andro, dia nanandratra ny feony ka nitomany mafy dia mafy;\""
+        },
+        {
+          "v": 3,
+          "text": "Sady nanao hoe: Jehovah, Andriamanitry ny Isiraely ô, nahoana izao no niseho tamin' ny Isiraely, ka fongotra ankehitriny ny foko iray amin' ny Isiraely?"
+        },
+        {
+          "v": 4,
+          "text": "Ary izao no niseho nony ampitso dia nifoha maraina koa ny olona, ka nanorina alitara teo ary nanolotra fanatitra dorana sy fanati-pihavanana."
+        },
+        {
+          "v": 5,
+          "text": "Ary hoy ny Zanak' Isiraely: Iza amin' ireo fokon' ny Isiraely rehetra no tsy niakatra teo amin' ny fiangonana hanatona an' i Jehovah? fa efa nisy fianianana lehibe ny amin' izay tsy niakatra ho any amin' i Jehovah tany Mizpa hoe: Hatao maty tokoa izy."
+        },
+        {
+          "v": 6,
+          "text": "Ary ny Zanak' Isiraely nanenina ny amin' i Benjamina rahalahiny ka nanao hoe: Misy foko iray voafongotra eto amin' ny Isiraely ankehitriny."
+        },
+        {
+          "v": 7,
+          "text": "\"Ahoana no hataontsika amin' ireo sisa mba hahazoany vady; fa isika efa nianiana tamin' i Jehovah tsy hanome vady azy amin' ny zanakavavintsika?\""
+        },
+        {
+          "v": 8,
+          "text": "Dia hoy izy: Iza amin' ireo fokon' ny Isiraely no tsy mba niakatra ho any amin' i Jehovah tany Mizpa? Ary, indro, tsy nisy olona avy tany Jabesi-gileada, na dia iray akory aza nankany an-toby ho ao amin' ny fiangonana."
+        },
+        {
+          "v": 9,
+          "text": "Fa rehefa nisaina ny olona, dia indro, tsy nisy tao na dia iray akory aza, mponina avy tany Jabesi-gileada."
+        },
+        {
+          "v": 10,
+          "text": "Dia naniraka lehilahy mahery roa arivo sy iray alin-dahy ny fiangonana ka nandidy azy hoe: Mandehana, ka mameleza ny mponina any Jabesi-gileada amin' ny lelan-tsabatra mbamin' ny zaza amim-behivavy."
+        },
+        {
+          "v": 11,
+          "text": "Ary izao no zavatra hataonareo: ny lehilahy rehetra sy ny vehivavy rehetra efa nahalala lahy dia aringanonareo."
+        },
+        {
+          "v": 12,
+          "text": "Ary nahita zazavavy virijina efajato tsy mbola nahalala lahy teo amin' ny mponina tany Jabesi-gileada izy ka nitondra ireo ho any an-toby tany Silo any amin' ny tany Kanana."
+        },
+        {
+          "v": 13,
+          "text": "Ary ny fiangonana rehetra dia naniraka vitsivitsy niteny tamin' ny taranak' i Benjamina, izay tao amin' ny harambato tao Rimona, ka niantso azy hihavana aminy."
+        },
+        {
+          "v": 14,
+          "text": "\"Dia niverina tamin' izany andro izany ny Benjamita, ka nomeny azy ireo vehivavy efa novelominy tamin' ny vehivavy tao Jabesi-gileada ireo; kanjo mbola tsy nahenina azy ihany ireo.\""
+        },
+        {
+          "v": 15,
+          "text": "Ary nanenina ny olona noho ny amin' i Benjamina, satria nisy nobangain' i Jehovah ny fokon' ny Isiraely."
+        },
+        {
+          "v": 16,
+          "text": "Dia hoy ny loholon' ny fiangonana: Ahoana no hataontsika ho an' ireo sisa mba hahazoany vady, fa efa naringana ny vehivavy tamin' ny Benjamita?"
+        },
+        {
+          "v": 17,
+          "text": "Ary hoy izy: Tsy maintsy mahazo lova ny Benjamina izay afa-nandositra, mba tsy hisy foko iray fongotra amin' ny Isiraely."
+        },
+        {
+          "v": 18,
+          "text": "Nefa isika tsy mahazo manome azy ny zanakavavintsika ho vadiny, satria efa nianiana ny Zanak' Isiraely ka nanao hoe: Ho voaozona anie izay manome vady ho an' ny Benjamita."
+        },
+        {
+          "v": 19,
+          "text": "Dia hoy izy: Indro, misy andro firavoravoana isan-taona ho an' i Jehovah any Silo, izay avaratr' i Betela, atsimon' ny lalambe miakatra avy any Betela hankany Sekema, ary atsinanan' i Lebona."
+        },
+        {
+          "v": 20,
+          "text": "Ary nandidy ny Benjamina izy ka nanao hoe: Mandehana, ka manotreha any amin' ny tanimboaloboka,"
+        },
+        {
+          "v": 21,
+          "text": "Dia jereo, ka raha, indreo, mivoaka handihy ny zazavavy avy any Silo, dia mivoaha avy ao amin' ny tanimboaloboka ianareo, ary samia misambotra amin' ny zazavavy avy any Silo ho vadiny avy, ka mandehana any amin' ny tanin' ny Benjamina indray."
+        },
+        {
+          "v": 22,
+          "text": "\"Ary izao no hisy, raha mankany aminay hitaraina ny rainy, na ny anadahiny, dia holazainay aminy hoe: Ampahitao fitia izy ireo noho ny aminay, satria tsy mba nanokananay vady ho an' ny isan-dahy tamin' ilay ady; sady tsy ianareo no nanome azy; fa raha izany, dia ho meloka ihany ianareo.\""
+        },
+        {
+          "v": 23,
+          "text": "\"Dia nanao izany ny taranak' i Benjamina ka samy naka vady araka ny isany tamin' ny mpandihy izay nosamboriny; dia nandeha izy ka niverina ho any amin' ny lovany ary namboatra ireo tanàna ireo ka nonina tao.\""
+        },
+        {
+          "v": 24,
+          "text": "\"Dia samy nandeha niala teo ny Zanak' Isiraely tamin' izany fotoana izany, samy ho any amin' ny fokony sy ny ankohonany avy; dia niala teo ho any amin' ny lovany avy ny olona rehetra.\""
+        },
+        {
+          "v": 25,
+          "text": "Tsy nisy mpanjaka teo amin' ny Isiraely tamin' izany andro izany, fa samy nanao izay nataony ho marina teo imasony avy izy rehetra."
+        }
+      ]
+    }
+  ]
+}

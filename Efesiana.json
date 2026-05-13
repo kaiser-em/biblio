@@ -1,0 +1,655 @@
+{
+  "book": "Efesiana",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Paoly, Apostolin’i Jesosy Kristy noho ny sitrapon’Andriamanitra, mamangy ny olona masina any Efesosy sy izay mahatoky ao amin’i  Kristy Jesosy:"
+        },
+        {
+          "v": 2,
+          "text": "Ho aminareo anie ny fahasoavana sy ny fiadanana avy amin’Andriamanitra Raintsika sy Jesosy Kristy Tompo."
+        },
+        {
+          "v": 3,
+          "text": "Isaorana anie Andriamanitra sady Rain’i Jesosy Kristy Tompontsika, Izay nitahy antsika tamin’ny fitahiam-panahy rehetra any amin’ny fitoerana any an-danitra ao amin’i Kristy,"
+        },
+        {
+          "v": 4,
+          "text": "\"Araka ny nifidianany antsika tao aminy talohan’ny fanorenana izao tontolo izao, mba ho masina sady tsy misy tsiny eo anatrehany amin’ny fitiavana isika;\""
+        },
+        {
+          "v": 5,
+          "text": "Rehefa notendreny mialoha rahateo ho Azy isika amin’ny fananganan’anaka amin’ny alalan’i Jesosy Kristy, araka izay ankasitrahany tsara,"
+        },
+        {
+          "v": 6,
+          "text": "Ho fiderana ny voninahitry ny fahasoavany, izay nahatonga antsika hoekena ao amin’ny Malala."
+        },
+        {
+          "v": 7,
+          "text": "Ao Aminy no ananantsika fanavotana ao amin’ny rany, dia ny famelana ny fahadisoana, araka ny haren’ny fahasoavany,"
+        },
+        {
+          "v": 8,
+          "text": "Izay nataony be ho antsika tamin’ny fahendrena sy ny fahamalinana rehetra,"
+        },
+        {
+          "v": 9,
+          "text": "Rehefa nampahafantariny ny zava-miafina ny amin’ny sitrapony isika, araka ny safidiny izay nokasain’ny tenany,"
+        },
+        {
+          "v": 10,
+          "text": "\"Hahatanterahany ny fitondrana hatao mandra-pahatapitry ny andro voatendry hanangonany ny zavatra rehetra ho iray ao amin’i Kristy, na ny any an-danitra, na ny ety an-tany, dia ho ao aminy;\""
+        },
+        {
+          "v": 11,
+          "text": "Tao Aminy koa no nandraisanay ny lova, rehefa notendrena mialoha rahateo izahay araka ny fikasan’Izay mahefa ny zavatra rehetra araka ny sitrapony,"
+        },
+        {
+          "v": 12,
+          "text": "Mba ho fiderana ny voninahiny izahay, izay nanantena voalohany an’i Kristy."
+        },
+        {
+          "v": 13,
+          "text": "\"Tao Aminy no nitokianareo koa, rehefa renareo ny tenin’ny fahamarinana, dia ny filazantsaran’ny famonjena anareo; tao Aminy koa ianareo rehefa nino, no nasiana tombo-kase tamin’ny Fanahy Masina araka ny tenifikasana,\""
+        },
+        {
+          "v": 14,
+          "text": "Izay santatry ny lovantsika mandra-pahatongan’ny fanavotana ny olona izay nalainy ho an’ny tenany, ho fiderana ny voninahiny."
+        },
+        {
+          "v": 15,
+          "text": "Ary noho izany koa, rehefa nandre ny finoanareo an’i Jesosy Tompo aho, sy ny fitiavanareo ny olona masina rehetra,"
+        },
+        {
+          "v": 16,
+          "text": "Dia tsy mitsahatra misaotra noho ny aminareo ka mahatsiaro anareo amin’ny fivavahako,"
+        },
+        {
+          "v": 17,
+          "text": "\"Mba homen’Andriamanitr’i Jesosy Kristy Tompontsika, Rain’ny voninahitra, ho anareo ny fanahin’ny fahendrena sy ny fanambarana amin’ny fahalalana Azy;\""
+        },
+        {
+          "v": 18,
+          "text": "Ary mba hampahiratina ny mason’ny sainareo, mba ho fantatrareo izay fanantenana avy amin’ny fiantsoany sy izay haren’ny voninahitry ny lovany eo amin’ny olona masina,"
+        },
+        {
+          "v": 19,
+          "text": "Ary ny fihoaran’ny halehiben’ny heriny ho antsika izay mino, araka ny fiàsan’ny heriny lehibe,"
+        },
+        {
+          "v": 20,
+          "text": "Izay nataony tao amin’i Kristy tamin’ny nananganany Azy tamin’ny maty sy ny nampitoerany Azy eo amin’ny tanany ankavanana any an-danitra,"
+        },
+        {
+          "v": 21,
+          "text": "Ambony lavitra noho ny fanapahana rehetra sy ny fahefana sy ny hery sy ny fanjakana ary ny anarana rehetra izay tononina, tsy amin’izao eto an-tany izao ihany, fa amin’ny ho avy koa,"
+        },
+        {
+          "v": 22,
+          "text": "Dia nampanaiky ny zavatra rehetra ho eo ambanin’ny tongony Izy ka nanao azy ho lohany manapaka ny zavatra rehetra ho an’ny fiangonana,"
+        },
+        {
+          "v": 23,
+          "text": "Izay tenany, dia ny fahafenoan’Izay mameno izao zavatra rehetra izao amin’ny rehetra."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Ary efa novelominy ianareo izay matin’ny fahadisoana sy ny fahotana,"
+        },
+        {
+          "v": 2,
+          "text": "\"Izay nalehanareo fahiny, araka ny fomban’izao tontolo izao, araka ny mpanapaka ny fanjakana eny amin’ny rivotra, dia ny fanahy izay miasa ankehitriny ao anatin’ny zanaky ny tsy fankatoavana;\""
+        },
+        {
+          "v": 3,
+          "text": "\"Teo amin’ireo no nitondrantsika tena koa fahiny tamin’ny filàn’ny nofontsika, ka nanaovantsika ny danin’ny nofo sy ny saina; ary araka ny toetsika dia zanaky ny fahatezerana toy ny sasany koa isika.\""
+        },
+        {
+          "v": 4,
+          "text": "Fa Andriamanitra izay manankarena amin’ny famindrampo, noho ny halehiben’ny fitiavany izay nitiavany antsika,"
+        },
+        {
+          "v": 5,
+          "text": "\"Na dia fony mbola matin’ny fahadisoana aza isika, dia nahavelona antsika niaraka tamin’i Kristy (tamin' ny fahasoavana no namonjena anareo);\""
+        },
+        {
+          "v": 6,
+          "text": "Ary niara-natsangany isika ka niara-napetrany any amin’ny fitoerana any an-danitra ao amin’i Kristy Jesosy,"
+        },
+        {
+          "v": 7,
+          "text": "Mba hasehony amin’ny andro ho avy ny haben’ny haren’ny fahasoavany amin’ny fahamoram-panahiny amintsika ao amin’i Kristy Jesosy."
+        },
+        {
+          "v": 8,
+          "text": "\"Fa fahasoavana no namonjena anareo amin’ny finoana; ary tsy avy aminareo izany, fa fanomezan’Andriamanitra;\""
+        },
+        {
+          "v": 9,
+          "text": "Tsy avy amin’ny asa, fandrao hisy olona hirehareha."
+        },
+        {
+          "v": 10,
+          "text": "Fa asany isika, voaforona tao amin’i Kristy Jesosy mba hanao asa tsara izay notendren’Andriamanitra rahateo mba handehanantsika amin’izany."
+        },
+        {
+          "v": 11,
+          "text": "\"Koa tsarovy fa fahiny ianareo izay Jentilisa araka ny nofo, ka nolazain’ny voaforan-tanana teo amin’ny nofo hoe: “tsy voafora”;\""
+        },
+        {
+          "v": 12,
+          "text": "\"Fa tamin’izany andro izany dia tsy nanana an’i Kristy ianareo, fa olon-ko azy tamin’ny fanjakan’ny Isiraely sy vahiny tamin’ireo faneken’ny tenifikasana, ary tsy nanana fanantenana sady tsy nanana an’Andriamanitra teo amin’izao tontolo izao;\""
+        },
+        {
+          "v": 13,
+          "text": "Fa ankehitriny kosa, ao amin’i Kristy Jesosy, ianareo izay lavitra fahiny dia efa nampanakaikezin’ny ran’i Kristy."
+        },
+        {
+          "v": 14,
+          "text": "\"Fa Izy no fihavanantsika, Izay nahiray antsika roa tonta, ka nandrodana ny rindrin’ny fisarahana nanelanelana antsika;\""
+        },
+        {
+          "v": 15,
+          "text": "Fa tao amin’ny nofony no nandravany ny fandrafiana, dia ny lalàna nisy didy natao hotandremana, mba hanakambanany antsika roa tonta ao amin’ny tenany ho olom-baovao iray, ka hanaovany fihavanana,"
+        },
+        {
+          "v": 16,
+          "text": "Ary hampihavana antsika roa tonta ho tena iray amin’Andriamanitra noho ny hazofijaliana, izay namonoany ny fandrafiana."
+        },
+        {
+          "v": 17,
+          "text": "Ary tonga Izy nitory fiadanana taminareo izay lavitra sy tamin’izay akaiky koa."
+        },
+        {
+          "v": 18,
+          "text": "Fa Izy no ananantsika roa tonta fanatonana amin’ny Fanahy iray ho any amin’ny Ray."
+        },
+        {
+          "v": 19,
+          "text": "Koa dia tsy mba vahiny sy mpivahiny intsony ianareo, fa tompon-tany, mpiray fanjakana amin’ny olona masina sady ankohonan’Andriamanitra,"
+        },
+        {
+          "v": 20,
+          "text": "\"Natsangana teo ambonin’ny fanorenan’ny apostoly sy ny mpaminany, ary Kristy Jesosy no fehizoro indrindra;\""
+        },
+        {
+          "v": 21,
+          "text": "Ao Aminy ny trano tsara rafitra rehetra no mitombo ho tempoly masina ao amin’ny Tompo."
+        },
+        {
+          "v": 22,
+          "text": "Ary ao aminy no miaraka aorina koa ianareo ho fonenan’Andriamanitra amin’ny Fanahy."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Ary noho izany, izaho Paoly, mpifatotra an’i Jesosy Kristy, ho anareo Jentilisa,"
+        },
+        {
+          "v": 2,
+          "text": "Raha mba renareo ny fitondrana ny fahasoavan’Andriamanitra izay nomena ahy ho anareo,"
+        },
+        {
+          "v": 3,
+          "text": "\"Fa fanambarana no nampahafantarana ahy ny zava-miafina, (araka ny voasoratro tamin’ny teny fohifohy teo aloha;\""
+        },
+        {
+          "v": 4,
+          "text": "Ary araka izany, raha mamaky ianareo, dia ho hainareo fantarina ny fahafantarako ny zava-miafina ny amin’i Kristy)"
+        },
+        {
+          "v": 5,
+          "text": "Izay tsy mbola nampahafantarina ny zanak’olombelona tamin’ny taranaka lasa tahaka ny fanambaran’ny Fanahy ankehitriny amin’ireo apostoliny masina sy ireo mpaminaniny,"
+        },
+        {
+          "v": 6,
+          "text": "Dia ny ahatongavan’ny Jentilisa ho mpiray lova sy ho tena iray ary ho mpiombona ny tenifikasana ao amin’i Kristy noho ny filazantsara,"
+        },
+        {
+          "v": 7,
+          "text": "Izay nanaovana ahy ho mpanompo araka ny fanomezan’ny fahasoavan’Andriamanitra, izay nomena ahy araka ny fiàsan’ny heriny."
+        },
+        {
+          "v": 8,
+          "text": "Eny, izaho, izay kely noho ny kely indrindra amin’ny olona masina rehetra, no nomena izao fahasoavana izao, dia ny hitory amin’ny Jentilisa ny haren’i Kristy tsy hita lany,"
+        },
+        {
+          "v": 9,
+          "text": "\"Ary ny hampahazava ny olona rehetra mba hahalalany izay fitondrana ny zava-miafina, dia ilay voàfina hatramin’ny niandohan’izao tontolo izao tao amin’Andriamanitra, Izay nanao ny zavatra rehetra tamin’ny alalan’i Jesosy Kristy;\""
+        },
+        {
+          "v": 10,
+          "text": "Mba hampahafantarina ankehitriny an'ireo fanapahana sy fahefana eny an-danitra ny fahendrena maro samihafa an’Andriamanitra, amin’ny alalan' ny fiangonana,"
+        },
+        {
+          "v": 11,
+          "text": "Araka ny fikasana mandrakizay izay nokasainy ao amin’i Kristy Jesosy Tompontsika,"
+        },
+        {
+          "v": 12,
+          "text": "Izay ananantsika fahasahiana sy fanatonana amin’ny fahatokiana noho ny finoana Azy."
+        },
+        {
+          "v": 13,
+          "text": "Koa izany no angatahako aminareo mba tsy ho ketraka amin’ny fahoriako ho anareo, fa voninahitrareo izany."
+        },
+        {
+          "v": 14,
+          "text": "Ary noho izany no andohalehako amin’ny Rain’i Jesosy Kristy Tompontsika,"
+        },
+        {
+          "v": 15,
+          "text": "Izay ahazoan’ny fianakaviana rehetra any an-danitra sy ety an-tany anarana,"
+        },
+        {
+          "v": 16,
+          "text": "\"Mba homeny anareo, araka ny haren’ny voninahiny, ny mba hohatanjahina fatratra amin’ny Fanahiny ny olonareo anaty;\""
+        },
+        {
+          "v": 17,
+          "text": "Mba hitoeran’i Kristy ao am-ponareo amin’ny finoana, ka hamaka sy hiorina mafy amin’ny fitiavana ianareo,"
+        },
+        {
+          "v": 18,
+          "text": "Mba hahaizanareo mbamin’ny olona masina rehetra ny hahafantatra tsara izay sakany sy lavany ary ny halaliny sy haavony,"
+        },
+        {
+          "v": 19,
+          "text": "Ary hahalala ny fitiavan’i Kristy, izay mihoatra noho ny fahalalana, mba hamenoana anareo amin’ny fahafenoan’Andriamanitra rehetra."
+        },
+        {
+          "v": 20,
+          "text": "Ary ho an’Izay mahay manao mihoatra noho ny zavatra rehetra, eny, mihoatra lavitra noho izay rehetra angatahintsika na heverintsika aza, araka ny hery izay miasa ato amintsika,"
+        },
+        {
+          "v": 21,
+          "text": "Ho azy anie ny voninahitra ao amin’ny fiangonana amin’ny alalan’i Kristy Jesosy hatramin’ny taranaka rehetra mandrakizay mandrakizay tsy manam-pahataperana. Amena."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Ary noho izany, izaho mpifatotra noho ny amin’ny Tompo, dia miangavy anareo mba handeha mendrika ny fiantsoana izay niantsoana anareo,"
+        },
+        {
+          "v": 2,
+          "text": "\"Amin’ny fanetren-tena rehetra sy ny fahalemem-panahy, amin’ny fahari-po, dia mifandefera amin’ny fitiavana;\""
+        },
+        {
+          "v": 3,
+          "text": "Mazotoa mitana ny firaisana avy amin’ny Fanahy amin’ny fehim-pihavanana."
+        },
+        {
+          "v": 4,
+          "text": "\"Iray ny tena, ary iray ny Fanahy, dia toy ny niantsoana anareo ho amin’ny fanantenana iray momba ny fiantsoana anareo;\""
+        },
+        {
+          "v": 5,
+          "text": "Iray ny Tompo, iray ny finoana, iray ny batisa,"
+        },
+        {
+          "v": 6,
+          "text": "Iray Andriamanitra sady Rain’izy rehetra, Izay ambonin’ny rehetra sy manerana ny rehetra ary ao aminareo rehetra."
+        },
+        {
+          "v": 7,
+          "text": "Fa samy nomena ny fahasoavana araka ny ohatry ny fanomezan’i Kristy avy isika rehetra."
+        },
+        {
+          "v": 8,
+          "text": "Koa izany no ilazany hoe: “Raha niakatra ho any amin’ny avo Izy, dia nitondra olona maro ho babo, ka nanome fanomezana ho an’ny olona”"
+        },
+        {
+          "v": 9,
+          "text": "(Ary ny amin’ny hoe “niakatra” inona moa izany, afa-tsy ny efa nidina aloha ho any amin' ny faritra ambanin’ny tany koa?"
+        },
+        {
+          "v": 10,
+          "text": "Izay nidina, dia Izy koa no Ilay niakatra any ambonin’ny lanitra rehetra, hamenoany ny zavatra rehetra)."
+        },
+        {
+          "v": 11,
+          "text": "Ary izy no nanome ny sasany ho apostoly, ary ny sasany ho mpaminany, ary ny sasany ho evanjelistra, ary ny sasany ho mpitandrina sy mpampianatra,"
+        },
+        {
+          "v": 12,
+          "text": "\"Ho fanatanterahana ny olona masina ho amin’ny asan’ny fanompoana, ho amin’ny fampandrosoana ny tenan’i Kristy;\""
+        },
+        {
+          "v": 13,
+          "text": "\"Mandra-pahatongantsika rehetra ho amin’ny firaisan’ny finoana sy ny fahalalana ny Zanak’Andriamanitra, ka ho lehilahy tanteraka, mahatratra ny ohatry ny halehiben’ny fahafenoan’i Kristy;\""
+        },
+        {
+          "v": 14,
+          "text": "\"Mba tsy ho zaza intsony isika, ka ahilangilana sy ampitambolimbolenin’ny rivotry ny foto-pampianarana samihafa rehetra amin’ny saim-petsy ataon’ny olona sy ny fihendreny hahatanteraka ny hevitry ny famitahana;\""
+        },
+        {
+          "v": 15,
+          "text": "Fa mba hilaza ny marina amin’ny fitiavana ka hitombo amin’ny zavatra rehetra ho an’izay loha, dia Kristy."
+        },
+        {
+          "v": 16,
+          "text": "Izy no itomboan’ny tena rehetra (izay akambana sy ampiraisina tsara) noho ny fifanompoan’ny isan-tonony, araka ny fiasàna mahomby an' izay rehetra momba azy, amin’izay mety ho anjara-asany avy ka hampandrosoany ny tenany amin’ny fitiavana."
+        },
+        {
+          "v": 17,
+          "text": "Koa izao no lazaiko sady ambarako ao amin’ny Tompo, ny tsy mba handehananareo intsony tahaka ny fandehanan’ny Jentilisa amin’ny zava-poanan’ny fisainany,"
+        },
+        {
+          "v": 18,
+          "text": "Fa efa tonga maizin-tsaina sy olon-ko azy amin’ny fiainan’Andriamanitra ireny noho ny tsy fahalalana ao anatiny, noho ny fahamaizinan’ny fony."
+        },
+        {
+          "v": 19,
+          "text": "Dia olona tsy mahalala henatra intsony ka nanolo-tena ho amin’ny fijejojejoana hanao izay fahalotoana rehetra amin’ny fieremana."
+        },
+        {
+          "v": 20,
+          "text": "Fa ianareo kosa, dia tsy mba toy izany no nianaranareo an’i Kristy,"
+        },
+        {
+          "v": 21,
+          "text": "Raha Izy tokoa no renareo ka tao aminy no nampianarana anareo, araka ny fahamarinana izay ao amin’i Jesosy,"
+        },
+        {
+          "v": 22,
+          "text": "\"Mba hialanareo ny olona taloha araka ny fitondrantena fahiny, izay simba araka ny filàn’ny fitaka;\""
+        },
+        {
+          "v": 23,
+          "text": "Fa mba hohavaozina kosa ianareo amin’ny fanahin’ny sainareo,"
+        },
+        {
+          "v": 24,
+          "text": "Ary mba hotafinareo ny olona vaovao, izay noforonin’Andriamanitra amin’ny fahamarinana sy ny tena fahamasinana."
+        },
+        {
+          "v": 25,
+          "text": "\"Koa esory ny lainga, ka samia milaza ny marina amin’ny namany avy ianareo rehetra; fa samy isan’ny momba ny tenan’ny namantsika avokoa isika.\""
+        },
+        {
+          "v": 26,
+          "text": "\"Tezera, fa aza manota; ary aoka tsy ho tratry ny masoandro milentika ny fahatezeranareo.\""
+        },
+        {
+          "v": 27,
+          "text": "Aza manome fitoerana ho an’ny devoly."
+        },
+        {
+          "v": 28,
+          "text": "\"Aoka izay nangalatra tsy hangalatra intsony; fa aleo hikely aina ka hiasa izay tsara amin’ny tanany, mba hisy homeny izay tsy manana.\""
+        },
+        {
+          "v": 29,
+          "text": "Aoka tsy haloaky ny vavanareo izay teny maloto, fa izay tsara ho fampandrosoana mba hitondra fahasoavana ho an' ny mpihaino."
+        },
+        {
+          "v": 30,
+          "text": "Ary aza mampalahelo ny Fanahy Masin’Andriamanitra, Izay nanisiana tombo-kase anareo ho amin’ny andro fanavotana."
+        },
+        {
+          "v": 31,
+          "text": "\"Esory aminareo ny fangidiana rehetra, sy ny fahavinirana, sy ny fahatezerana, sy ny fitabatabana, sy ny fitenenan-dratsy, esory aminareo ny lolompo rehetra;\""
+        },
+        {
+          "v": 32,
+          "text": "Ary aoka samy halemy fanahy amin’ny namany avy ianareo, ka hifampiantra sy hifamela heloka tahaka ny namelan’Andriamanitra ny helokareo noho ny amin’i Kristy."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "v": 1,
+          "text": "\"Koa amin’izany dia aoka hanahaka an’Andriamanitra ianareo tahaka ny zanaka malala;\""
+        },
+        {
+          "v": 2,
+          "text": "Ary mandehana amin’ny fitiavana, toy ny nitiavan’i Kristy antsika, dia ny nanolorany ny tenany ho antsika ho fanatitra sy sorona ho an’Andriamanitra ho hanitra ankasitrahana."
+        },
+        {
+          "v": 3,
+          "text": "Fa ny fahavetavetana sy ny fahalotoana rehetra, na ny fieremana, dia aza avela hotononina eo aminareo akory aza, fa tsy mahamendrika ny olona masina izany,"
+        },
+        {
+          "v": 4,
+          "text": "Na faharatsiana, na resaka fahadalana, na voso-dratsy, izay tsy tokony hatao, fa aleo misaotra."
+        },
+        {
+          "v": 5,
+          "text": "Fa fantatrareo izany, fa samy tsy manana lova eo amin’ny fanjakan’i Kristy sy Andriamanitra na ny vehivavy mpivarotena na ny olom-betaveta, na ny olona mpierina izay mpanompo sampy."
+        },
+        {
+          "v": 6,
+          "text": "\"Aza mety hofitahin’olona amin’ny teny foana ianareo; fa izany zavatra izany no mahatonga ny fahatezeran’Andriamanitra amin’ny zanaky ny tsy fankatoavana.\""
+        },
+        {
+          "v": 7,
+          "text": "Koa aza mety ho mpiombona aminy ianareo."
+        },
+        {
+          "v": 8,
+          "text": "\"Fa maizina ianareo fahiny, fa efa mazava ao amin’ny Tompo kosa ankehitriny; mandehana tahaka ny zanaky ny mazava;\""
+        },
+        {
+          "v": 9,
+          "text": "(Fa ny vokatry ny Fanahy dia ao amin’ny fahatsarana rehetra sy ny fahamarinana ary ny fahitsiana),"
+        },
+        {
+          "v": 10,
+          "text": "Mamantatra izay ankasitrahan’ny Tompo."
+        },
+        {
+          "v": 11,
+          "text": "Ary aza miray amin’ny asan’ny maizina tsy mahavoka-tsoa, fa aleo mananatra ireny."
+        },
+        {
+          "v": 12,
+          "text": "Fa izay ataony ao amin’ny miafina, dia mahamenatra na dia ny milaza izany aza."
+        },
+        {
+          "v": 13,
+          "text": "\"Fa ny zavatra rehetra, raha anarina, dia asehon’ny mazava; fa izay mampiharihary ny zavatra rehetra dia ny mazava.\""
+        },
+        {
+          "v": 14,
+          "text": "Koa izany no ilazany hoe: Mifohaza ianao izay matory, mitsangàna amin’ny maty, dia hampahazava anao Kristy."
+        },
+        {
+          "v": 15,
+          "text": "Koa tandremo tsara izay fandehanareo, mba tsy hitondranareo tena tahaka ny adala, fa tahaka ny hendry,"
+        },
+        {
+          "v": 16,
+          "text": "Ka hararaoty ny fotoana, fa ratsy izao andro izao."
+        },
+        {
+          "v": 17,
+          "text": "Ary noho izany dia aza manao adaladala, fa aoka ho fantatrareo izay sitrapon’ny Tompo."
+        },
+        {
+          "v": 18,
+          "text": "Ary aza ho mamon-divay ianareo, fa amin’izany dia misy fanaranam-po, fa aoka hofenoina ny Fanahy,"
+        },
+        {
+          "v": 19,
+          "text": "\"Ka mifampilazà amin’ny salamo sy ny fihirana ary ny tononkira ara-panahy, dia mihira sy mikalo ao am-ponareo ho an’ny Tompo;\""
+        },
+        {
+          "v": 20,
+          "text": "Misaora mandrakariva an’Andriamanitra sady Ray noho ny zavatra rehetra, amin’ny anaran’i Jesosy Kristy Tompontsika,"
+        },
+        {
+          "v": 21,
+          "text": "Sady mifanaiky amin’ny fahatahorana an’Andriamanitra."
+        },
+        {
+          "v": 22,
+          "text": "Ianareo vehivavy, maneke ny vadinareo tahaka ny anekena ny Tompo."
+        },
+        {
+          "v": 23,
+          "text": "\"Fa ny lahy no lohan’ny vavy, dia tahaka an’i Kristy koa no Lohan’ny fiangonana; ary Izy no mpamonjy ny tena.\""
+        },
+        {
+          "v": 24,
+          "text": "Fa tahaka ny aneken’ny fiangonana an’i Kristy, no aoka haneken’ny vavy ny lahy koa amin’ny zavatra rehetra."
+        },
+        {
+          "v": 25,
+          "text": "Ianareo lehilahy, tiavo ny vadinareo, dia tahaka ny nitiavan’i Kristy ny fiangonana koa ka nanolorany ny tenany ho azy,"
+        },
+        {
+          "v": 26,
+          "text": "Mba hahamasina azy amin’ny anadiovany azy amin’ny rano fanasana amin’ny teny,"
+        },
+        {
+          "v": 27,
+          "text": "Mba hatolony ho an’ny tenany izany ho fiangonana be voninahitra, tsy misy pentimpentina, na fiketronana, na izay toy izany, fa mba ho masina sady tsy misy tsiny izy."
+        },
+        {
+          "v": 28,
+          "text": "Dia tahaka izany koa, ny lehilahy tokony ho tia ny vadiny tahaka ny tenany ihany. Izay tia ny vadiny dia tia ny tenany."
+        },
+        {
+          "v": 29,
+          "text": "\"Fa tsy mba misy olona tsy tia ny nofony, fa mamelona sy mitaiza azy, dia tahaka ny Tompo amin’ny fiangonana;\""
+        },
+        {
+          "v": 30,
+          "text": "Fa momba ny tenany isika, dia momba ny nofony sy ny taolany."
+        },
+        {
+          "v": 31,
+          "text": "“Ary noho izany ny lehilahy dia handao ny rainy sy ny reniny ka hiray amin’ny vadiny, ary dia ho nofo iray ihany izy roroa”."
+        },
+        {
+          "v": 32,
+          "text": "\"Zava-miafina lehibe izany; fa milaza ny amin’i Kristy sy ny fiangonana aho.\""
+        },
+        {
+          "v": 33,
+          "text": "Na dia izany aza, aoka ny tsirairay avy aminareo ho tia ny vadiny tahaka ny tenany, ary aoka kosa ny vavy hanaja ny lahy."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "v": 1,
+          "text": "Anaka, mankatoava ny ray sy reninareo ao amin’ny Tompo, fa marina izany."
+        },
+        {
+          "v": 2,
+          "text": "\"Manajà ny rainao sy ny reninao fa izany no didy voalohany misy tenifikasana;\""
+        },
+        {
+          "v": 3,
+          "text": "Mba hahita soa ianao sy ho maro andro ambonin’ny tany"
+        },
+        {
+          "v": 4,
+          "text": "Ary ianareo ray, aza mampahatezitra ny zanakareo, fa tezao amin’ny fanabeazana sy ny fananaran’ny Tompo izy."
+        },
+        {
+          "v": 5,
+          "text": "Ianareo mpanompo, mankatoava ny tomponareo araka ny nofo amin’ny fahatahorana sy ny fangovitana, amin’ny fahatsoran’ny fonareo, toy ny fanekena an’i Kristy ihany,"
+        },
+        {
+          "v": 6,
+          "text": "Tsy amin’ny fanompoana eo imaso, tahaka ny mpila sitraka amin’olona, fa tahaka ny mpanompon’i Kristy manao izay sitrapon’Andriamanitra amin’ny fo,"
+        },
+        {
+          "v": 7,
+          "text": "Amin’ny sitrapo manao fanompoana toy ny amin’ny Tompo, fa tsy amin’ny olona,"
+        },
+        {
+          "v": 8,
+          "text": "Satria fantatrareo fa izay soa ataon’ny olona rehetra no horaisiny amin’ny Tompo, na andevo na tsy andevo."
+        },
+        {
+          "v": 9,
+          "text": "\"Ary ianareo tompo, manaova toy izany aminy kosa, ka atsaharo ny fandrahonana, satria fantatrareo fa ny Tompony sady Tomponareo koa dia any an-danitra; ary tsy misy fizahan-tavan’olona aminy.\""
+        },
+        {
+          "v": 10,
+          "text": "Farany, ry rahalahiko, mahereza ao amin’ny Tompo sy amin’ny herin’ny faherezany."
+        },
+        {
+          "v": 11,
+          "text": "Itafio avokoa ny fiadian' Andriamanitra, mba hahazoanareo hifahatra amin’ny fanangolen’ny devoly."
+        },
+        {
+          "v": 12,
+          "text": "Fa isika tsy mitolona amin’ny nofo aman-dra, fa amin’ny fanapahana, sy amin’ny hery, sy amin’ny mpanjakan’ny fahamaizinana eto amin' ity tany ity, ary amin' ny faharatsiana ara-panahy eny amin' ny toerana avo."
+        },
+        {
+          "v": 13,
+          "text": "\"Noho izany, dia raisonareo avokoa ny fiadian’Andriamanitra, mba ahazoanareo hanohitra amin’ny andro mahory; ary rehefa vitanareo avokoa izany, dia hahafahatra ianareo.\""
+        },
+        {
+          "v": 14,
+          "text": "Mifahara àry, ka sikino fahamarinana ny valahanareo, ary mitafia ny rariny ho fiarovan-tratra,"
+        },
+        {
+          "v": 15,
+          "text": "\"Ary kiraroy ny fahavononam-panahy avy amin’ny filazantsaran’ny fihavanana ny tongotrareo;\""
+        },
+        {
+          "v": 16,
+          "text": "Ary ho fanampin’izany rehetra izany dia tano ny finoana ho ampinga, izay hahazoanareo hamono ny zana-tsipìka mirehitra rehetra izay alefan’ilay ratsy."
+        },
+        {
+          "v": 17,
+          "text": "\"Ary raiso ny famonjena ho fiarovan-doha sy ny tenin’Andriamanitra izay sabatry ny fanahy;\""
+        },
+        {
+          "v": 18,
+          "text": "Ary mivavaha mandrakariva ao amin’ny Fanahy amin’ny fivavahana rehetra sy ny fangatahana, ka miambena amin’izany amin’ny faharetana sy ny fitarainana ho an’ny olona masina rehetra,"
+        },
+        {
+          "v": 19,
+          "text": "Ary ho ahy koa, mba homena ahy ny hiloa-bava amin’ny fahasahiana hampahafantatra ny zava-miafin' ny filazantsara,"
+        },
+        {
+          "v": 20,
+          "text": "Fa ambasadaoro migadra noho izany aho, mba hiteny izany amin’ny fahasahiana, araka izay tokony hoteneniko."
+        },
+        {
+          "v": 21,
+          "text": "\"Fa mba ho fantatrareo koa ny toetro sy izay ataoko, dia Tykiko, rahalahy malala sady mpanompo mahatoky ao amin’ny Tompo, no hampahalala anareo ny zavatra rehetra;\""
+        },
+        {
+          "v": 22,
+          "text": "Izy no nirahiko hilaza izany zavatra izany indrindra aminareo, mba ho fantatrareo ny toetray, ary mba hampionona ny fonareo izy."
+        },
+        {
+          "v": 23,
+          "text": "Fiadanana anie ho an’ny rahalahy ary fitiavana mbamin’ny finoana avy amin’Andriamanitra Ray sy Jesosy Kristy Tompo."
+        },
+        {
+          "v": 24,
+          "text": "Ny fahasoavana anie ho an’izay rehetra tia an’i Jesosy Kristy Tompontsika amin’ny tena fahatsoram-po. Amena.(Nosoratan' i Tykiko tany Roma ho an' ny Efesiana)."
+        }
+      ]
+    }
+  ]
+}
