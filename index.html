@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Mes JSON</title>
+</head>
+<body>
+  <h1>Bienvenue</h1>
+  <p>Voici un exemple de lecture du fichier 1.json :</p>
+  <div id="contenu"></div>
+
+  <script>
+    async function chargerJson() {
+      const response = await fetch('1 Jaona.json');
+      const data = await response.json();
+      document.getElementById('contenu').innerText = data.titre1;
+    }
+    chargerJson();
+  </script>
+</body>
+</html>
